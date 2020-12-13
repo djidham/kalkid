@@ -13,7 +13,7 @@ http://iptvtree.net:8080/13319/d3238650/246505
 http://iptvtree.net:8080/13319/d3238650/221016
 #EXTINF:-1 tvg-id="" tvg-name="MY BBC Earth HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY BBC Earth HD
 http://iptvtree.net:8080/13319/d3238650/220362
-#EXTINF:-1 tvg-id="" tvg-name="MY BBC Lifestyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",MY BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC Lifestyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY BBC Lifestyle
 http://iptvtree.net:8080/13319/d3238650/220622
 #EXTINF:-1 tvg-id="" tvg-name="MY CARTOON NETWORK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY CARTOON NETWORK
 http://iptvtree.net:8080/13319/d3238650/220070
@@ -53,9 +53,9 @@ http://iptvtree.net:8080/13319/d3238650/221621
 http://iptvtree.net:8080/13319/d3238650/221610
 #EXTINF:-1 tvg-id="" tvg-name="MY SkyNet Baby TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY SkyNet Baby TV
 http://iptvtree.net:8080/13319/d3238650/221015
-#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",MY SUN MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY SUN MUSIC
 http://iptvtree.net:8080/13319/d3238650/221470
-#EXTINF:-1 tvg-id="" tvg-name="MY Travel Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",MY Travel Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="MY Travel Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY Travel Channel HD
 http://iptvtree.net:8080/13319/d3238650/221077
 #EXTINF:-1 tvg-id="" tvg-name="MY: 8TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY: 8TV
 http://iptvtree.net:8080/13319/d3238650/171968
@@ -548,6 +548,8 @@ http://iptvtree.net:8080/13319/d3238650/197958
 http://iptvtree.net:8080/13319/d3238650/157594
 #EXTINF:-1 tvg-id="" tvg-name="ID: ZBioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDONESIA",ID: ZBioskop
 http://iptvtree.net:8080/13319/d3238650/196456
+
+
 
 
 
