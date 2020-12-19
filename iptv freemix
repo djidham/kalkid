@@ -44,10 +44,7 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44d7d0b008c6972404cfbeadc511a3391a
 
 // OLAHRAGA
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WB19mMZ3_euvXzFrMYJZarEWU_k=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7261/one-championship-collision-course-685579.jpg" group-title="SPORTS",OFF! 
-http://riyancoday.xyz/coday_play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",OFF! 
-http://riyancoday.xyz/coday_play.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZZ3eJa1vaev71aUWQo9nM7siO2I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" tvg-id="RIYAN.ae52c4420e7ed6bee9e69ce83cc4819a.SHINTA" tvg-name"Champions TV 3 (VIDIO)" group-title="SPORTS",Champions TV 3 (VIDIO)
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafdd7d0b008c6972404cfbeadc511a3391a
 
@@ -58,8 +55,6 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326d7d0b008c6972404cfbeadc511a3391a
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HJja29nspdnEGPwI1ru3DBLjfuA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-bdb0e4.jpg" tvg-id="RIYAN.971445ae8c3c7a35c99f34153123d8d6.SHINTA" tvg-name"Zee Bioskop (VIDIO)" group-title="MOVIES",Zee Bioskop (VIDIO)
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856d7d0b008c6972404cfbeadc511a3391a
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9798tHc82V3ub4rQCpsQcq8L6cI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6840/mola-sports-free-9b67d7.jpg" group-title="ENTERTAINMENT",OFF! 
-http://riyancoday.xyz/coday_play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" tvg-id="RIYAN.b23eea997fc007749f7bad1104962aaa.SHINTA" tvg-name"Citra Bioskop (VIDIO)" group-title="MOVIES",Citra Bioskop (VIDIO)
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388d7d0b008c6972404cfbeadc511a3391a
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" tvg-id="RIYAN.5229e02963b64cf4101ef91d32347a46.SHINTA" tvg-name"Citra Drama (VIDIO)" group-title="ENTERTAINMENT",Citra Drama (VIDIO)
@@ -109,138 +104,138 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 
 
 //LOCAL
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL (USEETV)" tvg-id="Riyan.3e313b9badf12632cdae5452d20e1af6.Coday" tvg-name"[CODAY]Trans7",[CODAY]Trans7
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL (USEETV)" tvg-id="Riyan.3e313b9badf12632cdae5452d20e1af6.Coday" tvg-name"Trans7",Trans7
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=8958551386d9326cfaab8bc165346bfb109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_transtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.9b04d152845ec0a378394003c96da594.Coday" tvg-name"[CODAY]TransTV",[CODAY]TransTV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_transtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.9b04d152845ec0a378394003c96da594.Coday" tvg-name"TransTV",TransTV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=3cbcacce0280033198f2da98a2b4e753109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.05311655a15b75fab86956663e1819cd.Coday" tvg-name"[CODAY]Indosiar",[CODAY]Indosiar
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.05311655a15b75fab86956663e1819cd.Coday" tvg-name"Indosiar",Indosiar
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc901553109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_sctv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.fe709c654eac84d5239d1a12a4f71877.Coday" tvg-name"[CODAY]SCTV",[CODAY]SCTV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_sctv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.fe709c654eac84d5239d1a12a4f71877.Coday" tvg-name"SCTV",SCTV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=70b442faf7651ffb07f62cf81fb677b2109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_net_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.eaa32c96f620053cf442ad32258076b9.Coday" tvg-name"[CODAY]Net.",[CODAY]Net.
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_net_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.eaa32c96f620053cf442ad32258076b9.Coday" tvg-name"Net.",Net.
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.03c6b06952c750899bb03d998e631860.Coday" tvg-name"[CODAY]Ruang Trampil",[CODAY]Ruang Trampil
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.03c6b06952c750899bb03d998e631860.Coday" tvg-name"Ruang Trampil",Ruang Trampil
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=8453fa3ef4db49e13abe102f8b39d02b109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useephoto_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ca8155f4d27f205953f9d3d7974bdd70.Coday" tvg-name"[CODAY]Usee Photo",[CODAY]Usee Photo
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useephoto_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ca8155f4d27f205953f9d3d7974bdd70.Coday" tvg-name"Usee Photo",Usee Photo
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=8801872ee9664fceb4e99cc2f64b07e7109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.08c5433a60135c32e34f46a71175850c.Coday" tvg-name"[CODAY]UseePrime",[CODAY]UseePrime
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.08c5433a60135c32e34f46a71175850c.Coday" tvg-name"UseePrime",UseePrime
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=07d8850a87de23b1d542d2c09be94757109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_insert_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.7283518d47a05a09d33779a17adf1707.Coday" tvg-name"[CODAY]Insert",[CODAY]Insert
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_insert_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.7283518d47a05a09d33779a17adf1707.Coday" tvg-name"Insert",Insert
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=e0df5f3dfd2650ae5be9993434e2b2c0109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvri_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.03e0704b5690a2dee1861dc3ad3316c9.Coday" tvg-name"[CODAY]TVRI",[CODAY]TVRI
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvri_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.03e0704b5690a2dee1861dc3ad3316c9.Coday" tvg-name"TVRI",TVRI
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=1103c2eae40993564620d0326beedffc109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jitv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ae5e3ce40e0404a45ecacaaf05e5f735.Coday" tvg-name"[CODAY]JITV",[CODAY]JITV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jitv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ae5e3ce40e0404a45ecacaaf05e5f735.Coday" tvg-name"JITV",JITV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=17014f712db2cb45f1f2ca703c0fa6ea109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_kompastv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.83cdcec08fbf90370fcf53bdd56604ff.Coday" tvg-name"[CODAY]Kompas TV",[CODAY]Kompas TV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_kompastv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.83cdcec08fbf90370fcf53bdd56604ff.Coday" tvg-name"Kompas TV",Kompas TV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=af27b0f197147cee7d7b34b47d6555ac109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.7647966b7343c29048673252e490f736.Coday" tvg-name"[CODAY]Nusantara TV",[CODAY]Nusantara TV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.7647966b7343c29048673252e490f736.Coday" tvg-name"Nusantara TV",Nusantara TV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=771b3ccaa7dc87a12587bc1e6c11d306109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_rtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.6da9003b743b65f4c0ccd295cc484e57.Coday" tvg-name"[CODAY]Rajawali TV",[CODAY]Rajawali TV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_rtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.6da9003b743b65f4c0ccd295cc484e57.Coday" tvg-name"Rajawali TV",Rajawali TV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=9fe7c84b8253e88099d47237e0b7367c109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_rri_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.86e8f7ab32cfd12577bc2619bc635690.Coday" tvg-name"[CODAY]RRI NET",[CODAY]RRI NET
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_rri_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.86e8f7ab32cfd12577bc2619bc635690.Coday" tvg-name"RRI NET",RRI NET
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=a2037d2d5e3207423a3557aeb728e9b8109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_antara_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.6395ebd0f4b478145ecfbaf939454fa4.Coday" tvg-name"[CODAY]Antara",[CODAY]Antara
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_antara_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.6395ebd0f4b478145ecfbaf939454fa4.Coday" tvg-name"Antara",Antara
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=cff1f0f0eff214cf9011d2e73d6e0b40109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_balitv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ca75910166da03ff9d4655a0338e6b09.Coday" tvg-name"[CODAY]Bali TV",[CODAY]Bali TV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_balitv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.ca75910166da03ff9d4655a0338e6b09.Coday" tvg-name"Bali TV",Bali TV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=e01949dd5646cf5a41b524ac1dbe6106109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.3f67fd97162d20e6fe27748b5b372509.Coday" tvg-name"[CODAY]Berita Satu",[CODAY]Berita Satu
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.3f67fd97162d20e6fe27748b5b372509.Coday" tvg-name"Berita Satu",Berita Satu
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=af8fd35b1a19061999dd20dfdbbfa87c109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.b137fdd1f79d56c7edf3365fea7520f2.Coday" tvg-name"[CODAY]JakTV",[CODAY]JakTV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.b137fdd1f79d56c7edf3365fea7520f2.Coday" tvg-name"JakTV",JakTV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=eba3382a1ed6c79d282bee877788a572109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.4462bf0ddbe0d0da40e1e828ebebeb11.Coday" tvg-name"[CODAY]JTV",[CODAY]JTV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_jtv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.4462bf0ddbe0d0da40e1e828ebebeb11.Coday" tvg-name"JTV",JTV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=c61ed732b4f9bafe14de9fe1e6eba245109ac3041ec25ad69ff136c043aa0512
 
 
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.192fc044e74dffea144f9ac5dc9f3395.Coday" tvg-name"[CODAY]TV Edukasi",[CODAY]TV Edukasi
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.192fc044e74dffea144f9ac5dc9f3395.Coday" tvg-name"TV Edukasi",TV Edukasi
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=68897683afbfe2581262317cba55352b109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.3dc4876f3f08201c7c76cb71fa1da439.Coday" tvg-name"[CODAY]Daai TV",[CODAY]Daai TV
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?id=8" group-title="LOCAL (USEETV)" tvg-id="Riyan.3dc4876f3f08201c7c76cb71fa1da439.Coday" tvg-name"Daai TV",Daai TV
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=896b0fbfbabb563e7a17b77846bb4c35109ac3041ec25ad69ff136c043aa0512
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] ANTV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png?cdy=8.8.8.8" group-title="OXYGEN", ANTV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=ozSanD==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c9917a03b2b782028515.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TV ONE
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c9917a03b2b782028515.png?cdy=8.8.8.8" group-title="OXYGEN", TV ONE
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2yvLKV=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] NET TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png?cdy=8.8.8.8" group-title="OXYGEN", NET TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=LKWaM2x=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] METRO TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg?cdy=8.8.8.8" group-title="OXYGEN", METRO TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=raWaMJWanD==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TVRI NASIONAL
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg?cdy=8.8.8.8" group-title="OXYGEN", TVRI NASIONAL
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2yyqt==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] SCTV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png?cdy=8.8.8.8" group-title="OXYGEN", SCTV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=MaOanD==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TRANS 7
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png?cdy=8.8.8.8" group-title="OXYGEN", TRANS 7
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2IhLJL3
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TRANS TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png?cdy=8.8.8.8" group-title="OXYGEN", TRANS TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2IhLJManD==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/38b921488d46eff4c6d6.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] INDOSIAR
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/38b921488d46eff4c6d6.png?cdy=8.8.8.8" group-title="OXYGEN", INDOSIAR
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=qzSkLzM2ozH=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] JAK TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg?cdy=8.8.8.8" group-title="OXYGEN", JAK TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=q254M2x=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/797226b837e2ea8f087d.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] MATRIX TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/797226b837e2ea8f087d.jpg?cdy=8.8.8.8" group-title="OXYGEN", MATRIX TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=rz5aMKMeM2x=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e4dfde2c20583ebd204.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] DAAI INDONESIA
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e4dfde2c20583ebd204.png?cdy=8.8.8.8" group-title="OXYGEN", DAAI INDONESIA
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=pJ5hqzqc
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fec4c98cea3945097dd.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] LEJEL HS
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fec4c98cea3945097dd.jpg?cdy=8.8.8.8" group-title="OXYGEN", LEJEL HS
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=rKW3pay1Mt==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/52bec920962e5b131d18.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] NUSANTARA TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/52bec920962e5b131d18.png?cdy=8.8.8.8" group-title="OXYGEN", NUSANTARA TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=LJuzozSaozIhM2x=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/9201a23fd024eaa0ccd1.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] BN TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/9201a23fd024eaa0ccd1.jpg?cdy=8.8.8.8" group-title="OXYGEN", BN TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=o2RgM2x=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a0b35b35b230211e60ed.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] RRI NET
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a0b35b35b230211e60ed.jpg?cdy=8.8.8.8" group-title="OXYGEN", RRI NET
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=MJI2YJSlMj==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/f8dfbcb9d7c1c80f1731.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] PERSIJA TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/f8dfbcb9d7c1c80f1731.png?cdy=8.8.8.8" group-title="OXYGEN", PERSIJA TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=L3WyMaM3ozqc
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d8611b639307ee6fce8e.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] KOMPAS TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d8611b639307ee6fce8e.png?cdy=8.8.8.8" group-title="OXYGEN", KOMPAS TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=rTW6L25zM2x=
 
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c10eb710b32d995c32eb.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] RTV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c10eb710b32d995c32eb.png?cdy=8.8.8.8" group-title="OXYGEN", RTV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=MJqc
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2c6b74b452fa9cf7da7f.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] O CHANNEL
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2c6b74b452fa9cf7da7f.png?cdy=8.8.8.8" group-title="OXYGEN", O CHANNEL
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=LaO1ozSupax=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a62d2ca171291b700909.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] MAGNA TV
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a62d2ca171291b700909.png?cdy=8.8.8.8" group-title="OXYGEN", MAGNA TV
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=rz50LJ5anD==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/0eb528acf376b17cc57f.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TV EDUKASI
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/0eb528acf376b17cc57f.png?cdy=8.8.8.8" group-title="OXYGEN", TV EDUKASI
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2ylpJu4ozM2
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TOONMAX
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png?cdy=8.8.8.8" group-title="OXYGEN", TOONMAX
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2WvLKchnj==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba0708dd596e739e5a1c.jpg?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] SPACETOON
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba0708dd596e739e5a1c.jpg?cdy=8.8.8.8" group-title="OXYGEN", SPACETOON
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=MzAhpUWaLzWu
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1472ce7f31b93a6fed7f.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] EBS KIDS
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1472ce7f31b93a6fed7f.png?cdy=8.8.8.8" group-title="OXYGEN", EBS KIDS
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=pz9zrUMkMt==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4361f515f6f4713d61e8.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] CHANNEL V CHINA
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4361f515f6f4713d61e8.png?cdy=8.8.8.8" group-title="OXYGEN", CHANNEL V CHINA
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=nKO1qzSh
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] B4U MUSIC
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png?cdy=8.8.8.8" group-title="OXYGEN", B4U MUSIC
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=omEbrzuzqaO2LKS2ot==
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b7e28ec799d372608cb5.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] MTV CHINA
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b7e28ec799d372608cb5.png?cdy=8.8.8.8" group-title="OXYGEN", MTV CHINA
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=rzqcpUI2LJ4=
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png?cdy=8.8.8.8" group-title="OXYGEN",[CODAY TV] TVRI SPORT
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png?cdy=8.8.8.8" group-title="OXYGEN", TVRI SPORT
 http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=M2yyqzMwLzIa
 
 // HBO ID CODAY
@@ -272,20 +267,20 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d58b5ca9f11393f1d8534f169bcf0d18b1
 
 //MALAYSIA BY @RIYANCODAY, JANGAN DI COPAS ANJING !
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/dramasangat.png?cdy=8.8.8.8" group-title="MALAYSIA",[CODAY] Drama Sangat 
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/dramasangat.png?cdy=8.8.8.8" group-title="MALAYSIA", Drama Sangat 
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=1895eda7cc86aa8524b6736bebad630beffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv9.png?cdy=8.8.8.8" group-title="MALAYSIA",[CODAY] TV9 
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv9.png?cdy=8.8.8.8" group-title="MALAYSIA", TV9 
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=f031684a91618663edc26637eb11563ceffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv8.png?cdy=8.8.8.8" group-title="MALAYSIA",[CODAY] TV8 
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv8.png?cdy=8.8.8.8" group-title="MALAYSIA", TV8 
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=579470b59158da9ed1d6684c905f684ceffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
-#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvTV1logo-New2.jpg" group-title="MALAYSIA",[CODAY] TV1
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg" group-title="MALAYSIA",[CODAY] TV2
-#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" group-title="MALAYSIA",[CODAY] TV Okey
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="MALAYSIA",[CODAY] Berita RTM
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" group-title="MALAYSIA",[CODAY] RTM Sports
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/ntv7.png?cdy=8.8.8.8" group-title="MALAYSIA",[CODAY] VNTV7 
+#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvTV1logo-New2.jpg" group-title="MALAYSIA", TV1
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg" group-title="MALAYSIA", TV2
+#EXTINF:-1 tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" group-title="MALAYSIA", TV Okey
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="MALAYSIA", Berita RTM
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" group-title="MALAYSIA", RTM Sports
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/ntv7.png?cdy=8.8.8.8" group-title="MALAYSIA", VNTV7 
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=4794fc96f4b6f9487c244baa337c62ebeffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv3.png?cdy=8.8.8.8" group-title="MALAYSIA",[CODAY] TV3
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/tv3.png?cdy=8.8.8.8" group-title="MALAYSIA", TV3
 
 //KIDS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png?id=8" group-title="KIDS" tvg-id="Riyan.c559da2ba967eb820766939a658022c8.Coday" tvg-name"Baby First (USEETV)",Baby First (USEETV)
@@ -352,8 +347,7 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=0990fc3dbc01e3b6026e8a1860bd3d31609732975594c8a8987ca2d1bc5c136c
 
 // SPORTS
-#EXTINF:-1 tvg-logo="http://c0day.my.id/coday.jpg" group-title="SPORTS",[CODAY] YALLA SPORTS (01)
-#EXTINF:-1 tvg-logo="http://c0day.my.id/coday.jpg" group-title="SPORTS",[CODAY] YALLA SPORTS (02)
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.6ea9ab1baa0efb9e19094440c317e21b.Coday" tvg-name"beIN Sport 1 (USEETV)",beIN Sport 1 (USEETV)
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce67cdd29f04447e682fb154d81a65b382b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.a1d0c6e83f027327d8461063f4ac58a6.Coday" tvg-name"beIN Sport 2 (USEETV)",beIN Sport 2 (USEETV)
@@ -380,11 +374,11 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 
 // MOVIES
 
-#EXTINF:-1 tvg-logo="https://c0day.my.id/images/romedy_now.png" group-title="MOVIES",(CODAY) Romedy Now
+#EXTINF:-1 tvg-logo="https://c0day.my.id/images/romedy_now.png" group-title="MOVIES", Romedy Now
 https://c0day.my.id/shintacoday/romedy-now.m3u8
-#EXTINF:-1 tvg-logo="https://c0day.my.id/images/movies_now.png" group-title="MOVIES",(CODAY) Movies Now
+#EXTINF:-1 tvg-logo="https://c0day.my.id/images/movies_now.png" group-title="MOVIES", Movies Now
 https://c0day.my.id/shintacoday/movies-now.m3u8
-#EXTINF:-1 tvg-logo="https://c0day.my.id/images/mnx.png" group-title="MOVIES",(CODAY) MNX
+#EXTINF:-1 tvg-logo="https://c0day.my.id/images/mnx.png" group-title="MOVIES", MNX
 https://c0day.my.id/shintacoday/mnx.m3u8
 #EXTINF:-1 tvg-logo="https://c0day.my.id/images/ainostv.png" group-title="MOVIES",Ainos TV (nin) 
 https://5d63d49f772ce.streamlock.net/ainostv/udp.stream_360p/playlist.m3u8
@@ -520,456 +514,456 @@ http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cod
 //VIDIO PREMIUM by @RiyanCoday
 
 // RADIO
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DbBj5ccWTHc65kGu6608QP7OCYc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO",[CODAY] Ardan Radio
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DbBj5ccWTHc65kGu6608QP7OCYc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO", Ardan Radio
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=0e674a918ebca3f78bfe02e2f387689def45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO",[CODAY] MGTRADIO
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO", MGTRADIO
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=d073bb8d0c47f317dd39de9c9f004e9def45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oj6YyMLXBYx6etq-_OIyff0fMiI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO",[CODAY] Elshinta 90 FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oj6YyMLXBYx6etq-_OIyff0fMiI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO", Elshinta 90 FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=19f01591b6ca3ba03f1aedc8db12cdb9ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T4UHo0LCl-climV31E81V2d9YgA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO",[CODAY] Delta FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T4UHo0LCl-climV31E81V2d9YgA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO", Delta FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=d4a93297083a23cc099f7bd6a8621131ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FSRRuSZqUfxjga5I8S1_kisObU0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO",[CODAY] Bahana FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FSRRuSZqUfxjga5I8S1_kisObU0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO", Bahana FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=328347805873e9a9c700591812fb0ec2ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-y11cfX-d77Xfd8DTeRjp17ejYo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO",[CODAY] Female FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-y11cfX-d77Xfd8DTeRjp17ejYo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO", Female FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=9afbe998374ca7326d35d84180786096ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/57jrOGpbmYOdNY7aHVqGd2qPITA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO",[CODAY] i-Radio
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/57jrOGpbmYOdNY7aHVqGd2qPITA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO", i-Radio
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=c4bfbf68f5d8d0f8b9a0752ca08ea01def45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DrxV76AUlmb94CTMuxJ6CBPluaE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="RADIO",[CODAY] Trax FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DrxV76AUlmb94CTMuxJ6CBPluaE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="RADIO", Trax FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=e143c01e314f7b950daca31188cb5d0fef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YBRzjHB0WdpbFqML5KeaGwS87aI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO",[CODAY] Brava Radio
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YBRzjHB0WdpbFqML5KeaGwS87aI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO", Brava Radio
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=812469e49663025b39e8d25fdaad81a7ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgrzkneEj4mt36hQyoeRYHSwGOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO",[CODAY] Hard Rock FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgrzkneEj4mt36hQyoeRYHSwGOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO", Hard Rock FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=dfc69ee4c48a622e2bcda2c3d2a219d0ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VFEP9jF-lVgH-yKeTVihzbYM92k=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO",[CODAY] Cosmopolitan FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VFEP9jF-lVgH-yKeTVihzbYM92k=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO", Cosmopolitan FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=ced92d38d8fec10f1da779dfa44f8bbeef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HlUZ047VwHBwWe9SYkb782uRSSw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-497a58.jpg" group-title="RADIO",[CODAY] Prambors On Air
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HlUZ047VwHBwWe9SYkb782uRSSw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-497a58.jpg" group-title="RADIO", Prambors On Air
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=315b4df935f4775ef5033a4833a9e0e1ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO",[CODAY] ELGANGGA
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO", ELGANGGA
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=b44182379bf9fae976e6ae5996e13cd8ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO",[CODAY] Geronimo
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO", Geronimo
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=994d1cad9132e48c993d58b492f71fc1ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO",[CODAY] ELMITRA
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO", ELMITRA
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=9eb53b5052d534ea2619ca03b5649af7ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lwTyMxVS5rZJEx8enJ-AIGtfgtc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO",[CODAY] Dahlia FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lwTyMxVS5rZJEx8enJ-AIGtfgtc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO", Dahlia FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=a09b68ada5e8b2060f380a53c02cf3d8ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5Z0S8S-qTr50wyzwpQOncE6jsc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO",[CODAY] SWARAGAMA FM Jogja !
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5Z0S8S-qTr50wyzwpQOncE6jsc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO", SWARAGAMA FM Jogja !
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=1f4183315762e30ea441d3caef5e64adef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JEAFdxncphI9NZIpRaIMCJsp0l8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO",[CODAY] Imelda FM
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JEAFdxncphI9NZIpRaIMCJsp0l8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO", Imelda FM
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=701d804549a4a23d3cae801dac6c2c75ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/18lCPF0r-GxnzqMssQk3QYfZbec=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO",[CODAY] Sushi Radio
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/18lCPF0r-GxnzqMssQk3QYfZbec=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO", Sushi Radio
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=e7d6e2e80f0955c01f3e043ee79abbb6ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0QlHgn8G8mWV_BtoVTFguAsdq4o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO",[CODAY] GAJAHMADA
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0QlHgn8G8mWV_BtoVTFguAsdq4o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO", GAJAHMADA
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=ac450d10e166657ec8f93a1b65ca1b14ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u_TFz7CXswyM5PaK7NXzLCKrMS0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO",[CODAY] SWARA SEMARANG
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u_TFz7CXswyM5PaK7NXzLCKrMS0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO", SWARA SEMARANG
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=f82798ec8909d23e55679ee26bb26437ef45d6f24422aa1fac695d6ab396c113
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",[CODAY] Radio Cakra
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO", Radio Cakra
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962fef45d6f24422aa1fac695d6ab396c113
 
 
 //VIDIO PREMIUM by @RiyanCoday
 
 // VOD
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Reef
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Reef
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039ccecd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Eiffel I'm in Love
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Eiffel I'm in Love
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb6cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Bridge to Terabithia
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Bridge to Terabithia
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33ecd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Gerbang Neraka
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Gerbang Neraka
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fdacd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Stand By Me Doraemon
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Stand By Me Doraemon
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe275cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Kartini
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Kartini
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a00205973887cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Soekarno
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Soekarno
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec305cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Red Cobex
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Red Cobex
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a2e709146ef3fac9d94e090de6934f90cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Si Jago Merah
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Si Jago Merah
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fcecd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Tanah Surga... Katanya
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Tanah Surga... Katanya
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=773b764edf78ca824aa88973530f0227cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Calon Bini
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Calon Bini
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d621cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Laskar Pelangi
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Laskar Pelangi
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf18033486492cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Yowis Ben
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Yowis Ben
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab397cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Susah Sinyal
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Susah Sinyal
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811aecd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Sesuai Aplikasi
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Sesuai Aplikasi
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a60cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Ngenest
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Ngenest
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d59cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Generasi Micin vs. Kevin
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Generasi Micin vs. Kevin
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace813933cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Orang Kaya Baru
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Orang Kaya Baru
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf599cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Raid
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Raid
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed55cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Raid 2: Berandal
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Raid 2: Berandal
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f36cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Underdogs
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Underdogs
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5aecd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Godain Kita Dong
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Warkop DKI - Godain Kita Dong
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f05884cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Train to Busan
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Train to Busan
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d8cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Malu Malu Mau
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Warkop DKI - Malu Malu Mau
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b28cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Saya Suka Kamu Punya
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Warkop DKI - Saya Suka Kamu Punya
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3ccd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Kawin Kontrak
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Kawin Kontrak
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529abcd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Kawin Kontrak Lagi
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Kawin Kontrak Lagi
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9accd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Kawin Kontrak 3
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Kawin Kontrak 3
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa4002702cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Itu Bisa Diatur
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Warkop DKI - Itu Bisa Diatur
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a3cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Bebas Aturan Main
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Warkop DKI - Bebas Aturan Main
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b1cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Tarix Jabrix
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c3cd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix 2
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Tarix Jabrix 2
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1ccd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix 3
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Tarix Jabrix 3
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241bcd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] Get Married 5 – 99% Muhrim
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", Get Married 5 – 99% Muhrim
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78dcd679f7ca1c16eaa79fa8f982660398a
-#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix 3
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="VOD CODAY", The Tarix Jabrix 3
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241bcd679f7ca1c16eaa79fa8f982660398a
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/G3n7a6sc-TNGe19qzdbmi4mH_R4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750449/images/ets-episode-201-1-4ad6-640x360-00049.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 1
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/G3n7a6sc-TNGe19qzdbmi4mH_R4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750449/images/ets-episode-201-1-4ad6-640x360-00049.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 1
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=a8459a03ad3f780d36630005d8f009e03b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/n-812kUqdNhboQyXxfo_mgS2Os8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750458/images/ets-episode-202-1-fce5-640x360-00042.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 2
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/n-812kUqdNhboQyXxfo_mgS2Os8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750458/images/ets-episode-202-1-fce5-640x360-00042.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 2
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=70a97129e7b8d32bf6d4a31f4b99936b3b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xyaLzlRWqf94UiISFtXVCv1niPc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750475/images/ets-episode-203-1-e688-640x360-00042.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 3
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xyaLzlRWqf94UiISFtXVCv1niPc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750475/images/ets-episode-203-1-e688-640x360-00042.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 3
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=177a035b1df58d9c2bd9af3db2931b613b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/nS2dPM3gEN69cftXi9znJUlgKBs=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750487/images/ets-episode-204-1-0850-640x360-00049.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 4
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/nS2dPM3gEN69cftXi9znJUlgKBs=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750487/images/ets-episode-204-1-0850-640x360-00049.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 4
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f2a9a5b4b4369a65114ba32a6db1ae793b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cmflgRx27BCD4EeAe4gaqeZYkPk=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750490/images/ets-episode-205-1-c2a1-640x360-00043.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 5
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cmflgRx27BCD4EeAe4gaqeZYkPk=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750490/images/ets-episode-205-1-c2a1-640x360-00043.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 5
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=3275816bb0dcd1a02e64a9a0ecc7672b3b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zrWv68nigD8tY4KPiEQFOfaHBEY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750499/images/ets-episode-206-1-b74f-640x360-00043.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 6
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zrWv68nigD8tY4KPiEQFOfaHBEY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750499/images/ets-episode-206-1-b74f-640x360-00043.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 6
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=c612b6c274bf9aff16d0a85e6f590c883b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IzfVyZRpL6iet2foT0cjyu_rmao=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750508/images/ets-episode-207-1-2f9c-640x360-00050.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 7
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IzfVyZRpL6iet2foT0cjyu_rmao=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750508/images/ets-episode-207-1-2f9c-640x360-00050.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 7
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=c484bcc6d4dafc8d93263010e1cc71693b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-x976gGACuCa4HYc8FoUlENi1K0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750528/images/ets-episode-208-1-86b4-640x360-00046.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-x976gGACuCa4HYc8FoUlENi1K0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750528/images/ets-episode-208-1-86b4-640x360-00046.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 8
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=c0f9e66148dfce08784dd3ef3d1a8b073b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xWXx-X5ReiiE9YEUHlPn_09JZI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750543/images/ets-episode-209-1-ec4a-640x360-00045.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 9
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xWXx-X5ReiiE9YEUHlPn_09JZI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750543/images/ets-episode-209-1-ec4a-640x360-00045.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 9
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=4b5ea1f156c0a50451806df244e527fe3b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lfmEpYWVBnimCcXA0HNGL4QTvU0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750569/images/ets-episode-2010-1-bd33-640x360-00051.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 10
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lfmEpYWVBnimCcXA0HNGL4QTvU0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750569/images/ets-episode-2010-1-bd33-640x360-00051.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 10
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=3431b0eceb3625a3f3a92c04835439a43b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WJIRDnD3ICR4LFuxdaWmvTjjgps=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750571/images/ets-episode-2011-1-db38-640x360-00046.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 11
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WJIRDnD3ICR4LFuxdaWmvTjjgps=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750571/images/ets-episode-2011-1-db38-640x360-00046.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 11
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=bf720e334199ffae21e96a3f8b7b4c243b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jgn_btLdI29hiUJamzYo2d3e44I=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750625/images/ets-episode-2012-1-1038-640x360-00046.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 12
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jgn_btLdI29hiUJamzYo2d3e44I=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750625/images/ets-episode-2012-1-1038-640x360-00046.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 12
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=2bf977f35cd9fafb190b081897411c3d3b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WokRM00QZSnOAfxDDZJvmuN7kDI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750626/images/ets-episode-2013-1-1e7b-640x360-00052.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 13
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WokRM00QZSnOAfxDDZJvmuN7kDI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750626/images/ets-episode-2013-1-1e7b-640x360-00052.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 13
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=a54e981b1bd412ab6aec2e457ad423893b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DUO-wchBhTMARmarnfLCPlURDc0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750637/images/ets-episode-2014-1-b9c7-640x360-00053.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 14
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DUO-wchBhTMARmarnfLCPlURDc0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750637/images/ets-episode-2014-1-b9c7-640x360-00053.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 14
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=9102787c398426a7f27e37ddf38b56973b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_NeHyzNAg7Bnc9Mt_pqR88klH8o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750638/images/ets-episode-2015-1-cac9-640x360-00045.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 15
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_NeHyzNAg7Bnc9Mt_pqR88klH8o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750638/images/ets-episode-2015-1-cac9-640x360-00045.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 15
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=3793ac6e45bceda71a65b9c6145a74583b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2SsE0G4j3cEumotwleCfYyZ9Ooc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750655/images/ets-episode-2016-1-2839-640x360-00048.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 16
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2SsE0G4j3cEumotwleCfYyZ9Ooc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750655/images/ets-episode-2016-1-2839-640x360-00048.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 16
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=d33069853f307104bd14ed3e5ea3c04b3b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuWqrJGip63Jmpgou5Vlc_rvE24=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750657/images/ets-episode-2017-1-a46b-640x360-00051.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 17
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EuWqrJGip63Jmpgou5Vlc_rvE24=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750657/images/ets-episode-2017-1-a46b-640x360-00051.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 17
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=a65572dc7493637c1de29c35962027193b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fHk82GQhPdl8us-l5o-0MU5k4tM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750680/images/ets-episode-2018-1-6df8-640x360-00046.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 18
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fHk82GQhPdl8us-l5o-0MU5k4tM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750680/images/ets-episode-2018-1-6df8-640x360-00046.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 18
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=c687fc90adcd2479f977818814f6c9103b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TzI3F9o385QU0nBIwXvRQOzaxDo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750681/images/ets-episode-2019-1-d6b7-640x360-00045.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 19
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TzI3F9o385QU0nBIwXvRQOzaxDo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750681/images/ets-episode-2019-1-d6b7-640x360-00045.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 19
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=d2839a88ea1d4fcf58397fb14a819ff63b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/OvNZy3oBH9CQwv31pgMNDWZP3wg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750693/images/ets-episode-2021-1-eb39-640x360-00051.jpg" group-title="VOD BERNARD BEAR",[CODAY] Bernard Bear  Episode 21
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/OvNZy3oBH9CQwv31pgMNDWZP3wg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1750693/images/ets-episode-2021-1-eb39-640x360-00051.jpg" group-title="VOD BERNARD BEAR", Bernard Bear  Episode 21
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ed625b3da39d7eeea079b6c2f622cee63b0b12ab6ac366189fab57e63708efb0
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Zk9C-gBoUfYeUfheni0qNYU1UFQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029113/images/ets2_premier_ETS27808c1c4d341dbbd_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 01  Popo and Pipi
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Zk9C-gBoUfYeUfheni0qNYU1UFQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029113/images/ets2_premier_ETS27808c1c4d341dbbd_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 01  Popo and Pipi
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=fd19f54489551870c26f270ebcd56fe4bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kZq-31VfibGrpwv5luxRjq5KxY8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029114/images/ets2_premier_ETS294789b046534ce9b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 02  Everything Looks Amazing
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kZq-31VfibGrpwv5luxRjq5KxY8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029114/images/ets2_premier_ETS294789b046534ce9b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 02  Everything Looks Amazing
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=83b5135efce2989dc62ad1a03f6945adbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1Wgl0a1kaNuSFpZcwbQOYIElIC8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029115/images/ets2_premier_ETS25c304bd6797fd97c_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 03  Rody is Born
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1Wgl0a1kaNuSFpZcwbQOYIElIC8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029115/images/ets2_premier_ETS25c304bd6797fd97c_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 03  Rody is Born
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=20d1c61009118d4f92dd0341c2610918bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NGkWPDGni8mS9AiOgxQLo78YOF4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029116/images/ets2_premier_ETS25490efb45b15ef8a_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 04  Happy Rody
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NGkWPDGni8mS9AiOgxQLo78YOF4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029116/images/ets2_premier_ETS25490efb45b15ef8a_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 04  Happy Rody
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ff6e2318da7323f4249db64a2fd5c552bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4Tu45OyuybuxMLnRruTdpGeuu3o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029117/images/ets2_premier_ETS2055bc18526c3df5b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 05  Toy Plane
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4Tu45OyuybuxMLnRruTdpGeuu3o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029117/images/ets2_premier_ETS2055bc18526c3df5b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 05  Toy Plane
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=2793cd7dac37937ee77b550058e9ee64bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I7UwISgdiNr3Bqc2qncVL3GmmMA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029118/images/ets2_premier_ETS2d5f0784e6a7f031f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 06  Dragon the Magician
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I7UwISgdiNr3Bqc2qncVL3GmmMA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029118/images/ets2_premier_ETS2d5f0784e6a7f031f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 06  Dragon the Magician
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=069fa8b3c1474630cab26538f3ff8bfbbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pEnDDVkqBpx5MM6ZYoX_G9xiw34=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029120/images/ets2_premier_ETS299a864c59b4c64ca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 08  Mighty Harry
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pEnDDVkqBpx5MM6ZYoX_G9xiw34=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029120/images/ets2_premier_ETS299a864c59b4c64ca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 08  Mighty Harry
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=43a0e41579282c1d7e4061705a0866dfbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CQb5MaNRN0y2n4OnPYImtlmUg9M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029121/images/ets2_premier_ETS265e9149694eda56d_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 09  Catch the Big Fish
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CQb5MaNRN0y2n4OnPYImtlmUg9M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029121/images/ets2_premier_ETS265e9149694eda56d_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 09  Catch the Big Fish
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=e7c9cda0b22bd17ec0de9847a137ddd6bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xAt7PEYUXIbANPwemtJjQjnQqAo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029122/images/ets2_premier_ETS24c92bdd0b88d14a9_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 10  Its My Toy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xAt7PEYUXIbANPwemtJjQjnQqAo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029122/images/ets2_premier_ETS24c92bdd0b88d14a9_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 10  Its My Toy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0ea8445df87f037ee4ca7cf36cb7631dbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RZnyyF5lL7WgOVdS81Lj1zNg_ys=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029123/images/ets2_premier_ETS23da19a47ab59a5d8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 11  Princess Loopy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RZnyyF5lL7WgOVdS81Lj1zNg_ys=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029123/images/ets2_premier_ETS23da19a47ab59a5d8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 11  Princess Loopy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=4988ef84f82dc8c99d5ed0f3161e9de2bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz2HIM2KqarbKL7uBtkW21zDlaw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029124/images/ets2_premier_ETS269e9ff8f4dabaa52_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 12  Strange Soccer
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz2HIM2KqarbKL7uBtkW21zDlaw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029124/images/ets2_premier_ETS269e9ff8f4dabaa52_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 12  Strange Soccer
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ded016cf35d2a1fcd56a570e6d79173abf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4iUJ5dpDqlvIuBDvWAE-9AdaeeI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029125/images/ets2_premier_ETS2ece082c5eefed9d1_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 13  Watch Out Eddy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4iUJ5dpDqlvIuBDvWAE-9AdaeeI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029125/images/ets2_premier_ETS2ece082c5eefed9d1_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 13  Watch Out Eddy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=e50fcebe6c4f5319348edafd62bb15cabf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5GWD_sX-lV3g9ial9oyIZAPzVvY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029126/images/ets2_premier_ETS2a845997c6f127b41_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 14  Cooking Trouble
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5GWD_sX-lV3g9ial9oyIZAPzVvY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029126/images/ets2_premier_ETS2a845997c6f127b41_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 14  Cooking Trouble
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=556bcad02b544ac01069693d9c2812b3bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L--QEsL5Vh_eTf7Pz6pKvnvAl6Y=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029127/images/ets2_premier_ETS2b5417d3c8d96caca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 15  Clumsy Magician
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L--QEsL5Vh_eTf7Pz6pKvnvAl6Y=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029127/images/ets2_premier_ETS2b5417d3c8d96caca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 15  Clumsy Magician
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=207d4bdc1cb876f2bf6898bb3a3933b4bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KGgpusFoXcvzUSjeWXpVP4lij50=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029128/images/ets2_premier_ETS2257892b8dd11f99b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 16  Weather Forecast
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KGgpusFoXcvzUSjeWXpVP4lij50=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029128/images/ets2_premier_ETS2257892b8dd11f99b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 16  Weather Forecast
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f2b85f7c9e7cff36aaf92e5c144e9edcbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rzvEqxyrdgbB3VqXQFIMB88mK0A=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029129/images/ets2_premier_ETS25d5b53cb64f72750_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 17  Thanks Eddy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rzvEqxyrdgbB3VqXQFIMB88mK0A=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029129/images/ets2_premier_ETS25d5b53cb64f72750_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 17  Thanks Eddy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=aad3e68f447b24b369d48f78cc9dcccfbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gO280CUQmsbOPfbbHo8IH087dwY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029130/images/ets2_premier_ETS271ad534642279240_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 18  Loopys Present
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gO280CUQmsbOPfbbHo8IH087dwY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029130/images/ets2_premier_ETS271ad534642279240_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 18  Loopys Present
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=d28ee1d7ea438d86fca1afae8c72f997bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lhFTLw3dnGFX3BJEUz5pP-Fefqw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029131/images/ets2_premier_ETS22f6d3d3215f705c8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 19  Play with Crong
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lhFTLw3dnGFX3BJEUz5pP-Fefqw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029131/images/ets2_premier_ETS22f6d3d3215f705c8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 19  Play with Crong
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=5abad18f02214c9cc9968ec8015127c7bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8W1Lbr2N-pa4hIkPLsM2-VWyuH0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029133/images/ets2_premier_ETS21c42540a15875ad4_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 20  Flying Poby
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8W1Lbr2N-pa4hIkPLsM2-VWyuH0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029133/images/ets2_premier_ETS21c42540a15875ad4_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 20  Flying Poby
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=cdeb85deed1d29d7435c32903130264cbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aQgczilCmxWbcVkbIToDSzfPby8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029145/images/ets2_premier_ETS22ae4898f2421c3a5_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 21  Petty the Red Riding Hood
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aQgczilCmxWbcVkbIToDSzfPby8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029145/images/ets2_premier_ETS22ae4898f2421c3a5_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 21  Petty the Red Riding Hood
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=1a938350066de85fbfedf8f54bb893cfbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tDGJi1lSmAtg7OYlTeEtTZKcnZ8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029146/images/ets2_premier_ETS2a1405b7b1ed6f20f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 22  Baseball Star Rody
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tDGJi1lSmAtg7OYlTeEtTZKcnZ8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029146/images/ets2_premier_ETS2a1405b7b1ed6f20f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 22  Baseball Star Rody
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f0a3ac80e13a79c8f7d9e7774cdde700bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xFFPX0T3kaXhnHdJnrhdf09xP5M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029147/images/ets2_premier_ETS2df4fc4756704e0ce_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 23  Playful Nyao
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xFFPX0T3kaXhnHdJnrhdf09xP5M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029147/images/ets2_premier_ETS2df4fc4756704e0ce_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 23  Playful Nyao
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=db0fcb7f88986d976c1563cf46ec5c93bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_l7mEQ2vqALSrpPI-jnmLpFo9VM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029148/images/ets2_premier_ETS281485111b2c53269_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 24  Petty and Nyao
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_l7mEQ2vqALSrpPI-jnmLpFo9VM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029148/images/ets2_premier_ETS281485111b2c53269_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 24  Petty and Nyao
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=69c67f7f6bc5ffe8f40a6306ac1e5c24bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Uu9wSSq86gzW4imUzbFej1_ge38=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029149/images/ets2_premier_ETS24fb97bc7ee3a799e_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 25  Mischievous Wind
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Uu9wSSq86gzW4imUzbFej1_ge38=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029149/images/ets2_premier_ETS24fb97bc7ee3a799e_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 25  Mischievous Wind
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f2a22303b57a87b0be38455b2c615c2cbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QFs2eNbbK7IkvlwlCuZHrizLvNA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029150/images/ets2_premier_ETS21e9fb6c1b903263f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 26  Poby is Missing
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QFs2eNbbK7IkvlwlCuZHrizLvNA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029150/images/ets2_premier_ETS21e9fb6c1b903263f_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 26  Poby is Missing
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=54668adf33a0d3542064bf91be26ecafbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qTc-DMQ4NV39_ahoBDV_Un0UF_c=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029151/images/ets2_premier_ETS2f5cc61c7975b82aa_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 27  Loopys Doll
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qTc-DMQ4NV39_ahoBDV_Un0UF_c=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029151/images/ets2_premier_ETS2f5cc61c7975b82aa_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 27  Loopys Doll
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=975a006ef290e7f1c037c2d98cb2c8d2bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Vm_BoB7COThzCqqNhp4HWLcRdgU=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029152/images/ets2_premier_ETS2735c9ca793a263d3_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 28  Singing Passion
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Vm_BoB7COThzCqqNhp4HWLcRdgU=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029152/images/ets2_premier_ETS2735c9ca793a263d3_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 28  Singing Passion
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=a09d0e87ee1fb554ac4b409a5a1484f1bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GPfU258dvI4nkaYEM2d7EDO_G6k=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029153/images/ets2_premier_ETS2f1b26c42bae6e71b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 29  Amazing Magic Wand
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GPfU258dvI4nkaYEM2d7EDO_G6k=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029153/images/ets2_premier_ETS2f1b26c42bae6e71b_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 29  Amazing Magic Wand
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=7aec218c5f1989bc9d9322f84acb6807bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/isv5Rl5HrL80fTiYiYwiW0xVvew=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029154/images/ets2_premier_ETS2312dbd8e6a0fa1c2_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 30  Youre the Best Poby
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/isv5Rl5HrL80fTiYiYwiW0xVvew=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029154/images/ets2_premier_ETS2312dbd8e6a0fa1c2_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 30  Youre the Best Poby
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0ff590e5eedb83b414f744c7d7494fc4bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/28Jz1rRGG4Dg9PafsPZnWNkTgZg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029155/images/ets2_premier_ETS250ff9319cfeb56e6_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 31  Night Wonders
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/28Jz1rRGG4Dg9PafsPZnWNkTgZg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029155/images/ets2_premier_ETS250ff9319cfeb56e6_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 31  Night Wonders
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0053a4434f46dd90e83d4dd5b4535e47bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FLKIhydI0b1spOpt6GVtF4q66vQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029156/images/ets2_premier_ETS2a70e4310ab2ff04c_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 32  Where did the Ball Go
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FLKIhydI0b1spOpt6GVtF4q66vQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029156/images/ets2_premier_ETS2a70e4310ab2ff04c_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 32  Where did the Ball Go
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=44abe2fd10e186ef9e08f1b131fc0fd5bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uY3cq1S07ISVh7R89_ECiG9nmT4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029157/images/ets2_premier_ETS232e5725b25853e97_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 33  Toy Frog
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uY3cq1S07ISVh7R89_ECiG9nmT4=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029157/images/ets2_premier_ETS232e5725b25853e97_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 33  Toy Frog
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=5f8af1aedea900e45e2071db7243b79dbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ImOm5XMiSUkkLHD7Dbd-5F1dkl0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029158/images/ets2_premier_ETS2518469625bfba176_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 34  Scribble Fun
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ImOm5XMiSUkkLHD7Dbd-5F1dkl0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029158/images/ets2_premier_ETS2518469625bfba176_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 34  Scribble Fun
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=dd43d950a9bb8df5eef35e47743fc596bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sf14V3b6zacGruKLUtWRN5mJ-jM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029159/images/ets2_premier_ETS22a40bf608044d769_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 35  Crong and the Shooting Star
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sf14V3b6zacGruKLUtWRN5mJ-jM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029159/images/ets2_premier_ETS22a40bf608044d769_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 35  Crong and the Shooting Star
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=972f4487c0b0e90cae299a11f2da3433bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kQU3w_F7N0LOblCs4mcB3wtNMMA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029160/images/ets2_premier_ETS2a4defce35fc2e6d1_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 36  Got a Cold
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kQU3w_F7N0LOblCs4mcB3wtNMMA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029160/images/ets2_premier_ETS2a4defce35fc2e6d1_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 36  Got a Cold
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=d6858664c7346520318783552d213782bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UnPZHsnzH4BGxXz1ZjcOGcvHqyY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029161/images/ets2_premier_ETS2f6290f592ae430ca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 37  Strange Games
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UnPZHsnzH4BGxXz1ZjcOGcvHqyY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029161/images/ets2_premier_ETS2f6290f592ae430ca_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 37  Strange Games
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ab55159443ee4029b2b47ce9ce16e013bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dXozSA4K1Mss9SZITyVOJmOacag=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029162/images/ets2_premier_ETS26b6489670d5ff4e8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 38  Best Friends
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dXozSA4K1Mss9SZITyVOJmOacag=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029162/images/ets2_premier_ETS26b6489670d5ff4e8_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 38  Best Friends
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ef7af233d02ab72a85d94d3e9c6285bfbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/c5xrJsTsJ43OQ122yS2RgagrRRM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029163/images/ets2_premier_ETS2e2645d0a11972b09_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 39  Pobys Birthday
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/c5xrJsTsJ43OQ122yS2RgagrRRM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029163/images/ets2_premier_ETS2e2645d0a11972b09_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 39  Pobys Birthday
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=20b113ca0ba1b134e64772761e8c4417bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jHQBNH0ZAnjU7mQIQ9WtVOsv3Lg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029164/images/ets2_premier_ETS2dfa3d4a2ac0496bb_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 40  Eddys Song
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jHQBNH0ZAnjU7mQIQ9WtVOsv3Lg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029164/images/ets2_premier_ETS2dfa3d4a2ac0496bb_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 40  Eddys Song
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=b61f89a004b077870cb4f0f736e5bd0cbf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LynlVxhuZSV609uvIWCLbw7sOkw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029165/images/ets2_premier_ETS2c82100fd0fd433d9_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN",[CODAY] Ep 41  Cloning Machine
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LynlVxhuZSV609uvIWCLbw7sOkw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/2029165/images/ets2_premier_ETS2c82100fd0fd433d9_672x378-00030.jpg" group-title="VOD PORORO - THE LITTLE PENGUIN", Ep 41  Cloning Machine
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ad0e3ab2ddc3180fb2cccd5744e2eb04bf842cacac0058507be8f30da86fbcc9
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zWapZ4TFG96Zhfm2Z8QGkezSA9w=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984426/images/ets2_premier_ETS2bd97683c1671d4d3_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 01  Off The Baa
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zWapZ4TFG96Zhfm2Z8QGkezSA9w=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984426/images/ets2_premier_ETS2bd97683c1671d4d3_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 01  Off The Baa
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=835adec19a688d9153a27dcf7a09f7c4ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WqPctzhj_aKfGcdEz1eKzytItYo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984427/images/ets2_premier_ETS24f2c622c11601f39_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 02  Fetching
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WqPctzhj_aKfGcdEz1eKzytItYo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984427/images/ets2_premier_ETS24f2c622c11601f39_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 02  Fetching
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ae2804d83938cf86df37324fa8bc36f6ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BrhyyxfUN6bouk4s_8BqUoJGrRo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984428/images/ets2_premier_ETS23adee810703c150d_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 03  Bathtime
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BrhyyxfUN6bouk4s_8BqUoJGrRo=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984428/images/ets2_premier_ETS23adee810703c150d_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 03  Bathtime
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=70d4383b8af77b737b1a2f5ef6c90ca1ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AphqEpzklBcp1eqv7iOHgZ04Tks=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984429/images/ets2_premier_ETS23391d67235777792_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 04  Big Top Timmy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AphqEpzklBcp1eqv7iOHgZ04Tks=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984429/images/ets2_premier_ETS23391d67235777792_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 04  Big Top Timmy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=e0eef43bffc9c6f1862a85a91bae6b02ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fU3ZiipiFW_F0VBTdZhMTX6cr9M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984430/images/ets2_premier_ETS27a48527e297ea06c_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 05  The Bull
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fU3ZiipiFW_F0VBTdZhMTX6cr9M=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984430/images/ets2_premier_ETS27a48527e297ea06c_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 05  The Bull
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=1951c82ea96284cfd0bb4974b714e4fbce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jkUsVSjDyurxyOwsr7fvQa_WpN8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984432/images/ets2_premier_ETS2bb320c400abc1ab9_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 06  The Kite
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jkUsVSjDyurxyOwsr7fvQa_WpN8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984432/images/ets2_premier_ETS2bb320c400abc1ab9_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 06  The Kite
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=3ed6879da5bae251872e2f674560b724ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_OMfwS5CukpO2u2XUudd3NYs_BY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984433/images/ets2_premier_ETS2e83a79934dcce8b2_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 07  Shape Up With Shaun
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_OMfwS5CukpO2u2XUudd3NYs_BY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984433/images/ets2_premier_ETS2e83a79934dcce8b2_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 07  Shape Up With Shaun
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=881a64c945418e5a3c108c16f7155f5ece81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_PHzUjJNdgz4klSzCleuZCEdwYU=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984434/images/ets2_premier_ETS26f7b94abef19c862_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 08  Buzz Of Bees
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_PHzUjJNdgz4klSzCleuZCEdwYU=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984434/images/ets2_premier_ETS26f7b94abef19c862_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 08  Buzz Of Bees
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=87898d2c487a092c6c71d17ed58ed186ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CH-AocGP9VTgCkujr1YelO0Xkhc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984435/images/ets2_premier_ETS2e1784b8e53f0d534_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep  09 Timmy In A Tizzy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CH-AocGP9VTgCkujr1YelO0Xkhc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984435/images/ets2_premier_ETS2e1784b8e53f0d534_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep  09 Timmy In A Tizzy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=39fc77b811340c605e4d65988d47687fce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sFf9dW5JhimXYpr6lWp9ly7yixM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984436/images/ets2_premier_ETS26ca0d42338666063_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 10  Mower Mouth
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sFf9dW5JhimXYpr6lWp9ly7yixM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984436/images/ets2_premier_ETS26ca0d42338666063_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 10  Mower Mouth
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=63180cb9ec615cee4014f7f59bca4f8ace81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Kj7O4Fy8ibSj_woVDnCJqRBx0o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984484/images/ets2_premier_ETS2e2af3f742e36db48_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep11  Takeaway
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Kj7O4Fy8ibSj_woVDnCJqRBx0o=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984484/images/ets2_premier_ETS2e2af3f742e36db48_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep11  Takeaway
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=93743597f4115420a19f9bb6f33793c7ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6v9z-yqtBg8EmzyH6OdJDH937aI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984485/images/ets2_premier_ETS2c5109855b7bd55a5_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 12  Mountains Out Of Molehills
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6v9z-yqtBg8EmzyH6OdJDH937aI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984485/images/ets2_premier_ETS2c5109855b7bd55a5_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 12  Mountains Out Of Molehills
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=be9e32ef2386378e166b0f3bab52e662ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i_OojRagSybQSNgeaa3PxqmFulg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984486/images/ets2_premier_ETS20416e47216d45ec3_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 13  Little Sheep Of Horrors
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i_OojRagSybQSNgeaa3PxqmFulg=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984486/images/ets2_premier_ETS20416e47216d45ec3_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 13  Little Sheep Of Horrors
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=c330ae35993bcff5c6df91542f90558cce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lLqMccMDHR_qjAyAq3TEpKPoKho=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984487/images/ets2_premier_ETS279f881327938135b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 14  Scrumping
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lLqMccMDHR_qjAyAq3TEpKPoKho=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984487/images/ets2_premier_ETS279f881327938135b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 14  Scrumping
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=19e5ef14613755d1b9fec53e7d368f7ece81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/nV0RZWTOsvrQYXqhmFaj0N28-MQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984488/images/ets2_premier_ETS287cd928d98b30a73_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 15  Saturday Night Shaun
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/nV0RZWTOsvrQYXqhmFaj0N28-MQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984488/images/ets2_premier_ETS287cd928d98b30a73_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 15  Saturday Night Shaun
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=7c3fb504d75b3955e0964b11ece691ebce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Gh0oy8fXkOvcmdM2NRB0Ze14kd0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984501/images/ets2_premier_ETS2e6f9d66cdb9b746b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 16  Still Life
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Gh0oy8fXkOvcmdM2NRB0Ze14kd0=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984501/images/ets2_premier_ETS2e6f9d66cdb9b746b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 16  Still Life
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=71127710eab77af8019a8ee72a4d4847ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IgNLuu6g2e7OsrzJxfUO0p75FRQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984502/images/ets2_premier_ETS21e857cfe49c076b1_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 17  Things That Go Bump
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IgNLuu6g2e7OsrzJxfUO0p75FRQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984502/images/ets2_premier_ETS21e857cfe49c076b1_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 17  Things That Go Bump
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=67fe472599fadd311137eaaedce17bc3ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dCy1B1AjpvswFw29gcK_pcD2KWA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984503/images/ets2_premier_ETS216bca8c40e653218_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 18  Who is The Mummy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dCy1B1AjpvswFw29gcK_pcD2KWA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984503/images/ets2_premier_ETS216bca8c40e653218_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 18  Who is The Mummy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=47363137893cfa5c6c3f63aeae1da617ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2vhFBBQ6gQnlYb5Ao9naB27qK9w=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984504/images/ets2_premier_ETS2be194246c4c8262a_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 19  Shaun Shoots The Sheep
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2vhFBBQ6gQnlYb5Ao9naB27qK9w=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984504/images/ets2_premier_ETS2be194246c4c8262a_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 19  Shaun Shoots The Sheep
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=e060eec50c24bc259d94529c24574050ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KXZC1Mp994kv_9lkV_v0fB498_A=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984505/images/ets2_premier_ETS2907de82901f1eaef_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 20  Fleeced
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KXZC1Mp994kv_9lkV_v0fB498_A=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984505/images/ets2_premier_ETS2907de82901f1eaef_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 20  Fleeced
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=430750f88f824a00da8dfac884410297ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8ga7J3bg0pjiOVXj_hvk_pZhGME=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984521/images/ets2_premier_ETS2232ee0a4cb88fa7a_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 21  Sheep On The Loose
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8ga7J3bg0pjiOVXj_hvk_pZhGME=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984521/images/ets2_premier_ETS2232ee0a4cb88fa7a_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 21  Sheep On The Loose
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=ce6a3dc21d6db657d15e66afa5055a0bce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O3uhY3T6nNp-fJdhNwiUZxP7A2Y=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984522/images/ets2_premier_ETS2461d3e8affe028be_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 22  Bitzer Put His Foot In It
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O3uhY3T6nNp-fJdhNwiUZxP7A2Y=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984522/images/ets2_premier_ETS2461d3e8affe028be_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 22  Bitzer Put His Foot In It
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=8d6338b8d156dd77debd912dc94d4ae5ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9tTHEJZ5QTFsUGdw6PReK43MRFw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984523/images/ets2_premier_ETS248c5c0372dd53938_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 23  Hiccups
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9tTHEJZ5QTFsUGdw6PReK43MRFw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984523/images/ets2_premier_ETS248c5c0372dd53938_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 23  Hiccups
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0580126523e69dc8a9b81315579517a1ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/32e_M20WUKI7H0RcJYbFoohfe-E=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984524/images/ets2_premier_ETS2d35f9d16e7e01916_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 24  Washday
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/32e_M20WUKI7H0RcJYbFoohfe-E=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984524/images/ets2_premier_ETS2d35f9d16e7e01916_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 24  Washday
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=9b3be05d3bd73f6235ea98633e273826ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QL2XyuTq_PBFwUphAr0tEPSQXco=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984525/images/ets2_premier_ETS2b6dbbecbcb183b21_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 25  Troublesome Tractor
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QL2XyuTq_PBFwUphAr0tEPSQXco=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984525/images/ets2_premier_ETS2b6dbbecbcb183b21_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 25  Troublesome Tractor
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=95523dfe3f6c8431a28fceeb847879dace81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tn-N8oAFFfQ_F_haJ3Te0ld-KLY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984532/images/ets2_premier_ETS23ab2b76a0079e6b8_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 26  Heavy Metal Shaun
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tn-N8oAFFfQ_F_haJ3Te0ld-KLY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984532/images/ets2_premier_ETS23ab2b76a0079e6b8_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 26  Heavy Metal Shaun
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=bebba01180a4839a681168559db8a40ece81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C3n43Ejn2TvZfZKrF3uVHipuGPY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984533/images/ets2_premier_ETS2ffd7058b02041608_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 27  Tooth Fairy
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C3n43Ejn2TvZfZKrF3uVHipuGPY=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984533/images/ets2_premier_ETS2ffd7058b02041608_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 27  Tooth Fairy
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=af8a9db03fca45714990c47010f954d7ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WwsPe8Gb4XKwa4rMCB7BL9q7ouA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984534/images/ets2_premier_ETS2dfcbaddb0fd6ce7d_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 28  Camping Chaos
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WwsPe8Gb4XKwa4rMCB7BL9q7ouA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984534/images/ets2_premier_ETS2dfcbaddb0fd6ce7d_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 28  Camping Chaos
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=017656a7e882af34e8ac009907b939ccce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gjzUi7Q6z4sM-_BEocyLs3rMNhA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984535/images/ets2_premier_ETS24c6f7ca2b8d23c82_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 29  Save The Tree
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gjzUi7Q6z4sM-_BEocyLs3rMNhA=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984535/images/ets2_premier_ETS24c6f7ca2b8d23c82_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 29  Save The Tree
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0847862d1dd05b249b7eec7fe434c0e9ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9xViYsQO69D0hgc97fzIU_Eyanw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984536/images/ets2_hq_ETS29c421e4c45b4e6c2_640x360-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 30  Shaun The Farmer
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9xViYsQO69D0hgc97fzIU_Eyanw=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984536/images/ets2_hq_ETS29c421e4c45b4e6c2_640x360-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 30  Shaun The Farmer
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f1d3a870ef5edca02000338723d4e50fce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Hm0tL_u4bwlBmKtqvaXs4jtFMa8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984644/images/ets2_premier_ETS2764b6551adfb31eb_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 31  Sheepwalk
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Hm0tL_u4bwlBmKtqvaXs4jtFMa8=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984644/images/ets2_premier_ETS2764b6551adfb31eb_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 31  Sheepwalk
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=62d0f550416515789fa34a8f7357714ace81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MQtU7KWtcCWNRhqyTT6US1CMSc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984645/images/ets2_hq_ETS2fc72c2401f21180c_640x360-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 32  The Farmer is Niece
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MQtU7KWtcCWNRhqyTT6US1CMSc=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984645/images/ets2_hq_ETS2fc72c2401f21180c_640x360-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 32  The Farmer is Niece
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=6c3be6a23d8d860c42a0e4bb65644d50ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CHkL1FXhtK-8p_et0XLy1N26h-g=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984646/images/ets2_premier_ETS210e87238bbab2a55_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 33  Stick With Me
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CHkL1FXhtK-8p_et0XLy1N26h-g=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984646/images/ets2_premier_ETS210e87238bbab2a55_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 33  Stick With Me
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f7b04849ab171a0e37efd102bd55ae63ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/f48RrmwDEtf3GNthOuSCKKMRBsI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984647/images/ets2_premier_ETS27f190037d8a26cf8_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 34  If You Can not Stand The Heat
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/f48RrmwDEtf3GNthOuSCKKMRBsI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984647/images/ets2_premier_ETS27f190037d8a26cf8_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 34  If You Can not Stand The Heat
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=faf6597188f2c04cc0df633b0c470778ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/o0gcIIb0d7hd01l4AkSVxB5xwok=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984648/images/ets2_premier_ETS29c959b819662c589_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 35  Tidy Up
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/o0gcIIb0d7hd01l4AkSVxB5xwok=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984648/images/ets2_premier_ETS29c959b819662c589_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 35  Tidy Up
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=f4fb7775e5169936594b04427aafc3a8ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UWKi5eNRQg6qFjeO7K9igE6mc6E=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984680/images/ets2_premier_ETS26eaf757a48e8256b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 36  The Visitor
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UWKi5eNRQg6qFjeO7K9igE6mc6E=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984680/images/ets2_premier_ETS26eaf757a48e8256b_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 36  The Visitor
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=0ee23f5f25a2beb606011d02f54ea0e4ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uCo_F0IPCDV7nF9vWPCSYVJd6MQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984681/images/ets2_premier_ETS2c60c73b5efc50737_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 37  Helping Hound
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uCo_F0IPCDV7nF9vWPCSYVJd6MQ=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984681/images/ets2_premier_ETS2c60c73b5efc50737_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 37  Helping Hound
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=43dc8b5eb5253e9a8610e080d5817a8cce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/q-Lbd05QWQCyIFwgO-aPOsiBfCM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984682/images/ets2_premier_ETS29e27d9fc87ceb4e7_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 38  Snore Warn Shaun
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/q-Lbd05QWQCyIFwgO-aPOsiBfCM=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984682/images/ets2_premier_ETS29e27d9fc87ceb4e7_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 38  Snore Warn Shaun
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=3985945742ec1f7c57a53e1c27b40c59ce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UAl91-h9V_3B7Dxwf9PP_1STanI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984683/images/ets2_premier_ETS2b8a831ff3c925f37_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 39  Shaun Encounters
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UAl91-h9V_3B7Dxwf9PP_1STanI=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984683/images/ets2_premier_ETS2b8a831ff3c925f37_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 39  Shaun Encounters
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=bc45a7adc7321d0216ce52068197a88dce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vmhb3QItKCcsGDiXBeXtoLEM7Hk=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984684/images/ets2_premier_ETS2ed477ca169d29cc0_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP",[CODAY] Ep 40  Abracadabra
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vmhb3QItKCcsGDiXBeXtoLEM7Hk=/600x360/filters:quality(75)/vidio-web-prod-media/uploads/1984684/images/ets2_premier_ETS2ed477ca169d29cc0_672x378-00042.jpg" group-title="VOD SHAUN THE SHEEP", Ep 40  Abracadabra
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=000b01edf697ca48787c54648c457d9f&cdy=11600fe8d416eb9814a691c7c5757b5cce81342525b892034b43eb945f1308ad
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/NEWS.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN News HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/NEWS.png?cdy=8.8.8.8" group-title="SPORTS", beIN News HD
 http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/1.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 1 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/1.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 1 HD
 http://62.210.251.193:8081/yacinetv/BeinHD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/2.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 2 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/2.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 2 HD
 http://62.210.139.222:8081/yacinetv/BeinHD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/3.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 3 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/3.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 3 HD
 http://62.210.251.193:8081/yacinetv/BeinHD3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/4.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 4 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/4.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 4 HD
 http://62.210.139.222:8081/yacinetv/BeinHD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/5.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 5 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/5.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 5 HD
 http://62.210.139.222:8081/yacinetv/BeinHD5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/6.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 6 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/6.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 6 HD
 http://62.210.139.222:8081/yacinetv/BeinHD6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/7.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 7 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/7.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 7 HD
 http://62.210.139.222:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/8.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 8 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/8.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 8 HD
 http://62.210.139.222:8081/yacinetv/BeinLow8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
-#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/9.png?cdy=8.8.8.8" group-title="SPORTS",[CODAY TV] beIN Sport 9 HD
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/9.png?cdy=8.8.8.8" group-title="SPORTS", beIN Sport 9 HD
 http://62.210.139.222:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMCA2OjUzOjE0IEFNJmhhc2hfdmFsdWU9WGYvQXZwQ2ZWdXc2Y0hRWmtpd1dldz09JnZhbGlkbWludXRlcz02MA==
 
 
