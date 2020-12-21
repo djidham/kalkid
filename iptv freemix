@@ -1130,7 +1130,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-m
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA",RCTI HD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA",RCTI SD
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
