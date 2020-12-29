@@ -602,7 +602,8 @@ http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="TVRI NASIONAL" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="LOCAL",TVRI NASIONAL
 http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
-
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="LOCAL",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
 #EXTM3U
