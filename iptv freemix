@@ -606,7 +606,7 @@ http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="MOVIES",HBO HD 
 http://me.zichannels.my.id/ch/hbo.m3u8 
