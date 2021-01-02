@@ -13,18 +13,6 @@ https://delivery.macan.tv/stream/id_transtv/playlist.m3u8?token=rvsx2&v=20200807
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="LOCAL", TRANS 7
 https://delivery.macan.tv/stream/id_trans7/playlist.m3u8?token=rvsx2&v=20200807
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="LOCAL",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="LOCAL",INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="LOCAL",MNC SD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="LOCAL",RCTI SD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cnn.png" group-title="LOCAL", CNN Indonesia
 https://delivery.macan.tv/stream/id_cnn/playlist.m3u8?token=rvsx2&v=20200807
 
@@ -34,18 +22,23 @@ https://delivery.macan.tv/stream/id_cnbc/playlist.m3u8?token=rvsx2&v=20200807
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="LOCAL", RTV
 https://delivery.macan.tv/stream/id_rajawalitv/playlist.m3u8?token=rvsx2&v=20200807
 
-#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOCAL",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="LOCAL",SCTV
-http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-
-
-#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="LOCAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/tvone.png" group-title="LOCAL", TVOne
 https://delivery.macan.tv/stream/id_tvone/playlist.m3u8?token=rvsx2&v=20200807
+
+#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOCAL",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="LOCAL",GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="LOCAL",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:-1 tvg-id="-" tvg-name="MNC iNews" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg" group-title="LOCAL",MNC iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="LOCAL",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="LOCAL",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="LOCAL",SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/kompastv.png" group-title="LOCAL", KOMPAS TV
 https://delivery.macan.tv/stream/id_kompastv/playlist.m3u8?token=rvsx2&v=20200807
