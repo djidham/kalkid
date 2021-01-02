@@ -34,11 +34,15 @@ https://delivery.macan.tv/stream/id_cnbc/playlist.m3u8?token=rvsx2&v=20200807
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="LOCAL", RTV
 https://delivery.macan.tv/stream/id_rajawalitv/playlist.m3u8?token=rvsx2&v=20200807
 
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/antv.png" group-title="LOCAL", ANTV
-https://delivery.macan.tv/stream/id_antv/playlist.m3u8?token=rvsx2&v=20200807
+#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="LOCAL",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA",SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+
+#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="LOCAL",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/tvone.png" group-title="LOCAL", TVOne
 https://delivery.macan.tv/stream/id_tvone/playlist.m3u8?token=rvsx2&v=20200807
