@@ -4699,4 +4699,69 @@ https://m3u-editor.com/serve/ad4b0180-4e61-11eb-8fd2-8b82db48a8c8/177497345
 #EXTINF: -1 tvg-chno="342" tvg-logo="https://i.ibb.co/b75Mm4R/rezalogo.jpg" group-title="MUSIC", 03.Reza Artamevia - Kepastian
 https://m3u-editor.com/serve/ad4b0180-4e61-11eb-8fd2-8b82db48a8c8/177497346
 
+#EXTM3U
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",KOMPAS TV
+https://adm001.000webhostapp.com/daily/KompasTV.m3u8
 
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",TV ONE
+https://adm001.000webhostapp.com/daily/TVONE.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",TRANS 7
+https://adm001.000webhostapp.com/daily/TRANS7.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",TRANS TV
+https://adm001.000webhostapp.com/daily/TRANSTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",METRO TV
+https://adm001.000webhostapp.com/daily/MetroTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",METRO TV
+https://adm001.000webhostapp.com/daily/KTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",ANTV
+https://adm001.000webhostapp.com/daily/ANTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",ASWAJA
+https://adm001.000webhostapp.com/daily/ASWAJA.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",NADA MUSLIM
+https://adm001.000webhostapp.com/daily/Nada Muslim.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",INDI MUSIC
+https://adm001.000webhostapp.com/daily/IndiMusicTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",KPOP
+https://adm001.000webhostapp.com/daily/KPOP.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",80s MUSIC TV
+https://adm001.000webhostapp.com/daily/80sMusicTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",MTV GEN
+https://adm001.000webhostapp.com/daily/MVGen.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",DRAMA SANGAT
+https://adm001.000webhostapp.com/daily/Drama Sangat.m3u8 
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",8TV
+https://adm001.000webhostapp.com/daily/8TV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",NTV7
+https://adm001.000webhostapp.com/daily/NTV7.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",BRIT ASIA TV
+https://adm001.000webhostapp.com/daily/BritAsiaTV.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",DAAI WORLD
+https://adm001.000webhostapp.com/daily/DaAiWorld.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",EURONEWS
+https://adm001.000webhostapp.com/daily/Euronews.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",SPICE FM
+https://adm001.000webhostapp.com/daily/SpiceFM.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",TV3
+https://adm001.000webhostapp.com/daily/TV3.m3u8
+
+#EXTINF:0 tvg-id="" group-title="UJICOBA" tvg-logo="https://beincards.com/image/cache/catalog/test-228x228.jpg",TV9
+https://adm001.000webhostapp.com/daily/TV9.m3u8
