@@ -3048,7 +3048,7 @@ https://www.googleapis.com/drive/v3/files/1Lqcx_NRCwZuLBJziGXx2k4ljpd2gpRTQ?alt=
 
 <|-- VOD BARAT
 ================================================================================================================================
-
+#EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="VOD BARAT" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdaeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",The Owners
 https://storage2.dewanonton.live/hls/27eb5c87-6654-4e41-aa68-7d3f32620a33.mp4/index.m3u8
 
