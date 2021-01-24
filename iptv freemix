@@ -3307,8 +3307,7 @@ https://www.googleapis.com/drive/v3/files/1z7M6rJPCPnVMtVIL_f0Hu1gcNdJTajD8?alt=
 
 
 ===============================================================BOND======================================================================
-
-
+#EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="James bond" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJhOTgyMTUtMDVhOS00MzRlLTk0MjYtYjI5NzhhMTExMTc1XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",The Spy Who Loved Me (James Bond)
 https://ap-south-1.linodeobjects.com/dwa/ovnNxXaKWpqdx/hls-stream.m3u8
 
