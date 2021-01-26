@@ -107,128 +107,237 @@ http://103.132.54.220:9221/stream/channelid/1046956793?ticket=93DC65585DA4CCB646
 http://103.132.54.220:9221/stream/channelid/1678778767?ticket=C6BAFB8E1E60B87E8E02798C3FB5412A06A39DB8&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_eatgo_big1.png" tvg-id="7d0d94c8fbe89baf4341806ae7dcfb93",403 Eat & Go 
 http://103.132.54.220:9221/stream/channelid/1217662333?ticket=11F70F74BA7A09E95CB3C38997108828875C617A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="640480fe0e2a7d96f57e56f24368eae2",404 Fashion TV 
+#EXTM3U 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" tvg-id="9e5b8642de9edf3fa75fc12b9ff4f120",100 TVRI 
+http://103.132.54.220:9221/stream/channelid/1116101534?ticket=5B5A35DD924467F60BE0CC78051147F20F68872B&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="795d5401bc74b3438a5243e45141f08b",101 Metro TV 
+http://103.132.54.220:9221/stream/channelid/22306169?ticket=02FCF3BA28826F81F21233B9426A44F5B48E34B5&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="9ccee7ee49705ab6f2728f45235276a8",102 CNN Indonesia 
+http://103.132.54.220:9221/stream/channelid/1860685468?ticket=ACF325171054F2DA6633151332A518B634696EC5&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvone_big1.png" tvg-id="c0d08785809814337d0a048d0ef8f9cc",103 TV One 
+http://103.132.54.220:9221/stream/channelid/92786880?ticket=0BE0264CEE55D7E79C0FB5EBAF811E7E4100E683&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="986680a9211d13ca758d0e5a26bb1f12",104 Trans TV 
+http://103.132.54.220:9221/stream/channelid/696280728?ticket=E2470FA649FD31F0871C230E8DB67ECCCD20938A&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="81675cd0c24efa1df5d081219c665388",105 Trans 7 
+http://103.132.54.220:9221/stream/channelid/1348233089?ticket=5775FE34519A940D6646039F921D8C965823C968&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" tvg-id="0db4b7a0417c10eb30c469729af668d8",106 Lejel Home Shopping 
+http://103.132.54.220:9221/stream/channelid/548910093?ticket=8372D4B281549FD52F29359C8FDC62A8F404B5B9&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="1412e2ea888811d85cdb25fbd24c17f1",107 SCTV 
+http://103.132.54.220:9221/stream/channelid/1793200660?ticket=287CB06EB808FF329E36CBDF88C6A2D357E792CB&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_antv_big1.png" tvg-id="7d531f4518ad2d77e280a609082c5eb0",108 ANTV 
+http://103.132.54.220:9221/stream/channelid/1159680893?ticket=50E971CC43629526551B73E31EB8C3734A7ED5D9&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" tvg-id="78ff3092a8a93aa12761bad022bcb93e",109 Indosiar 
+http://103.132.54.220:9221/stream/channelid/305201016?ticket=4CCE0D0125F8CD8A75C56F443FB52D60F9AF1F45&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" tvg-id="bf430532377bf5f447f4f84ee5380f76",110 MNC Shop 
+http://103.132.54.220:9221/stream/channelid/839205823?ticket=B60970A068FA7EFE9D283A4E9C303F6755B17C6C&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="826c8af2736fedd17e4aa8f2715e9c8f",112 Net TV 
+http://103.132.54.220:9221/stream/channelid/1921674370?ticket=79D9B3FF0C99025CE014697A8B19A32096C8BDDD&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" tvg-id="061356305a4c7258782b1e1adc570b7c",113 Lejel Home Shopping 
+http://103.132.54.220:9221/stream/channelid/810947334?ticket=CC311115ACDFAC384A2D2186B33FAA03FEDCB743&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" tvg-id="fa6b837f94d88dece2dceec6440a06c6",114 Kompas TV 
+http://103.132.54.220:9221/stream/channelid/2139319290?ticket=39CF9CCC798BBDBADDEBB6CBF4358FEAE1760B50&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" tvg-id="3845651392e6575bfe4c65abe0d96f17",115 Berita Satu 
+http://103.132.54.220:9221/stream/channelid/325403960?ticket=33F98F6A6960619B90CE9B40AF3885392F964E91&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" tvg-id="97fe7900c3013de3faa6c4390fe9177b",116 Jak TV 
+http://103.132.54.220:9221/stream/channelid/7995031?ticket=95D17D869BA2878BFE86C466F5C495D9E796493D&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" tvg-id="ec50c854b57a3c021698f6c388c2f94f",117 MNC Lifestyle 
+http://103.132.54.220:9221/stream/channelid/1422414060?ticket=AE7146C9B4937FAECFF61F2FC314C3BF7E52E569&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_rtv_big1.png" tvg-id="719553d15bada76331da1d0ed1b2f722",118 RTV 
+http://103.132.54.220:9221/stream/channelid/1364432241?ticket=AEAFFEF2E4F7310DA6BEBFC22F28B96A22C02E7B&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_idx_big.png" tvg-id="cb405426833e7844edda2a3ba8cd65ee",119 IDX Channel 
+http://103.132.54.220:9221/stream/channelid/643055819?ticket=BE710522D7B7CE920B6AEECBBF6DE5A72843E6E4&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" tvg-id="ea956ce95ce96f2ba14008237cd0090c",120 Daai TV 
+http://103.132.54.220:9221/stream/channelid/1768723946?ticket=7568CE5AB49C92044B0AC8F18C30A31F03269489&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_balitv_big1.png" tvg-id="d69076f28221593ee12c48f64a11debe",122 Bali TV 
+http://103.132.54.220:9221/stream/channelid/1920372950?ticket=9BB4873EF41D3C6D7706196012CD927D13960B9B&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="dde537dcaee147ffe1ce90261b93e32a",123 JTV 
+http://103.132.54.220:9221/stream/channelid/1547167197?ticket=CFADBE0BCC2C388B6B50BAC11E011967813531B7&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_antara_big1.png" tvg-id="1ce0b04f872975ad95334338182ef63e",124 Antara 
+http://103.132.54.220:9221/stream/channelid/1336991772?ticket=35F85F54D161677F1A0D7A5B59F3EFDD4B052E28&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="340bcef16f5c54c45b7425884bfc52a9",126 R Channel Trial 
+http://103.132.54.220:9221/stream/channelid/1909328692?ticket=DB37AB429A0212D91FCC424FD0B22544500BE909&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" tvg-id="308eed227ad5d1b2771d8f28ca37f9f2",127 TV Edukasi 
+http://103.132.54.220:9221/stream/channelid/585993776?ticket=4ED45E5623631ACF19D606B5937812340BCFCBC4&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_rri_big1.png" tvg-id="921e8b8288e0b1bf47e7771feda77469",130 RRI Net 
+http://103.132.54.220:9221/stream/channelid/42671762?ticket=1ECD28FD61311A8A20AB3576FBEBDB51BC5C8CC3&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_jitv_big.png" tvg-id="befc17f19159993a44c8eb293212ddba",131 JITV 
+http://103.132.54.220:9221/stream/channelid/1897397438?ticket=764375CD2406BF7D295D49D930C71EC4167E1E81&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" tvg-id="db3e79a11d04dd6249ed66c17aa5f79b",137 Jowo 
+http://103.132.54.220:9221/stream/channelid/561594075?ticket=1B83A1C1F917EFF3F6722DE2F91B1958FCBE88AE&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-id="81dadde634730affb3c77789a7f8ec70",141 RCTI HD 
+http://103.132.54.220:9221/stream/channelid/1725815425?ticket=FF7408C2DCDD5FB13458DAEC4ABEE4693D806F73&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-id="f9bbe19da1ed5de0a3f6488c3f7a7223",142 MNC HD 
+http://103.132.54.220:9221/stream/channelid/501332985?ticket=13AF6581614F1EB291C1411FD2CA967421E681B6&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-id="4448b21c9399f87bae91df133dfe92e7",143 GTV HD 
+http://103.132.54.220:9221/stream/channelid/481445956?ticket=5902833044F02A241579A043CE3173257FB71500&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" tvg-id="edb915930d73399f20fe19942183e940",2 Mozaik Channel 
+http://103.132.54.220:9221/stream/channelid/320190957?ticket=5FD26351A67D5D493479DB3BFED2E2A78F548127&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="9224c3f43cfc9408578fee5068c46acf",201 National Geographic 
+http://103.132.54.220:9221/stream/channelid/1958945938?ticket=ECE30774E4966329EF86886D76FB858C03023C02&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" tvg-id="16ca80385b2efea28cc5cc8608da78e0",202 Natgeo Wild 
+http://103.132.54.220:9221/stream/channelid/947964438?ticket=1317FBCB0C84DFEB2ACC3172B5047FD91CAA56AA&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" tvg-id="32c91941f93adadf622ffbcf03e57d98",203 Crime & Investigation 
+http://103.132.54.220:9221/stream/channelid/1092208946?ticket=B584692696A118AF6EA20C5B7F29891C6E8BAD64&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="ec7dd3c381545b5629f30e484b03fd57",204 CGTN Documentary 
+http://103.132.54.220:9221/stream/channelid/1137933804?ticket=683CF479A0D2C8EFA6F341D3BDCAF1AD8BE16F52&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="4fbfd0484321db4e3dad6150e209dc0f",205 History Channel 
+http://103.132.54.220:9221/stream/channelid/1221640015?ticket=DEF05B58DA6A6F5B690BAFD158EC7D02D205FA0C&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/563fbzN/pandatv.png" tvg-id="b240ff41fc4322594b62953b4ee9c77f",206 Panda TV 
+http://103.132.54.220:9221/stream/channelid/1107247282?ticket=5136C0857D5641C1F4F00D9292199D3ECDC1D4F4&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_discovery_big.png" tvg-id="270abd92dbeac03d200a21e6a4f292d2",207 Discovery 
+http://103.132.54.220:9221/stream/channelid/314378791?ticket=B35B31167B6BB638D0E2FEBC3FEC48DB1BEFE5C0&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="7ffe9fa5b1c90fcdef7aefca99596063",208 Lingua Trial 
+http://103.132.54.220:9221/stream/channelid/631242367?ticket=43D427F38F13C5169BC16FEBC4795772C88E0C81&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" tvg-id="188ce20b3c29898123f6a9bb88ce4e81",301 Disney Channel 
+http://103.132.54.220:9221/stream/channelid/199396376?ticket=A4590807C958B5AA3C118961EAC7BD8213885778&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/vBtnK3c/disneyjunior.png" tvg-id="c632488fc971778dcccf24883abfca7c",302 Disney Junior 
+http://103.132.54.220:9221/stream/channelid/256389830?ticket=50E48635A6EB0D38C65037412C731AB611D8D5A7&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_davinci_big1.png" tvg-id="a898d32ce48325f4187ea448d7468980",303 Da Vinci Learning 
+http://103.132.54.220:9221/stream/channelid/752064680?ticket=675DDD531CA79CAA07C8344BC169B3A5D67D492E&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" tvg-id="8c19a7bf6aec514866b90a776049cf4e",304 Nickelodeon 
+http://103.132.54.220:9221/stream/channelid/1067915660?ticket=5BF059970FC12EBE544DA12072AB002B7182A29D&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nickjr_big.png" tvg-id="d5597be935195e3b386b3dea7dfc2f2d",305 Nick Junior 
+http://103.132.54.220:9221/stream/channelid/1769691605?ticket=FA76A773039C28D021ACAD60E1DCCE38DEEC0386&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" tvg-id="a164bdca018ffdc961c0374b4e39cdc7",306 Cartoon Network 
+http://103.132.54.220:9221/stream/channelid/1253926049?ticket=BDFDAE1030AE214D338FC12E074EF82045451DA2&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_boomerang_big.png" tvg-id="ddfc224b459fdeeb531ada085bf9cf8f",308 Boomerang 
+http://103.132.54.220:9221/stream/channelid/1260584157?ticket=A36F102E036987DB4C63B9C9305139D9005AE921&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_duck_big1.png" tvg-id="78e97e9f3a0ffab050077bc410e4cd39",309 Duck TV 
+http://103.132.54.220:9221/stream/channelid/528411000?ticket=C4EEE11646DCF852638DDB2FBADA3814721620C0&profile=pass
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="3e2ff02974b056a2462110d80e5759e9",310 Dream Work 
+http://103.132.54.220:9221/stream/channelid/703606590?ticket=820BE3A00BBA8539A54B4CADBA891059D30B9D18&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" tvg-id="ef83623edcc801fe378a47c09eb39eac",311 Baby First 
+http://103.132.54.220:9221/stream/channelid/1046643695?ticket=A13B5DCC9DB79A19EE5D7E1D1FB3E35DAAB0BE39&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" tvg-id="bea04cd9df0527ea9d198e6c85910d36",312 Dunia Anak 
+http://103.132.54.220:9221/stream/channelid/1498194110?ticket=B68163A3C9A4E3B877069B76C0C7D26F46A92FB6&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" tvg-id="f94a67bee826bffbb5af9167f3474489",314 Spacetoon 
+http://103.132.54.220:9221/stream/channelid/1046956793?ticket=93DC65585DA4CCB6467359E3259132E59E3A5507&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_afc_big.png" tvg-id="8f2110e4a486ee413ecad882fe7f54dd",402 AFN 
+http://103.132.54.220:9221/stream/channelid/1678778767?ticket=C6BAFB8E1E60B87E8E02798C3FB5412A06A39DB8&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_eatgo_big1.png" tvg-id="7d0d94c8fbe89baf4341806ae7dcfb93",403 Eat & Go 
+http://103.132.54.220:9221/stream/channelid/1217662333?ticket=11F70F74BA7A09E95CB3C38997108828875C617A&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="640480fe0e2a7d96f57e56f24368eae2",404 Fashion TV 
 http://103.132.54.220:9221/stream/channelid/2122318948?ticket=4C590A7289D6092264510A100A43DA0CF3E3800A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="ea966c15379d7921d061d736a1c0d0b2",405 Natgeo People 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="ea966c15379d7921d061d736a1c0d0b2",405 Natgeo People 
 http://103.132.54.220:9221/stream/channelid/359438058?ticket=0B13B34FCA3AFA63DF5447DF8B110423D3F62526&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fashionone_big1.png" tvg-id="5e41c880a22b9cfe628dda5aa472f208",408 Fashion One 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" tvg-id="5e41c880a22b9cfe628dda5aa472f208",408 Fashion One 
 http://103.132.54.220:9221/stream/channelid/13123934?ticket=98D4E4C7F14E5C046544313DF1DAEE0C1F71C775&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="70b3941cfd6770e5c85030f1ab73ec2f",450 MTV Live 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="70b3941cfd6770e5c85030f1ab73ec2f",450 MTV Live 
 http://103.132.54.220:9221/stream/channelid/479507312?ticket=65E257F1F4AB7B4D68B02F54B4C85218B76EE1D1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="6de1961a357d8f8b445539eba5aaac50",452 Channel [V] 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="6de1961a357d8f8b445539eba5aaac50",452 Channel [V] 
 http://103.132.54.220:9221/stream/channelid/446095725?ticket=5EE512C339A55E52D74EBA49864BD03FD8230DE4&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_prambors_big1.png" tvg-id="07f08ee95aa5549e71b3a736a976ea37",453 Prambors 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_prambors_big1.png" tvg-id="07f08ee95aa5549e71b3a736a976ea37",453 Prambors 
 http://103.132.54.220:9221/stream/channelid/1770975239?ticket=3E14407A5074BCC1DA32E913FBA2570A0691791B&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_allegro_big1.png" tvg-id="397697967f0e0d333286e77cab2fe91c",454 T Music 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_allegro_big1.png" tvg-id="397697967f0e0d333286e77cab2fe91c",454 T Music 
 http://103.132.54.220:9221/stream/channelid/379024953?ticket=FF1E3E2369885419F109F4C159DA973F92713326&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="1c3e3f167e7bf45925b43f9ffddc6f4c",500 HGTV 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="1c3e3f167e7bf45925b43f9ffddc6f4c",500 HGTV 
 http://103.132.54.220:9221/stream/channelid/373243420?ticket=2294854AF25CC6DED5149C76C4D35C96BDD6FEED&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/SfF0zWJ/blueant.png" tvg-id="420ea1f4a52a3557f6bd929e88f0b588",501 Blue Ant Extreme 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" tvg-id="420ea1f4a52a3557f6bd929e88f0b588",501 Blue Ant Extreme 
 http://103.132.54.220:9221/stream/channelid/1956712002?ticket=69FD7499002F78143308D75E72CF7877886525B1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_animax_big.png" tvg-id="0bd7870d22caa975a5011dc6ed468e19",502 Animax 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_animax_big.png" tvg-id="0bd7870d22caa975a5011dc6ed468e19",502 Animax 
 http://103.132.54.220:9221/stream/channelid/227006219?ticket=6C4A162F6E7682920989D7C3AADC1BDEE278B52F&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_insert_big1.png" tvg-id="de08c01a80c1948bd1401fde3e3634ca",503 Insert 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_insert_big1.png" tvg-id="de08c01a80c1948bd1401fde3e3634ca",503 Insert 
 http://103.132.54.220:9221/stream/channelid/448792798?ticket=5E962CAB80D558262B31D23591E8DA37601F0862&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="9a31b6a65ff128e259b1abcb43c36757",504 Foxlife 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="9a31b6a65ff128e259b1abcb43c36757",504 Foxlife 
 http://103.132.54.220:9221/stream/channelid/649474458?ticket=C64B0AA3B895BD9502863DA1B1AB0BE9CFEC9C87&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="b34a006c3ff8cd421f05b95ea5eb4dc8",505 Lifetime 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="b34a006c3ff8cd421f05b95ea5eb4dc8",505 Lifetime 
 http://103.132.54.220:9221/stream/channelid/1811958451?ticket=4679917BE51B1152EAC8F80F7FB1C6F1A58BCAAA&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_kix_big.png" tvg-id="d2e3a27b1a541594c1f86f22d64b8de7",506 KIX 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="d2e3a27b1a541594c1f86f22d64b8de7",506 KIX 
 http://103.132.54.220:9221/stream/channelid/2074272722?ticket=3CA109E67E418E1B59A62DD2FBDB8E48C8FE6E80&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_warner_big.png" tvg-id="04ee360dc0a17a5430910e0f67ba6a47",508 Warner 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="04ee360dc0a17a5430910e0f67ba6a47",508 Warner 
 http://103.132.54.220:9221/stream/channelid/221703684?ticket=0086A87A98771D4BEB047D14B6E07DC56C8C9969&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_axn_big.png" tvg-id="d01712a4ef56697a3d2d7c230bd343d9",509 AXN 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_axn_big.png" tvg-id="d01712a4ef56697a3d2d7c230bd343d9",509 AXN 
 http://103.132.54.220:9221/stream/channelid/605165520?ticket=C39BEF6E145BCCE503426D9A59CF878C7F2F5834&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tv5monde_big1.png" tvg-id="291db71199882976fef020a607b1946d",510 TV5Monde 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tv5monde_big1.png" tvg-id="291db71199882976fef020a607b1946d",510 TV5Monde 
 http://103.132.54.220:9221/stream/channelid/297213225?ticket=391DD67B883DFB9043BBA8813A2E640CE20E8532&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="7deefb89f6db8a9f4b7dec7e622b12e4",511 Blue Ant Entertaiment 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="7deefb89f6db8a9f4b7dec7e622b12e4",511 Blue Ant Entertaiment 
 http://103.132.54.220:9221/stream/channelid/167505533?ticket=7562CFED9D3C766CEE36D53F7B98F0F47BC53BE8&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="800c4fd59fac10d94771a3842075bcf3",512 Fox 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="800c4fd59fac10d94771a3842075bcf3",512 Fox 
 http://103.132.54.220:9221/stream/channelid/1431243904?ticket=8414E9C9E9D6BE1CC4DBABE85638AAE61EDD8BBD&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="c067c0646e221344c2d4f307a4edabe1",513 Fox Crime 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="c067c0646e221344c2d4f307a4edabe1",513 Fox Crime 
 http://103.132.54.220:9221/stream/channelid/1690331072?ticket=89D61FA4771577D2C9311F3632F40B4B93659898&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="3e37606890a1ac860a939a25c1396385",516 TVN 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="3e37606890a1ac860a939a25c1396385",516 TVN 
 http://103.132.54.220:9221/stream/channelid/1751136062?ticket=9493E214A48DB4B3414E42E3F480242C9F919EFE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="bce5cdbbfac9aef53c802a19f2fe4e90",517 KBS World 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="bce5cdbbfac9aef53c802a19f2fe4e90",517 KBS World 
 http://103.132.54.220:9221/stream/channelid/1003349436?ticket=D4A37B57A38AB9190DE55C15D450E671CF45EFA5&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_aniplus_big1.png" tvg-id="4ca93690fcfe484cfdab93cab9da2266",518 Aniplus 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" tvg-id="4ca93690fcfe484cfdab93cab9da2266",518 Aniplus 
 http://103.132.54.220:9221/stream/channelid/272017740?ticket=5303656CB6D8CC52F39AD93899BCD381D0B0F807&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nhkworld_big1.png" tvg-id="fe59c2e8f07542d0390af6fd9f581720",519 NHK World Premium 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" tvg-id="fe59c2e8f07542d0390af6fd9f581720",519 NHK World Premium 
 http://103.132.54.220:9221/stream/channelid/1757567486?ticket=CC1F4534F84E9619979B40847F305DF124F6BF42&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_wakuwaku_big.png" tvg-id="d535794a3db7cc2b39d62e5df97bf82f",520 Wakuwaku Japan 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" tvg-id="d535794a3db7cc2b39d62e5df97bf82f",520 Wakuwaku Japan 
 http://103.132.54.220:9221/stream/channelid/1249457621?ticket=55C7F92BD596EE9A1E8CA3FCD8006D0249632B96&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="72c3886327f1fb888507ea095c36c1c9",521 Star Chinese 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="72c3886327f1fb888507ea095c36c1c9",521 Star Chinese 
 http://103.132.54.220:9221/stream/channelid/1669907314?ticket=9FB72C35B996407E36ADBD1BD6E9DC9DE82182B2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="dfa2c19250b37702ee40b3a7b9589196",523 K+ 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="dfa2c19250b37702ee40b3a7b9589196",523 K+ 
 http://103.132.54.220:9221/stream/channelid/314680031?ticket=50A7429940505872360971119CAA8DCB4590DE73&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="f24fb90fef7cd3aa1a548b3f095aafd6",524 Formosa 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="f24fb90fef7cd3aa1a548b3f095aafd6",524 Formosa 
 http://103.132.54.220:9221/stream/channelid/263802866?ticket=4865F0469B3F92AFBECB59E210E02594FAD87D90&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ed3599cd8e2831e133e9ea05ca10507f",526 CTI Asia 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ed3599cd8e2831e133e9ea05ca10507f",526 CTI Asia 
 http://103.132.54.220:9221/stream/channelid/1301886445?ticket=83329B7C8DF81152CCA7698A221071CEF31BEBC6&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_dunialain_big.png" tvg-id="5e699e41eb0e801eb4e1868bb5cae291",527 Dunia Lain 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_dunialain_big.png" tvg-id="5e699e41eb0e801eb4e1868bb5cae291",527 Dunia Lain 
 http://103.132.54.220:9221/stream/channelid/1100900702?ticket=F42A44D9835D2341F5DF21E847D94F39978DB131&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/TMzwDBS/abc.png" tvg-id="7e3f1e3880828228e67bf02ae62f0cc6",531 ABC Australia 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/TMzwDBS/abc.png" tvg-id="7e3f1e3880828228e67bf02ae62f0cc6",531 ABC Australia 
 http://103.132.54.220:9221/stream/channelid/941506430?ticket=68AC394517BE2C83BC8124164FDFAA6BABB9B996&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_arirang_big.png" tvg-id="a398fe6c9e4ff97df656ea113681cbf3",532 Arirang 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_arirang_big.png" tvg-id="a398fe6c9e4ff97df656ea113681cbf3",532 Arirang 
 http://103.132.54.220:9221/stream/channelid/1828624547?ticket=824DF2ED55D94ACFFCCF9959F6A63CA53D541522&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_cctv4_big1.png" tvg-id="6f70d18d23716ff5802b647ad489aff6",533 CCTV4 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" tvg-id="6f70d18d23716ff5802b647ad489aff6",533 CCTV4 
 http://103.132.54.220:9221/stream/channelid/231829615?ticket=E9E1039232380244B8AEEF356016CBC22AEA5C50&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_citradrama_big.png" tvg-id="bfc729e019953c72e81f8821cf8246c3",534 Citra Drama 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_citradrama_big.png" tvg-id="bfc729e019953c72e81f8821cf8246c3",534 Citra Drama 
 http://103.132.54.220:9221/stream/channelid/1613350847?ticket=5E0E13828B4074D23E91257E72E3421C26901F44&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_sgem_big1.png" tvg-id="f4dad1d64a5c4005ce8b1ea31fb950a7",536 Sony Gem 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_sgem_big1.png" tvg-id="f4dad1d64a5c4005ce8b1ea31fb950a7",536 Sony Gem 
 http://103.132.54.220:9221/stream/channelid/1456593652?ticket=47E73A984D45BD640EF145457604296D18700C65&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_sone_big1.png" tvg-id="af2e573122dae67127fffa20ae06c4c8",537 Sony One 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_sone_big1.png" tvg-id="af2e573122dae67127fffa20ae06c4c8",537 Sony One 
 http://103.132.54.220:9221/stream/channelid/827797167?ticket=CE9F78EFF963F927FA7CF199793E88893EF1A324&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="2885f2c5a7466d080dbc6dfa74930151",538 Zhejiang International 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="2885f2c5a7466d080dbc6dfa74930151",538 Zhejiang International 
 http://103.132.54.220:9221/stream/channelid/1173521704?ticket=DBA68A0B13B5334AA912FA08619B60884010A170&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ccb3bc55b8a3d4a402fd96f33ea5fc2f",539 Shenzen International 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ccb3bc55b8a3d4a402fd96f33ea5fc2f",539 Shenzen International 
 http://103.132.54.220:9221/stream/channelid/1438430156?ticket=CBCD35C387C2AA6F89AA8B690FBA232562927543&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="78c7cf2a7758175c18084b7795f1877e",540 ETTV Asia 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="78c7cf2a7758175c18084b7795f1877e",540 ETTV Asia 
 http://103.132.54.220:9221/stream/channelid/718260088?ticket=B11625595B60543FBE004131D572F920BA9E444C&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/gPvFwQm/kungfutv.png" tvg-id="4b511910c94bb3f97710c8f04002aedb",541 NewTV http://103.132.54.220:9221/stream/channelid/270094667?ticket=3FE042F6DD236F0AE26AF47E9B2486DC693F1615&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="f263b771f2054df4021f66ef9e48629e",542 Chinese Drama 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" tvg-id="4b511910c94bb3f97710c8f04002aedb",541 NewTV http://103.132.54.220:9221/stream/channelid/270094667?ticket=3FE042F6DD236F0AE26AF47E9B2486DC693F1615&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="f263b771f2054df4021f66ef9e48629e",542 Chinese Drama 
 http://103.132.54.220:9221/stream/channelid/1907844082?ticket=32FE8165BCB83F3C55B3FFE246996C5D961863D2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="067eb56edc0c9e23b77a0972e730e98a",601 HBO 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="067eb56edc0c9e23b77a0972e730e98a",601 HBO 
 http://103.132.54.220:9221/stream/channelid/1857388038?ticket=A4396065B32A9F892CE2D7075BAFB2FE4C0827EE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="eb7631fd6b3f375efbeb7efba760e7bd",602 HBO Signature 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="eb7631fd6b3f375efbeb7efba760e7bd",602 HBO Signature 
 http://103.132.54.220:9221/stream/channelid/2100393707?ticket=41335C9A9F039EEA93C95FA7379B3DEA8E4A6E2D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="d0717d21ac84a4fe17ebb8079a699058",603 Cinemax 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="d0717d21ac84a4fe17ebb8079a699058",603 Cinemax 
 http://103.132.54.220:9221/stream/channelid/561869264?ticket=9D80B4820A57D707D3B265C032824D2318D58F42&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="4039957d9ccce967a82c76940ed1a55d",604 HBO Hits 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="4039957d9ccce967a82c76940ed1a55d",604 HBO Hits 
 http://103.132.54.220:9221/stream/channelid/2106931520?ticket=48A22EEFED5039493FAF03AD8721FCF87421E991&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="79625ef58371421f1a642db543d3ba0c",605 HBO Family 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="79625ef58371421f1a642db543d3ba0c",605 HBO Family 
 http://103.132.54.220:9221/stream/channelid/1969119865?ticket=1664CE3AEF28AE9D28A9889EDE284E9713EA55DE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="fb5d47233c5fba6d4b1bdfb5cfcd7663",607 Fox Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="fb5d47233c5fba6d4b1bdfb5cfcd7663",607 Fox Movie 
 http://103.132.54.220:9221/stream/channelid/591879675?ticket=C27433A4D338E563C9809C4513756E0EFE68E881&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="30c3a8504f516177824b9a9a2b584e99",608 Fox Family Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="30c3a8504f516177824b9a9a2b584e99",608 Fox Family Movie 
 http://103.132.54.220:9221/stream/channelid/1353237296?ticket=F61B18BADDE97E48562B610002269F3AAC65617E&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="cb3dca2e552e4dcb03eb1e243ca5c05a",609 Fox Action Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="cb3dca2e552e4dcb03eb1e243ca5c05a",609 Fox Action Movie 
 http://103.132.54.220:9221/stream/channelid/785006027?ticket=85B8DA9AB62B381121DF7D73BDC4E1C28C210ECE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_thrill_big.png" tvg-id="01465ae5c0a3e35fed35286a624ff17f",610 Thrill 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_thrill_big.png" tvg-id="01465ae5c0a3e35fed35286a624ff17f",610 Thrill 
 http://103.132.54.220:9221/stream/channelid/1700414977?ticket=2960FBA2B8D5C90019D6FA4790B99F7DBBF5D068&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/1YNbBjF/celectial.png" tvg-id="0c47cdc29d8386501b823213b86aa439",611 Celestial Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" tvg-id="0c47cdc29d8386501b823213b86aa439",611 Celestial Movie 
 http://103.132.54.220:9221/stream/channelid/1120749324?ticket=10F3EA807898FC5536009E92B566011C3DA3890D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="bd10bc85789d6507aa0b3cea8c954a95",613 TVN Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="bd10bc85789d6507aa0b3cea8c954a95",613 TVN Movie 
 http://103.132.54.220:9221/stream/channelid/96211133?ticket=4162D3003BBAA4601F76BDF796DE1F1EEF641481&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_zbioskop_big1.png" tvg-id="334bcd029ca2f93a233345cb1486a47f",614 Z Bioskop 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" tvg-id="334bcd029ca2f93a233345cb1486a47f",614 Z Bioskop 
 http://103.132.54.220:9221/stream/channelid/47008563?ticket=08D2C66BC8BEEB50AC09145DB027C8ADB62E9774&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="47a592ce40deb7444a4027bfbb644e73",615 Cinema World 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="47a592ce40deb7444a4027bfbb644e73",615 Cinema World 
 http://103.132.54.220:9221/stream/channelid/1318233415?ticket=BA902C9BA70B22E67C24506EF446DCA899426EB3&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="4e632298a137217a480c235ecae0d8dd",617 Galaxy 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="4e632298a137217a480c235ecae0d8dd",617 Galaxy 
 http://103.132.54.220:9221/stream/channelid/404906830?ticket=D95FE7487A4CEBECD7ADDAA3DDB079CE1EA86546&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" tvg-id="dd8cbb783d96fe10829518134c60aee7",618 Bioskop Indonesia 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" tvg-id="dd8cbb783d96fe10829518134c60aee7",618 Bioskop Indonesia 
 http://103.132.54.220:9221/stream/channelid/2025557213?ticket=2CB94043150C412B99B964E71B73D6DEB428002A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="acb8dba96dceb6ac08b2d7de17e29eb1",619 Flik 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="acb8dba96dceb6ac08b2d7de17e29eb1",619 Flik 
 http://103.132.54.220:9221/stream/channelid/702265516?ticket=4FCA440BB3C21561DACA150AC2DA8A7911389E67&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_imc_big.png" tvg-id="793c2a9a232047175cf917791a518c93",620 IMC
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_imc_big.png" tvg-id="793c2a9a232047175cf917791a518c93",620 IMC
 http://103.132.54.220:9221/stream/channelid/438975609?ticket=3A5E6953C1B519AB66834DA3088F974AC1202422&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="b70db465977ca53b987f04bd4e3bccf3",621 Galaxy Movie Premium 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="b70db465977ca53b987f04bd4e3bccf3",621 Galaxy Movie Premium 
 http://103.132.54.220:9221/stream/channelid/1706298807?ticket=3971FBB6F888A83ADCB9E472CEA7FA861DDC10CE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="4f89cc5d6e418786f416c248eee1ee0d",622 Star Chinese Movie 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="4f89cc5d6e418786f416c248eee1ee0d",622 Star Chinese Movie 
 http://103.132.54.220:9221/stream/channelid/1573685583?ticket=2F766B4256A47E8F2B57D25F3CD6528CB7D5BA01&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" tvg-id="bd533d68c0ae9c1557f8e2593d52688f",623 Star Chinese Movie Legend 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" tvg-id="bd533d68c0ae9c1557f8e2593d52688f",623 Star Chinese Movie Legend 
 http://103.132.54.220:9221/stream/channelid/1748849597?ticket=962297B11D12A1A32E4EC01146DBEC4602C86305&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/wgxTrzm/red.png" tvg-id="f46230fb3c45fc43e3747f3b411f6a4a",626 Red 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" tvg-id="f46230fb3c45fc43e3747f3b411f6a4a",626 Red 
 http://103.132.54.220:9221/stream/channelid/2066768628?ticket=5CAAE087257326B2097FF2E4966638D3209C5DCC&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="ebe28fa03a80024b977519153ea7745d",630 BOO 
 http://103.132.54.220:9221/stream/channelid/546300651?ticket=49A67B2BAFF3EB42E29A317FEB9383BACC056654&profile=pass 
@@ -242,15 +351,15 @@ http://103.132.54.220:9221/stream/channelid/1604735861?ticket=CAB5356D476B2E3538
 http://103.132.54.220:9221/stream/channelid/967100012?ticket=34BFE99AD37AFC5FFBB39BA3D220388F532C829B&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="bda9b1dfbb7c13ec6f11c5094daa4c6d",635 Astro Ria 
 http://103.132.54.220:9221/stream/channelid/1605478845?ticket=3945A93C605300F2AEEC986F46AFA79CFD84C2C9&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://bit.ly/tv1logo" tvg-id="b5eca76c8afaf00e2e2328044b4a7445",636 TV 1 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://bit.ly/tv1logo" tvg-id="b5eca76c8afaf00e2e2328044b4a7445",636 TV 1 
 http://103.132.54.220:9221/stream/channelid/1822944437?ticket=458C4C561CA24D72FD4C5BC45726820E0B1699C3&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://bit.ly/tv2logo" tvg-id="df439b338068827c8bf82a8b944b585a",637 TV 2 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://bit.ly/tv2logo" tvg-id="df439b338068827c8bf82a8b944b585a",637 TV 2 
 http://103.132.54.220:9221/stream/channelid/865813471?ticket=02AC442BB3D46C7074BAB28CDC1D00E8F69CD169&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://bit.ly/yv3logo" tvg-id="80c11236d07f0970724c25379a8a0ca1",638 TV 3 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://bit.ly/yv3logo" tvg-id="80c11236d07f0970724c25379a8a0ca1",638 TV 3 
 http://103.132.54.220:9221/stream/channelid/907198848?ticket=42462EE98A1A2F40A45328A3AF2B358894E8A707&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://bit.ly/tv8logo" tvg-id="6afec0262bcd92e3d55ab75224a98234",639 TV8 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://bit.ly/tv8logo" tvg-id="6afec0262bcd92e3d55ab75224a98234",639 TV8 
 http://103.132.54.220:9221/stream/channelid/650182250?ticket=E2B19CC22BD1BF77761F7BF049CDDBDD6A920736&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://bit.ly/tv9logo" tvg-id="fd2da0508c479687d07a886aeadbaad7",640 TV 9 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://bit.ly/tv9logo" tvg-id="fd2da0508c479687d07a886aeadbaad7",640 TV 9 
 http://103.132.54.220:9221/stream/channelid/1352674813?ticket=86426B60A6AE40322E8FE48123B7449889A1F50D&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="2ad15a9c3017519ea14077d1b8840336",643 CCM 1 
 http://103.132.54.220:9221/stream/channelid/475713834?ticket=873D6CCD626913E361A7104140AF19AC7EBE5D9D&profile=pass 
@@ -262,27 +371,27 @@ http://103.132.54.220:9221/stream/channelid/773925905?ticket=C912C7FFD3874869F19
 http://103.132.54.220:9221/stream/channelid/807836041?ticket=64BD755C768890BDC07745A072ED8D2DCFFD5CA2&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="c263dde6367350e0d13ab4736434a06d",647 HITS HD 
 http://103.132.54.220:9221/stream/channelid/1725785026?ticket=651B2D7034F6C4E057DF68264615270AC8FDBC02&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="a3b658f7c3b875b1573cec35af52b71a",701 Bein1 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="a3b658f7c3b875b1573cec35af52b71a",701 Bein1 
 http://103.132.54.220:9221/stream/channelid/2002302627?ticket=CE66D80FF2045CDA1694CFA59C7BD8D88E448AAE&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="be03eb8c4ac8a14a90a46f4317861185",702 Bein2
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="be03eb8c4ac8a14a90a46f4317861185",702 Bein2
 http://103.132.54.220:9221/stream/channelid/216728510?ticket=D216272DC193C00E93C83635A32C779414736A85&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="314d94d125623c73c7b846e85fb1c373",704 Fight Sport 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="314d94d125623c73c7b846e85fb1c373",704 Fight Sport 
 http://103.132.54.220:9221/stream/channelid/1368673585?ticket=8EF33CA6226D9B4EFA3075716D6DD0D55EDE47C1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="eb8279ceed34f715063f4a64c6febfc5",705 FoxSport 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="eb8279ceed34f715063f4a64c6febfc5",705 FoxSport 
 http://103.132.54.220:9221/stream/channelid/1316586219?ticket=43F8CD1C0D8F134628A9528A90A0C5F4162CCD4D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="72bf9729aefffddec077a7c5a2bd4edb",706 FoxSport2 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="72bf9729aefffddec077a7c5a2bd4edb",706 FoxSport2 
 http://103.132.54.220:9221/stream/channelid/697810802?ticket=42BEF473712676F0700BA349FC03E3C2B06D637B&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="06a0d5245d648b956ad46128757b2980",707 FoxSport3 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="06a0d5245d648b956ad46128757b2980",707 FoxSport3 
 http://103.132.54.220:9221/stream/channelid/617979910?ticket=F9D29C24A55EFF46CFFBC862F97679BF137D4F76&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="6030c1df9e9ca8beb27093aca24c0271",708 NBA TV 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="6030c1df9e9ca8beb27093aca24c0271",708 NBA TV 
 http://103.132.54.220:9221/stream/channelid/1606496352?ticket=6AD9E890DF9900B5848719DA87782370AAE8146D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_egg_big1.png" tvg-id="bdc82faee26695e0e570c88f777afdda",709 EGG 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_egg_big1.png" tvg-id="bdc82faee26695e0e570c88f777afdda",709 EGG 
 http://103.132.54.220:9221/stream/channelid/774883517?ticket=C87DA77F4BB8FD1CCB0F4E30924F29BD5CC40A67&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_golfplus_big1.png" tvg-id="04de01c4c95f32402463400873ad242a",711 Golf+ 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" tvg-id="04de01c4c95f32402463400873ad242a",711 Golf+ 
 http://103.132.54.220:9221/stream/channelid/1140973060?ticket=5B4AE1DA5F0BE1BE1FA92FB572C0BEB652025B06&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_champ1_big.png" tvg-id="0b392e99f61f151537dcad6e4659bf13",712 Champions TV1 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_champ1_big.png" tvg-id="0b392e99f61f151537dcad6e4659bf13",712 Champions TV1 
 http://103.132.54.220:9221/stream/channelid/422459659?ticket=07938F1089D567ADC06CFB6DB6A495169497C62D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_champ2_big.png" tvg-id="91132d2d6213db30b44dca680cb32e3c",713 Champions TV2 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_champ2_big.png" tvg-id="91132d2d6213db30b44dca680cb32e3c",713 Champions TV2 
 http://103.132.54.220:9221/stream/channelid/757928849?ticket=2697B36A5B2E031AF0E45C143B9FEC8FDCC69960&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="d420fc8682e0a4cb873937546dd74fdf",714 Mola TV FHD 
 http://103.132.54.220:9221/stream/channelid/117186772?ticket=A5091F19D2AB560342D6C55F188646E8F6478AA6&profile=pass 
@@ -290,209 +399,208 @@ http://103.132.54.220:9221/stream/channelid/117186772?ticket=A5091F19D2AB560342D
 http://103.132.54.220:9221/stream/channelid/1169529911?ticket=4996A827522A60B1C5D278FFA257643FBA83C543&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="9622c30ecf09f4b605199076b3f9df23",716 Mola TV SD 
 http://103.132.54.220:9221/stream/channelid/247669398?ticket=3C454B75A3944B8331E3F0EF307B11568AEB2B07&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="6224022028f1d46bca61cc1db834ea33",80 Ruang Trampil 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="6224022028f1d46bca61cc1db834ea33",80 Ruang Trampil 
 http://103.132.54.220:9221/stream/channelid/537011298?ticket=D0204FDB62DF6A7A2C7B900AED7301AD09359718&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_euronews_big1.png" tvg-id="ad64eba47b4788d4f33d2845937187d3",800 Euronews 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_euronews_big1.png" tvg-id="ad64eba47b4788d4f33d2845937187d3",800 Euronews 
 http://103.132.54.220:9221/stream/channelid/619406509?ticket=8A83C88BF7896BB605B57168BF5D6CF416660CDF&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="96ae22874e41d0c9e1fea30c07b9130d",801 CNN 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="96ae22874e41d0c9e1fea30c07b9130d",801 CNN 
 http://103.132.54.220:9221/stream/channelid/119713430?ticket=47C43A02B8C0EC0D9CECF7A5A313C09150A77D7A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bloomberg_big1.png" tvg-id="09425bbbe38d502b0580c37b27538a93",802 Bloomberg 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bloomberg_big1.png" tvg-id="09425bbbe38d502b0580c37b27538a93",802 Bloomberg 
 http://103.132.54.220:9221/stream/channelid/995836425?ticket=EA9115FB254C44C194BBEA1335ED73C2FE4249C2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/pygxZTB/cnbc.png" tvg-id="be819cb609b76733a739bf35889a4774",803 CNBC 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/pygxZTB/cnbc.png" tvg-id="be819cb609b76733a739bf35889a4774",803 CNBC 
 http://103.132.54.220:9221/stream/channelid/916226494?ticket=A79039F1BE983AA0F7A3893856D313D573158097&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="63ba3d642ce9046ad4d48088fda92f1d",804 Channel News Asia 
-http://103.132.54.220:9221/stream/channelid/1681767011?ticket=E815B2BE749A719B5DD91B03E6CDCC97B94B4229&profile=pass #EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="02a29fbca093df1319dd9ab938e0053c",805 Aljazeera http://103.132.54.220:9221/stream/channelid/1017094658?ticket=EBE3DC051E196073A3CF487F4C462DFDC5718420&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_france24_big.png" tvg-id="073384ffde2f46adf2c68a1e996f4510",806 France24 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="63ba3d642ce9046ad4d48088fda92f1d",804 Channel News Asia 
+http://103.132.54.220:9221/stream/channelid/1681767011?ticket=E815B2BE749A719B5DD91B03E6CDCC97B94B4229&profile=pass #EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="02a29fbca093df1319dd9ab938e0053c",805 Aljazeera http://103.132.54.220:9221/stream/channelid/1017094658?ticket=EBE3DC051E196073A3CF487F4C462DFDC5718420&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_france24_big.png" tvg-id="073384ffde2f46adf2c68a1e996f4510",806 France24 
 http://103.132.54.220:9221/stream/channelid/2139370247?ticket=2DD5579CEA332972C310BF3A39406CCB48622FF6&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="50e5ca8963041cbb8e2e85a754892e8a",807 NHK World Japan 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="50e5ca8963041cbb8e2e85a754892e8a",807 NHK World Japan 
 http://103.132.54.220:9221/stream/channelid/164291920?ticket=6CC5B255251E0A566B7D65429B8CDAB6506A26E0&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="acbd5479fb5b34c412445ac81c9cd3ab",808 DW 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="acbd5479fb5b34c412445ac81c9cd3ab",808 DW 
 http://103.132.54.220:9221/stream/channelid/2035596716?ticket=7BB6375871E53E4598CE281C065E117BBC1E584C&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="69e758823e300aaa9973f8ac8eb2b684",809 TVBS 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="69e758823e300aaa9973f8ac8eb2b684",809 TVBS 
 http://103.132.54.220:9221/stream/channelid/39380841?ticket=0783C2C15BC78F61EE9FA5DB868843993C594F4E&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="c11254abef530b9bdc2954d92ced5e97",810 TRT World Trial 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="c11254abef530b9bdc2954d92ced5e97",810 TRT World Trial 
 http://103.132.54.220:9221/stream/channelid/726930113?ticket=7FE64F590A294836A6D7171D7C742B9EFC9F1315&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="bd014599f829599ac523ae57a508a7bd",811 CNBC Indonesia Trial 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="bd014599f829599ac523ae57a508a7bd",811 CNBC Indonesia Trial 
 http://103.132.54.220:9221/stream/channelid/423952829?ticket=E4B6FF56A3F832054177C85FC6C0B1EC995C7539&profile=pass 
 #EXTINF:-1 group-title="INDIHOME" tvg-id="6bf1c76f167d9d9952623ee22448c633",848 HITS Movies HD 
 http://103.132.54.220:9221/stream/channelid/1875374443?ticket=5B0E2D0CD21B8470CB2CBEDD078B398C20C15A71&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_useesports_big1.png" tvg-id="bc667f8346d9ac71fd3f8051d2b1858e",85 USee Sports 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_useesports_big1.png" tvg-id="bc667f8346d9ac71fd3f8051d2b1858e",85 USee Sports 
 http://103.132.54.220:9221/stream/channelid/58681020?ticket=88B9C5D094473FCE9D8DD6A86FDA7A09E36DB254&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_alquran_big1.png" tvg-id="7ede33fc8c426e9b1a11bc3fedacf482",850 AlQuran Karim 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_alquran_big1.png" tvg-id="7ede33fc8c426e9b1a11bc3fedacf482",850 AlQuran Karim 
 http://103.132.54.220:9221/stream/channelid/2083774078?ticket=3549E78D4FDF1CD343E5680C15D6BF93E2BD6E0A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_khazanah_big1.png" tvg-id="241bf0fbf7f5762508675537981db2d6",851 Khazanah 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_khazanah_big1.png" tvg-id="241bf0fbf7f5762508675537981db2d6",851 Khazanah 
 http://103.132.54.220:9221/stream/channelid/2079333156?ticket=495C4DB5D6B4D207F87ACA8A6EBE0B3BCD5B4BE5&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_mtatv_big1.png" tvg-id="03f4f80a6c2ed93bd936203aeb84bd7a",853 MT@ TV 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_mtatv_big1.png" tvg-id="03f4f80a6c2ed93bd936203aeb84bd7a",853 MT@ TV 
 http://103.132.54.220:9221/stream/channelid/184087555?ticket=78223B6CAE5D573CA0E4BA1BE808EF981DB686D2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_mqtv_big1.png" tvg-id="a90fb093f9e8f86521220c3c53c30942",854 MQTV 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_mqtv_big1.png" tvg-id="a90fb093f9e8f86521220c3c53c30942",854 MQTV 
 http://103.132.54.220:9221/stream/channelid/330305449?ticket=8DEE31525251E33296853BD6B4B71213229F8C8B&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tv9_big1.png" tvg-id="d6a44a91bada247aa8c1ab18a855acc3",855 TV9 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tv9_big1.png" tvg-id="d6a44a91bada247aa8c1ab18a855acc3",855 TV9 
 http://103.132.54.220:9221/stream/channelid/290104534?ticket=5797C5914725F129FED3881644B57396E624322F&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" tvg-id="67d023c3f15b8257da2d40fff00c3883",856 tvMu 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" tvg-id="67d023c3f15b8257da2d40fff00c3883",856 tvMu 
 http://103.132.54.220:9221/stream/channelid/1126420583?ticket=C6BFC71152F462B5140A4ACF429A09D92B33E3A6&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tawaftv_big.png" tvg-id="8eb74dc7728d93fcab4eaf4f01e31cfe",858 Tawaf TV 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" tvg-id="8eb74dc7728d93fcab4eaf4f01e31cfe",858 Tawaf TV 
 http://103.132.54.220:9221/stream/channelid/1196275598?ticket=7B074819F9252A4442589020002B4213E84CA0A1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_useesports2_big.png" tvg-id="916d7d60f210ab286d49f505a44426de",86 Usee Sports 2 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_useesports2_big.png" tvg-id="916d7d60f210ab286d49f505a44426de",86 Usee Sports 2 
 http://103.132.54.220:9221/stream/channelid/1618832785?ticket=4685620E20DF7AF301DDA342A28F1ED3B0E86991&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tvmui_big1.png" tvg-id="ec92c147f4cbc91b8e909412e454f769",860 TV MUI 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" tvg-id="ec92c147f4cbc91b8e909412e454f769",860 TV MUI 
 http://103.132.54.220:9221/stream/channelid/1203868396?ticket=6098E959FBD03797FC46928336BC8D975A5EFF24&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_idku2_big.png" tvg-id="b906ce9eeaff3f46abd06c4115905893",87 .idku 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_idku2_big.png" tvg-id="b906ce9eeaff3f46abd06c4115905893",87 .idku 
 http://103.132.54.220:9221/stream/channelid/516818617?ticket=6E6F31B738249286B896CFF2FB8593A9F16D1C76&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/tmKfKCs/hope.png" tvg-id="91cec1d1e324c50a64676ba6bb34b329",870 Hope 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" tvg-id="91cec1d1e324c50a64676ba6bb34b329",870 Hope 
 http://103.132.54.220:9221/stream/channelid/1371655825?ticket=CE35F97F438BA4A0E15145B9AC22A738E9AE79B7&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_uchannel_big1.png" tvg-id="53b4e1148d2e11d4f92782e82108d659",871 U Channel 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_uchannel_big1.png" tvg-id="53b4e1148d2e11d4f92782e82108d659",871 U Channel 
 http://103.132.54.220:9221/stream/channelid/350336083?ticket=BEA229C072AC259FDA9801161666565C34DA6D84&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_useeprime_big1.png" tvg-id="9c7476ee335ffc8ffc021f3fde160a2d",88 USee Prime 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" tvg-id="9c7476ee335ffc8ffc021f3fde160a2d",88 USee Prime 
 http://103.132.54.220:9221/stream/channelid/1853256860?ticket=4DB348A21FC1E320FA9942D8F7EA2798AF005745&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_useephoto_big1.png" tvg-id="74da1f24833d5f8f82e9b7be7edf222f",89 USee Photo 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" tvg-id="74da1f24833d5f8f82e9b7be7edf222f",89 USee Photo 
 http://103.132.54.220:9221/stream/channelid/606067316?ticket=E52B111A5933CD1A2A08861308A0AB7568E0C28F&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_useesports_big1.png" tvg-id="fea35c258d2f2bdd873c43449afab3f9",905 Usee Sports HD 
-http://103.132.54.220:9221/stream/channelid/626828286?ticket=67AF051E30E579CE803CEAB8F9B59A3A9D6CFDFC&profile=pass #EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_idku2_big.png" tvg-id="74f46cff2541ee070269db39fc83ad5c",907 .idku HD http://103.132.54.220:9221/stream/channelid/2137846900?ticket=FB8C53AB9A9783D86DBF5B88DFF184D7A9E5573C&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/Lh6x7GG/useetoday.png" tvg-id="0dc42b8171c6e0a5d847a830a6790315",91 USee Today 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_useesports_big1.png" tvg-id="fea35c258d2f2bdd873c43449afab3f9",905 Usee Sports HD 
+http://103.132.54.220:9221/stream/channelid/626828286?ticket=67AF051E30E579CE803CEAB8F9B59A3A9D6CFDFC&profile=pass #EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_idku2_big.png" tvg-id="74f46cff2541ee070269db39fc83ad5c",907 .idku HD http://103.132.54.220:9221/stream/channelid/2137846900?ticket=FB8C53AB9A9783D86DBF5B88DFF184D7A9E5573C&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" tvg-id="0dc42b8171c6e0a5d847a830a6790315",91 USee Today 
 http://103.132.54.220:9221/stream/channelid/19645453?ticket=5369276A3F6862DABD27DE16D5D51EDE0F037DAB&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_net_big1.png" tvg-id="d55ef70bd7b0fc282e258c8c53f17891",910 Net TV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="d55ef70bd7b0fc282e258c8c53f17891",910 Net TV HD 
 http://103.132.54.220:9221/stream/channelid/200761045?ticket=1524AF8731AF8F986EFCF42B4FFF43654F03482F&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="61d6e2cf691a4aae2f5997fb2a143bf2",911 TransTV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="61d6e2cf691a4aae2f5997fb2a143bf2",911 TransTV HD 
 http://103.132.54.220:9221/stream/channelid/1340266081?ticket=8F69CD6C4B40D90C646D3F5CC6404F42AD6EA4AD&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="3eb800da1edd28aded76435815f0ef5f",911 TransTV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="3eb800da1edd28aded76435815f0ef5f",911 TransTV HD 
 http://103.132.54.220:9221/stream/channelid/1509996606?ticket=C11056E11C4AE0B59403A319811B429F5169AF2E&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="f31f6d5302c8cb92179a26b9bd0bb4ec",912 Trans7 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="f31f6d5302c8cb92179a26b9bd0bb4ec",912 Trans7 HD 
 http://103.132.54.220:9221/stream/channelid/1399660531?ticket=C0EB14849174E2C48991277F32303DA94E6BABCB&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="f246e6124a313388e788e57c90ecf3cb",913 CNN Indonesia HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="f246e6124a313388e788e57c90ecf3cb",913 CNN Indonesia HD 
 http://103.132.54.220:9221/stream/channelid/317081330?ticket=50155BA694D2E969DD5F788B1D622E85D9005653&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="ce4eaec59435ea3b69a9c50f3c771438",914 SCTV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" tvg-id="ce4eaec59435ea3b69a9c50f3c771438",914 SCTV HD 
 http://103.132.54.220:9221/stream/channelid/1169051342?ticket=497B53F891B9D94B8EA04D0522CC65F4D0F8BE25&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="6e2621e8a13e70c4a582edf1e42c8ee5",915 METRO TV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="6e2621e8a13e70c4a582edf1e42c8ee5",915 METRO TV HD 
 http://103.132.54.220:9221/stream/channelid/1747002990?ticket=E4161DFBDAA879FFD4A8974414EB7C8AA4931C3A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" tvg-id="59646b434a0ddf87f7571080d107a05d",917 Jowo HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" tvg-id="59646b434a0ddf87f7571080d107a05d",917 Jowo HD 
 http://103.132.54.220:9221/stream/channelid/1131111513?ticket=B18FC5A3AF3FE03331454113455A5C9BA05D9056&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="5658d5d4052df7cf7c72b74906cd01aa",920 National Geographic HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeo_big.png" tvg-id="5658d5d4052df7cf7c72b74906cd01aa",920 National Geographic HD 
 http://103.132.54.220:9221/stream/channelid/1423267926?ticket=EB97D9546BEE3F8F235651FDDE89E0AAF2DCCD98&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_natgeowild_big.png" tvg-id="612250a417044bc7af056830129ebb0b",921 Natgeo Wild HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" tvg-id="612250a417044bc7af056830129ebb0b",921 Natgeo Wild HD 
 http://103.132.54.220:9221/stream/channelid/609231457?ticket=C7637AF10FF0B762FE3747C2D80E8303D69B5215&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_history_big.png" tvg-id="30c80843cede343b02664f01ca91af05",922 History Channel HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="30c80843cede343b02664f01ca91af05",922 History Channel HD 
 http://103.132.54.220:9221/stream/channelid/1124649008?ticket=A549E226425D3C9E909B073AB5C370952D53F9C4&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="b1c29183506bb0a5c395525dffa3fbd4",924 CGTN Documentary HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="b1c29183506bb0a5c395525dffa3fbd4",924 CGTN Documentary HD 
 http://103.132.54.220:9221/stream/channelid/59884209?ticket=EDB42B961730980A409420846BF64A9760D75513&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="d8db9dcd08e7eaab59e807799fdb4e62",925 Cinema World HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="d8db9dcd08e7eaab59e807799fdb4e62",925 Cinema World HD 
 http://103.132.54.220:9221/stream/channelid/1302191064?ticket=ED6DC02BB123BB5AE03E802730F2D84A6DA3ACDA&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="a1be0ac4ac13224828ea452ccc659f8f",927 Discovery Channel HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="a1be0ac4ac13224828ea452ccc659f8f",927 Discovery Channel HD 
 http://103.132.54.220:9221/stream/channelid/1141554849?ticket=6F2168C9A42CFF5DDC831C6358E119A49C002CF0&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/HT1tRCH/disneychannel.png" tvg-id="4532849572711ae70e3c2d8be4787151",930 Disney Channel HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" tvg-id="4532849572711ae70e3c2d8be4787151",930 Disney Channel HD 
 http://103.132.54.220:9221/stream/channelid/360985157?ticket=5E29F4194572D4D6D8940BF0937472D32733BF89&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="200e77fdca006f84f880aac8e0196be5",932 DreamWork HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="200e77fdca006f84f880aac8e0196be5",932 DreamWork HD 
 http://103.132.54.220:9221/stream/channelid/2104954400?ticket=9B49FD72BABC50A0893D7D502D7E83A358A2359A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="5a60e8ace878faf813aa077bed590485",935 HBO Dolby HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="5a60e8ace878faf813aa077bed590485",935 HBO Dolby HD 
 http://103.132.54.220:9221/stream/channelid/753426522?ticket=31677BE7E3C3FFAF2759447F8140D91122C2C280&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="43a30e2c3e498ae5499a751516664a73",936 HBO Signature Dolby HD 
-http://103.132.54.220:9221/stream/channelid/739156803?ticket=83E0117E14F8C4FEE10B9169C211ACFBCB7DFBB0&profile=pass #EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="f4af4646ed29bd5aea1942d8c21a0070",937 HBO Hits Dolby HD http://103.132.54.220:9221/stream/channelid/1179037684?ticket=52F2B10EDB554F264171E86CC7EF826B77B158A0&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="230bbdabd5ea01d9ebdf002b50e436c0",938 HBO Family Dolby HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="43a30e2c3e498ae5499a751516664a73",936 HBO Signature Dolby HD 
+http://103.132.54.220:9221/stream/channelid/739156803?ticket=83E0117E14F8C4FEE10B9169C211ACFBCB7DFBB0&profile=pass #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="f4af4646ed29bd5aea1942d8c21a0070",937 HBO Hits Dolby HD http://103.132.54.220:9221/stream/channelid/1179037684?ticket=52F2B10EDB554F264171E86CC7EF826B77B158A0&profile=pass 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="230bbdabd5ea01d9ebdf002b50e436c0",938 HBO Family Dolby HD 
 http://103.132.54.220:9221/stream/channelid/733809443?ticket=4E343197E265BA12AF78DE85914D833D54C7B886&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="87da4b45e233e9a2d45dc8ffe53f8c93",939 Cinemax Dolby HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="87da4b45e233e9a2d45dc8ffe53f8c93",939 Cinemax Dolby HD 
 http://103.132.54.220:9221/stream/channelid/1162599047?ticket=90FF34E1E33BC4FCDDA015784DCC2FDDA65D288A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="a910a69fa2fa889521e54e0ad38cfc5f",940 Fashion TV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" tvg-id="a910a69fa2fa889521e54e0ad38cfc5f",940 Fashion TV HD 
 http://103.132.54.220:9221/stream/channelid/530976937?ticket=50570B05A27AA4D19EC93A900D603F6ECEE096BB&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="15cd222ddc8180cf57d9735c692475e6",941 Natgeo People HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" tvg-id="15cd222ddc8180cf57d9735c692475e6",941 Natgeo People HD 
 http://103.132.54.220:9221/stream/channelid/757255445?ticket=A13A8BB1A90758571D599B71A0C0FBE2EF489765&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="e7503adfd98976e6c818e2011d1cfb04",942 Channel [V] HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" tvg-id="e7503adfd98976e6c818e2011d1cfb04",942 Channel [V] HD 
 http://103.132.54.220:9221/stream/channelid/1597657319?ticket=5F90B818C58D2B729E54697308CC56DCDF365BEB&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_afc_big.png" tvg-id="77c802ba16662596228f0fcb1f917360",943 AFN HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_afc_big.png" tvg-id="77c802ba16662596228f0fcb1f917360",943 AFN HD 
 http://103.132.54.220:9221/stream/channelid/973260919?ticket=53944383EF4987AB96EA5A0FF7A5C5C65FFEFE76&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fashionone_big1.png" tvg-id="6419626c0f3515983fc00e60db2343b2",947 Fashion One HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" tvg-id="6419626c0f3515983fc00e60db2343b2",947 Fashion One HD 
 http://103.132.54.220:9221/stream/channelid/1818368356?ticket=FF83DDFAD44013692E7EFC35C2F68128786E6517&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="5dd5432cc4415c5095cc9951bc49250e",948 MTV Live HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="5dd5432cc4415c5095cc9951bc49250e",948 MTV Live HD 
 http://103.132.54.220:9221/stream/channelid/742643037?ticket=D347BBC8AB765F60118B3F1160443CFEA7F2F76D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="6947045504592a6d90c6bd07a3ad8e69",949 i Konser HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="6947045504592a6d90c6bd07a3ad8e69",949 i Konser HD 
 http://103.132.54.220:9221/stream/channelid/1426343785?ticket=3CEB9C20AD8A0F33E0484D27C294523DD6342AF2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="b29e112d3fb62be50027f2a69ea23736",950 FOXlife HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" tvg-id="b29e112d3fb62be50027f2a69ea23736",950 FOXlife HD 
 http://103.132.54.220:9221/stream/channelid/756129458?ticket=3ACD2D1180E76D1159F24A59E2D5A148EFBD0558&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="9fac366cdecc4cecf09d9c820cb4e7ac",951 FOX HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="9fac366cdecc4cecf09d9c820cb4e7ac",951 FOX HD 
 http://103.132.54.220:9221/stream/channelid/1815522463?ticket=F2C02BE2DB5D5349AE95C928FDDF43933EA30F4A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="0580f04db194572286e42963e498348b",952 K+ HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="0580f04db194572286e42963e498348b",952 K+ HD 
 http://103.132.54.220:9221/stream/channelid/1307607045?ticket=E173E8A91E1F43689F3ED2A92A4A043814A06A32&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="17517650f89c6e1679b8f6bb52909fd8",953 NHK World Premium HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="17517650f89c6e1679b8f6bb52909fd8",953 NHK World Premium HD 
 http://103.132.54.220:9221/stream/channelid/1349931287?ticket=9795AC61A6A4E0183857E416BB9F73503E330323&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_kix_big.png" tvg-id="c97d2d68109b51bac01ff67f4798f1f9",954 KIX HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="c97d2d68109b51bac01ff67f4798f1f9",954 KIX HD 
 http://103.132.54.220:9221/stream/channelid/1747811785?ticket=E5D24CED640D28FC9CB4445ADC4A4C738CC6D365&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="a381342c3072221c03fe694ee5adf671",955 TVN HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="a381342c3072221c03fe694ee5adf671",955 TVN HD 
 http://103.132.54.220:9221/stream/channelid/741638563?ticket=DB433088C601EA85148197D24EE726278DD34231&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="94328c4a4193dc1ceacb03bd5fcf1ae5",956 FOX Crime HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" tvg-id="94328c4a4193dc1ceacb03bd5fcf1ae5",956 FOX Crime HD 
 http://103.132.54.220:9221/stream/channelid/1250701972?ticket=EDF0B765A96CE94C8F06F7C2B234789ED4BC6A89&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="3055f699aeb2bbb869733d79c6947e25",958 KBS World HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="3055f699aeb2bbb869733d79c6947e25",958 KBS World HD 
 http://103.132.54.220:9221/stream/channelid/435574064?ticket=8F741FD39E64A6E6882B47E57829ED0F3445F5B4&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_wakuwaku_big.png" tvg-id="e24f8d9285d139c85d241507d144edd9",959 WakuWaku Japan HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" tvg-id="e24f8d9285d139c85d241507d144edd9",959 WakuWaku Japan HD 
 http://103.132.54.220:9221/stream/channelid/311250914?ticket=019E1A80167D06D28B80D12528121AC690F65A8A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_axn_big.png" tvg-id="c12ccde1d830ecca31b1b2fd0f5230ff",960 AXN HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_axn_big.png" tvg-id="c12ccde1d830ecca31b1b2fd0f5230ff",960 AXN HD 
 http://103.132.54.220:9221/stream/channelid/1640836289?ticket=7037F9072360452215E2EB7F62C91A0D8852AA59&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="36c8d84d151bb905b9fccd9d07b1299e",961 Blue Ant Extreme HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="36c8d84d151bb905b9fccd9d07b1299e",961 Blue Ant Extreme HD 
 http://103.132.54.220:9221/stream/channelid/1306052662?ticket=FF51A09C56931342D07A6C273654567D01F9660A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="9973e51c377b1e3f3cbe28a1d77f4421",962 Lifetime HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_lifetime_big.png" tvg-id="9973e51c377b1e3f3cbe28a1d77f4421",962 Lifetime HD 
 http://103.132.54.220:9221/stream/channelid/484799385?ticket=286C63D41F4ECA65E554801A2FA015C985453898&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="7a623936883220aa0311297ec2b3b539",963 HGTV HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="7a623936883220aa0311297ec2b3b539",963 HGTV HD 
 http://103.132.54.220:9221/stream/channelid/909730426?ticket=E07D716092B218C4967375211FFBE2A6E687F35C&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_warner_big.png" tvg-id="fbe4b08ee2c32fcd23a789ae02295198",964 Warner HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="fbe4b08ee2c32fcd23a789ae02295198",964 Warner HD 
 http://103.132.54.220:9221/stream/channelid/246473979?ticket=3702E47320A577AB0D178414792437F0466C346A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ad2b92f0451c3c715d712a33510315a3",967 BLUE ANT ENT HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="ad2b92f0451c3c715d712a33510315a3",967 BLUE ANT ENT HD 
 http://103.132.54.220:9221/stream/channelid/1888627629?ticket=A0E3E2E72DEF683878B6E220AE8578EC69D4A10A&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="3ae280b45e112b8cd57d4dba5d88f984",968 Star Chinese Movies HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" tvg-id="3ae280b45e112b8cd57d4dba5d88f984",968 Star Chinese Movies HD 
 http://103.132.54.220:9221/stream/channelid/880861754?ticket=421B9FD0945070007272CB5BE4E81DACAB9009FC&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="d01887febcc4578190eaafe2f37e7ab0",969 TVN Movie HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="d01887febcc4578190eaafe2f37e7ab0",969 TVN Movie HD 
 http://103.132.54.220:9221/stream/channelid/2122782928?ticket=8A40F5B87E39C8375FB0186DB94672BAEBF9DCEB&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="3e6d60d436b3c289a8adc91c46cacf9d",970 Bein1 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="3e6d60d436b3c289a8adc91c46cacf9d",970 Bein1 HD 
 http://103.132.54.220:9221/stream/channelid/1415605566?ticket=A1551C98E388D76E60F82D3A4784C2EC25F84518&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="eddad7442505d2531a275ae5361bed82",971 Bein2 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="eddad7442505d2531a275ae5361bed82",971 Bein2 HD 
 http://103.132.54.220:9221/stream/channelid/1154996973?ticket=0801632939DDC12CD1581A83D89A59A0F57F5F94&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="bad4b239beaba560d7a5565e9f4d61e9",973 FoxSport HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" tvg-id="bad4b239beaba560d7a5565e9f4d61e9",973 FoxSport HD 
 http://103.132.54.220:9221/stream/channelid/968021178?ticket=4D0024A4A8189E9B247FACF761388E5261AB7428&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="dbbceaa81e55c7e289e5b8d34652f43c",974 FoxSport2 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" tvg-id="dbbceaa81e55c7e289e5b8d34652f43c",974 FoxSport2 HD 
 http://103.132.54.220:9221/stream/channelid/686472411?ticket=1B32B9DBBDB7E1A6ACA407C62EC3E57E35230CA2&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="c494da1d5df30d9585f4fb2501a86205",975 FoxSport3 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" tvg-id="c494da1d5df30d9585f4fb2501a86205",975 FoxSport3 HD 
 http://103.132.54.220:9221/stream/channelid/500864196?ticket=AED642634C1543C3E1EDF87760685841E95649DD&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="795a8f8529970d807714d5e41d2c83f5",976 Fight Sport HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="795a8f8529970d807714d5e41d2c83f5",976 Fight Sport HD 
 http://103.132.54.220:9221/stream/channelid/93280889?ticket=459CAD044A8E89307549C4F13BF5377846415549&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="0cafcbee92815adcab59f8e5aa9be61d",977 NBA TV-HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="0cafcbee92815adcab59f8e5aa9be61d",977 NBA TV-HD 
 http://103.132.54.220:9221/stream/channelid/1858842380?ticket=AB3E94FE5F088AA34C8186D9B2F8B2DDF732D428&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_golfplus_big1.png" tvg-id="7f60c6a331d64e76face36ff753d6f96",979 Golf+ HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" tvg-id="7f60c6a331d64e76face36ff753d6f96",979 Golf+ HD 
 http://103.132.54.220:9221/stream/channelid/600203391?ticket=84E41C12AAA3A99F73F91EB6B2A6073FA2F605CC&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_champ1_big.png" tvg-id="15ec299cdd54dbea1e70318e07f54092",980 Champions TV1 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_champ1_big.png" tvg-id="15ec299cdd54dbea1e70318e07f54092",980 Champions TV1 HD 
 http://103.132.54.220:9221/stream/channelid/472509461?ticket=535C4BF0D38FB4F2284DD48FD7F7285F52CCD48B&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_champ2_big.png" tvg-id="1002afe6624c602fc251cf45cb27b10a",981 Champions TV2 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_champ2_big.png" tvg-id="1002afe6624c602fc251cf45cb27b10a",981 Champions TV2 HD 
 http://103.132.54.220:9221/stream/channelid/1722745360?ticket=5AF2E78FD2D996E5965B1D66AA7FBC0220EEE467&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="3683fc5825313ce2b829e272a1826a05",982 CNN HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="3683fc5825313ce2b829e272a1826a05",982 CNN HD 
 http://103.132.54.220:9221/stream/channelid/1492943670?ticket=FFFB02AB00EE72F4B0F920774A69DFC38CAFD2B1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="61f651472fb217cbadcc41626e643a09",983 CNBC Indonesia HD Trial 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" tvg-id="61f651472fb217cbadcc41626e643a09",983 CNBC Indonesia HD Trial 
 http://103.132.54.220:9221/stream/channelid/1196553825?ticket=C74D63E506E14CEDBF621F06FB5EE72AF8502377&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="092d405f622bebeb249173cba1a21713",984 Channel News Asia HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="092d405f622bebeb249173cba1a21713",984 Channel News Asia HD 
 http://103.132.54.220:9221/stream/channelid/1598041353?ticket=8F17F72FC123B173C67DC8AB8884050BC5C87B55&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="258c618161fcbf68b10ea4d5e0d7cb63",985 Al Jazeera HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="258c618161fcbf68b10ea4d5e0d7cb63",985 Al Jazeera HD 
 http://103.132.54.220:9221/stream/channelid/23170085?ticket=D66FD9A55C5E56294A7679BC5211DE8FFD32C5FF&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_france24_big.png" tvg-id="5a522e3470b193b285a7606942128b46",986 France 24 HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_france24_big.png" tvg-id="5a522e3470b193b285a7606942128b46",986 France 24 HD 
 http://103.132.54.220:9221/stream/channelid/875450970?ticket=1AFA8793670E54FCE53FF4E3EB7590FCB9A492C1&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="54fe58d29d9ff298a0496070c29096c0",987 NHK World Japan HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="54fe58d29d9ff298a0496070c29096c0",987 NHK World Japan HD 
 http://103.132.54.220:9221/stream/channelid/1381563988?ticket=245E88B157E17F09FCD1852E5C54C118A3C8E86D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="5b971ec7a16c3386ff708e7fc97dff51",988 DW HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-tvg-logo="http://images.useetv.com/logo_dwtv_big.png" tvg-id="5b971ec7a16c3386ff708e7fc97dff51",988 DW HD 
 http://103.132.54.220:9221/stream/channelid/1193187163?ticket=B190E8229E75A070F1621617BFCDCCE183743A62&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="d3714ae1bea585423b5ec6f199e61f2c",990 Flik HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="d3714ae1bea585423b5ec6f199e61f2c",990 Flik HD 
 http://103.132.54.220:9221/stream/channelid/1632268755?ticket=02E5C09B798C76B1242AE0DC08B816F7B15602AA&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="93954a9e5244fe421e2012f1511b27da",991 HBO HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="93954a9e5244fe421e2012f1511b27da",991 HBO HD 
 http://103.132.54.220:9221/stream/channelid/508204435?ticket=21D8A2A3D728ED6312E6171386249CE7B0EABBA9&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="aa0eae2b8978c8e85c73440914d71387",992 HBO Hits HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="aa0eae2b8978c8e85c73440914d71387",992 HBO Hits HD 
 http://103.132.54.220:9221/stream/channelid/732827306?ticket=EFC0E8BA97717D8AE57FAFAB3E5485FB02A6273F&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="04f404dfae9c1e8130395c3350357f47",993 HBO Signature HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="04f404dfae9c1e8130395c3350357f47",993 HBO Signature HD 
 http://103.132.54.220:9221/stream/channelid/1594160132?ticket=FBC14F404E0B2FAEF302667BD9A39BCC013BA834&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="3f0c39739d4dc60aee41dfb635203528",994 HBO Family HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="3f0c39739d4dc60aee41dfb635203528",994 HBO Family HD 
 http://103.132.54.220:9221/stream/channelid/1933118527?ticket=8F4CA4FBB2CB336893576D3C89C642F33198555D&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/wgxTrzm/red.png" tvg-id="41af2b0a763a8dbee71c1862b9261d7b",995 RED HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" tvg-id="41af2b0a763a8dbee71c1862b9261d7b",995 RED HD 
 http://103.132.54.220:9221/stream/channelid/170635073?ticket=3A1159743EBDF4ECAC0F27BC7A285AE3D4CB7660&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="7880cc0365a6064791206274d199963b",996 Cinemax HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="7880cc0365a6064791206274d199963b",996 Cinemax HD 
 http://103.132.54.220:9221/stream/channelid/63733880?ticket=8255763F5AEC6089C5C0C9251E63D82AFE5C23E5&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="44ad0149d2a40ce52ec60ffe13c808eb",997 Fox Family Movie HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="44ad0149d2a40ce52ec60ffe13c808eb",997 Fox Family Movie HD 
 http://103.132.54.220:9221/stream/channelid/1224846660?ticket=5E959A5AFC99851BDB4ED70CEE5F6F26713C38D8&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="b39f552b8872f027dbb59a58c9469977",998 Fox Movie HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" tvg-id="b39f552b8872f027dbb59a58c9469977",998 Fox Movie HD 
 http://103.132.54.220:9221/stream/channelid/727031731?ticket=DA4A5139AE798731BA906B4A227338798A088954&profile=pass 
-#EXTINF:-1 group-title="INDIHOME" logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="6d952dbf86ff731ff1038b99bd588e0f",999 Fox Action Movie HD 
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" tvg-id="6d952dbf86ff731ff1038b99bd588e0f",999 Fox Action Movie HD 
 http://103.132.54.220:9221/stream/channelid/1059951981?ticket=1825E4A24675F1ECB5F7A012FB1314C77E219EBF&profile=pass 
-
 
 
 
