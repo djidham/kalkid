@@ -535,25 +535,25 @@ http://103.132.54.220:9221/stream/channelid/1059951981?ticket=1825E4A24675F1ECB5
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TRANS 7
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-trans7
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-trans7
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TRANS TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-transtv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-transtv
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL-UseeTv",Indosiar
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-indosiar
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-indosiar
 
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-UseeTv",MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL-UseeTv",SCTV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-sctv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-sctv
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-UseeTv",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Metro TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-metrotv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-metrotv
 
 #EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-UseeTv",iNEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
@@ -562,117 +562,124 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-m
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",NET TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-net
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-net
 
 #EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Rajawali TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-rtv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-rtv
 
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Berita Satu
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-beritasatu
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-beritasatu
 
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Kompas TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-kompastv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-kompastv
 
 #EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JITV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-jitv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jitv
 
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Insert
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-insert
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-insert
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",ANTARA TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-antara
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-antara
 
 #EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="LOKAL-UseeTv",Ruang Terampil
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-useeinfo
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useeinfo
 
 #EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Usee Photo
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-useephoto
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useephoto
 
 #EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Usee Prime
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-useeprime
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-useeprime
 
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",BALI TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-balitv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-balitv
 
 #EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JAK TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-jaktv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jaktv
 
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JTV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-jtv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-jtv
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TV Edukasi
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-tvedukasi
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-tvedukasi
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TVRI
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-tvri
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-tvri
 
 #EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",DAAI TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-daaitv
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-daaitv
 
 #EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",RRI NET
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=usee-rrinet
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-rrinet
+
+
+
+
+
 
 
 //LOKAL VIDEO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV 
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-204
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-204
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL-Vidio", Indosiar 
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-205
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-205
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-Vidio", RCTI
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-665
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="LOKAL-Vidio", O Channel
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-206
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-206
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL-Vidio", Kompas
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-874
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-874
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL-Vidio", Berita Satu
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-6165
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6165
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL-Vidio", MetroTV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-777
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-777
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL-Vidio", NET.
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-875
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-875
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-733
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-733
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL-Vidio", Trans7 
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-734
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-734
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL-Vidio", TVRI
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-6441
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6441
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-Vidio", MNC TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-870
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png" group-title="LOKAL-Vidio", Jaktv
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-5415
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-5415
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-Vidio", Global TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-778
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-778
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL-Vidio", Rajawali TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-1561
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-1561
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-Vidio", Inews
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-5409
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-5409
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="LOKAL-Vidio", O Shop
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-6166
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6166
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-6711
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6711
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="LOKAL-Vidio", Nusantara TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-7432
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7432
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="LOKAL-Vidio", Daai TV
-https://home-tv.web.id/dinda/tes_lokal.m3u8?channel=vidio-6482
+https://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6482
+
+
 
 
 
