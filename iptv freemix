@@ -1994,6 +1994,9 @@ https://www.googleapis.com/drive/v3/files/1c0KBCyPvRJ15qF8OaXMF-U9r2AgsbmSN?alt=
 
 
 =================vod asia==========================
+#EXTINF:0 tvg-id="avi" group-title="VOD ASIA" tvg-logo="https://image.tmdb.org/t/p/w185/eSgGxkwY0Omw1YVvhzEMWQGNUvu.jpg",Dragon Tiger Mountain Zhang Tianshi. Qilin
+https://storage2.dewanonton.live/hls/5e2bca7f-3230-4751-980f-b6f12b60ae9d.mp4/index.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="VOD ASIA" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yOPiM7adzmgmqiTPAdrpK3HE4tT.jpg",Mojin: Longling Misty Cave (2020)
 https://storage2.dewanonton.live/hls/b4ec9dd0-c3a4-42dd-a3b4-b304289886ad.mp4/index.m3u8
 
