@@ -2519,6 +2519,9 @@ https://www.googleapis.com/drive/v3/files/1c0KBCyPvRJ15qF8OaXMF-U9r2AgsbmSN?alt=
 
 
 =================vod asia==========================
+#EXTINF:0 tvg-id="avi" group-title="VOD ASIA" tvg-logo="https://image.tmdb.org/t/p/original/lpgyDCEOxWJQxYIgD7n96GOWMn3.jpg",Shaolin Conquering Demons
+https://storage2.dewanonton.live/hls/15ef9cab-d7ec-4636-ab65-6dec320bb7b1.mp4/index.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="VOD ASIA" tvg-logo="https://image.tmdb.org/t/p/w185/eSgGxkwY0Omw1YVvhzEMWQGNUvu.jpg",Dragon Tiger Mountain Zhang Tianshi. Qilin
 https://storage2.dewanonton.live/hls/5e2bca7f-3230-4751-980f-b6f12b60ae9d.mp4/index.m3u8
 
