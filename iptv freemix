@@ -3399,27 +3399,20 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORT 2
-http://vp2p2s.my6868.cc/20415/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORT 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORT 4
-http://vp2p2s.my6868.cc/20417/index.m3u8
+#EXT#EXTINF:-1 xml-id="AS1.MY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Extra Sport",Astro Supersports 1 
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORTS 1
-http://185.39.8.88:8088/live/xi4fO6Tqhr/I1ZplJeMC6/40598.mp2t?token=QhVcUhcJRggXUVYEBAcAAFcHBwdTUAVQVVwGBQUHA1BaBwxQV1NWUAxGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QA1cCVgFSEhhDQl9eBEReUlNUBlFVUVFQARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Extra Sport",Astro Supersports 2 
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORTS 2
-http://185.39.8.88:8088/live/CjPmGSYrnn/hYxe1Qkbnj/40599.mp2t?token=QhVcUhcJRggXAA1UAQdUVgUBBlFTX1JXVAZTVVVSVAcIVVFXBQMAU1dGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVUDUwJXEhhDQl9eBEReUlNUBlFVUVdVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg- id="AS3.MY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Extra Sport",Astro Supersports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",ASTRO SUPERSPORTS 3
-http://185.39.8.88:8088/live/t7aRM7KXCp/uaZB9X8uP9/40600.mp2t?token=QhVcUhcJRggXV1BRUF5WBQVQAVEFBQUFVAYNAFMAAAUOAFAHBgUGBw1GGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlIGUgNSEhhDQl9eBEReUlNUBlFVVlNUCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport" ,Astro SuperSport 4
-http://185.39.8.88:8088/live/bj5cX6bwXB/UgKHgZMHUZ/40601.mp2t?token=QhVcUhcJRggXV1BRUF5WBQVQAVEFBQUFVAYNAFMAAAUOAFAHBgUGBw1GGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlIGUgNSEhhDQl9eBEReUlNUBlFVVlNUCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
+#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Extra Sport",Astro Supersports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",beIN Sport 1 Asia
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
