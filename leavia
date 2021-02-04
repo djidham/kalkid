@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Gagal Memuat Playlist
-http://iptv-wow.my.id/tv/warn.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lokal",www.iptv-wow.my.id
-///////////// LOKAL
+
 #EXTINF:0 tvg-id="ext" group-title="Lokal",www.iptv-wow.my.id
 https://iptv-wow.my.id/tv/warn.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lokal",t.me/iptvwoww
