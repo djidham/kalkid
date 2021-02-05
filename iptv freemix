@@ -8,9 +8,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b846000.m
 http://live.cnnINDONESIA 3.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="LOCAL",GLOBAL TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-id="-" tvg-name="INDONESIA 3NESIA 2SIAR" tvg-logo="http://images.useetv.com/logo_INDONESIA 3NESIA 2siar_big1.png" group-title="LOCAL",INDONESIA 3NESIA 2SIAR
+#EXTINF:-1 tvg-id="-" tvg-name="INDONESIA 2SIAR" tvg-logo="http://images.useetv.com/logo_INDONESIA 2siar_big1.png" group-title="LOCAL",INDONESIA 2SIAR
 http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=INDONESIA 3NESIA 2siar
+#http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=INDONESIA 2siar
 #EXTINF:-1 tvg-id="-" tvg-name="KOMPAS TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="LOCAL",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 tvg-id="-" tvg-name="METRO TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="LOCAL",METRO TV
@@ -376,13 +376,13 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",SALAM TV
-http://wowza60.INDONESIA 3NESIA 2streamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+http://wowza60.INDONESIA 2streamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",Iqraa TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",Wesal TV
-http://wowza58.INDONESIA 3NESIA 2streamserver.com:1935/wesaltv/live/playlist.m3u8
+http://wowza58.INDONESIA 2streamserver.com:1935/wesaltv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",UBG TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
@@ -400,7 +400,7 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 http://radartasikMalaysiaa.onlivestreaming.net/radartasikMalaysiaa/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",MGS
-http://wowza58.INDONESIA 3NESIA 2streamserver.com:1935/mgstv/live/playlist.m3u8
+http://wowza58.INDONESIA 2streamserver.com:1935/mgstv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -424,7 +424,7 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",PAYTREN TV
-http://wowza58.INDONESIA 3NESIA 2streamserver.com:1935/ymtv/live/playlist.m3u8
+http://wowza58.INDONESIA 2streamserver.com:1935/ymtv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L56xqf8G/tvkalkid.png" group-title="INDONESIA 3",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
@@ -1481,7 +1481,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428236_ico.png" group-title="Malaysia1",INDONESIA 3NESIA 2SIAR
+#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428236_ico.png" group-title="Malaysia1",INDONESIA 2SIAR
 https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2074,7 +2074,7 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b1/MGSTV_%282015%29.png/500px-MGSTV_%282015%29.png" group-title="TV DAERAH", MGSTV (OTTO TEVE)
-http://wowza58.INDONESIA 3NESIA 2streamserver.com:1935/mgstv/live/playlist.m3u8
+http://wowza58.INDONESIA 2streamserver.com:1935/mgstv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -2264,8 +2264,8 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j4R8H2m/INDONESIA 3NESIA 2siar.png" group-title="INDONESIA 3",INDONESIA 3NESIA 2siar (OTTO TEVE)
-https://liveanevia.mncnow.id/live/eds/INDONESIA 3NESIA 2siar/sa_dash_vmx/INDONESIA 3NESIA 2siar.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j4R8H2m/INDONESIA 2siar.png" group-title="INDONESIA 3",INDONESIA 2siar (OTTO TEVE)
+https://liveanevia.mncnow.id/live/eds/INDONESIA 2siar/sa_dash_vmx/INDONESIA 2siar.mpd
 
 //Asia
 
@@ -3797,7 +3797,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 tvg-logo="TEST" group-title="INDONESIA 3",Hi INDONESIA 3NESIA 2 
+#EXTINF:-1 tvg-logo="TEST" group-title="INDONESIA 3",Hi INDONESIA 2 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 
@@ -3971,225 +3971,225 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTM3U
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",G T V
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",G T V
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4319
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",METROTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",METROTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4318
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNCTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNCTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4317
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",INEWS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",INEWS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4315
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TRANS7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TRANS7
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4314
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TRANSTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TRANSTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4313
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TVRI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TVRI
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4312
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MUSIC CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MUSIC CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4311
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC ENTERTAINMENT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC ENTERTAINMENT
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4310
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",INFOTAINMENT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",INFOTAINMENT
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4308
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TV ONE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TV ONE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4306
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",IDX
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",IDX
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4305
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",LIFESTYLE FASHION
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",LIFESTYLE FASHION
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4304
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC MUSLIM
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC MUSLIM
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4303
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ANTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ANTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4302
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC SHOP SMART
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC SHOP SMART
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4301
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC SPORTS2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC SPORTS2
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4300
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC SPORTS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC SPORTS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4299
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",THRILL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",THRILL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4321
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ZEE BIOSKOP
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ZEE BIOSKOP
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4298
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",KIDSTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",KIDSTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4297
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CCM
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CCM
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4296
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",VISION PRIME
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",VISION PRIME
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4294
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",EURONEWS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",EURONEWS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4293
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CELESTIAL MOVIES
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CELESTIAL MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4292
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ARIRANG KOREA
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ARIRANG KOREA
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4291
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ASIAN FOOD CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ASIAN FOOD CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4290
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",KIX
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",KIX
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4289
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX NEWS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX NEWS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4288
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NHK WORLD PREMIUM
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NHK WORLD PREMIUM
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4286
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BERITA SATU
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BERITA SATU
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4285
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BALITV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BALITV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4284
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DAAITV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DAAITV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4283
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",LIFETIME
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",LIFETIME
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4282
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ZEETV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ZEETV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4281
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CNBC
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CNBC
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4280
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",EWTN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",EWTN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4279
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",LIFE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",LIFE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4278
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ZING
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ZING
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4277
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FMN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FMN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4275
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",KOMPASTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",KOMPASTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4273
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",RTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",RTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4271
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DISNEY JUNIOR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DISNEY JUNIOR
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4270
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ZEE CINEMA
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ZEE CINEMA
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4269
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NICK
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NICK
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4268
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",INDONESIA 3NESIA 2SIAR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",INDONESIA 2SIAR
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4267
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NET HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NET HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4266
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TV9
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TV9
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4265
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",SCTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",SCTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4264
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",AL QURAN AL KAREM
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",AL QURAN AL KAREM
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4263
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ZEE NEWS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ZEE NEWS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4261
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CRIME INVESTIGATION
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CRIME INVESTIGATION
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4260
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ABC AUSTRALIA
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ABC AUSTRALIA
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4259
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",AL JAZEERA ENGLISH
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",AL JAZEERA ENGLISH
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4258
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MNC CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MNC CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4257
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NEWS ASIA CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NEWS ASIA CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4256
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",MIAOMI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",MIAOMI
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4255
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NICKJR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NICKJR
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4254
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",JAKTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",JAKTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4253
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BESMART
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BESMART
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4252
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TV5 MONDE ASIE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TV5 MONDE ASIE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4249
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BLOOMBERG
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BLOOMBERG
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4248
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FRANCE24
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FRANCE24
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4245
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",HISTORY
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",HISTORY
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4243
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BEIN SPORTS 1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BEIN SPORTS 1
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4242
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX SPORTS 3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX SPORTS 3
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4241
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NAT GEO PEOPLE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NAT GEO PEOPLE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4238
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",HGTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",HGTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4237
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",HITS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",HITS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4236
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX SPORTS 1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX SPORTS 1
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4235
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",SCM
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",SCM
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4233
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",AXN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",AXN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4231
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TLC
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TLC
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4230
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CINEMA WORLD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CINEMA WORLD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4229
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ANIMAX
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ANIMAX
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4228
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",SONY ONE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",SONY ONE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4227
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX LIFE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX LIFE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4224
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NAT GEO WILD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NAT GEO WILD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4223
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX SPORTS 2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX SPORTS 2
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4222
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BEIN SPORTS 2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BEIN SPORTS 2
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4221
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TRT WORLD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TRT WORLD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4220
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DISCOVERY CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DISCOVERY CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4219
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX MOVIES
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4218
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX CRIME
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX CRIME
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4217
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",&TVHD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",&TVHD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4216
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX FAMILY MOVIES
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX FAMILY MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4215
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",HITS MOVIES
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",HITS MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4214
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TVN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TVN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4213
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TVN MOVIES
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TVN MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4212
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CINEMAX
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CINEMAX
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4211
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",ANIMAL PLANET
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",ANIMAL PLANET
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4210
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DISNEY CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DISNEY CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4209
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DISNEY XD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DISNEY XD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4208
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",WARNERTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",WARNERTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4207
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CARTOON NETWORK
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CARTOON NETWORK
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4206
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BOOMERANG
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BOOMERANG
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4205
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",RCTI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",RCTI
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4204
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",RT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",RT
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4203
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",DW
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",DW
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4198
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FOX MOVIES ACTION
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FOX MOVIES ACTION
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4197
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",SCM LEGEND
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",SCM LEGEND
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4196
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NAT GEO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NAT GEO
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4195
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",CNN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",CNN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4194
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",FIGHT SPORTS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",FIGHT SPORTS
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4193
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",BABYTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",BABYTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4191
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",V CHANNEL
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",V CHANNEL
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4192
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",TAWAFTV
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",TAWAFTV
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/86499
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",Waku Waku Japan
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",Waku Waku Japan
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4232
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 3NESIA 2",NHK WORLD JAPAN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INDONESIA 2",NHK WORLD JAPAN
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4295
 
 
