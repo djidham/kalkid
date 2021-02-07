@@ -1173,93 +1173,95 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 
 
+
+
 #EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",underpass
-http://atcs.banyumaskab.go.id:80/camera/underpass.m3u8
+http://atcs.banyumaskab.go.id/camera/underpass.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",margono
-http://atcs.banyumaskab.go.id:80/camera/margono.m3u8
+http://atcs.banyumaskab.go.id/camera/margono.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",gor_satria
-http://atcs.banyumaskab.go.id:80/camera/gor_satria.m3u8
+http://atcs.banyumaskab.go.id/camera/gor_satria.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",gor_satria_barat
-http://atcs.banyumaskab.go.id:80/camera/gor_satria_barat.m3u8
+http://atcs.banyumaskab.go.id/camera/gor_satria_barat.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",gor_satria_selatan
-http://atcs.banyumaskab.go.id:80/camera/gor_satria_selatan.m3u8
+http://atcs.banyumaskab.go.id/camera/gor_satria_selatan.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",kebon_dalem
-http://atcs.banyumaskab.go.id:80/camera/kebon_dalem.m3u8
+http://atcs.banyumaskab.go.id/camera/kebon_dalem.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",kebon_dalem_barat
-http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_barat.m3u8
+http://atcs.banyumaskab.go.id/camera/kebon_dalem_barat.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sutosuman
-http://atcs.banyumaskab.go.id:80/camera/sutosuman.m3u8
+http://atcs.banyumaskab.go.id/camera/sutosuman.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",kalibogor
-http://atcs.banyumaskab.go.id:80/camera/kalibogor.m3u8
+http://atcs.banyumaskab.go.id/camera/kalibogor.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",samsat
-http://atcs.banyumaskab.go.id:80/camera/samsat.m3u8
+http://atcs.banyumaskab.go.id/camera/samsat.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",karang_pucung
-http://atcs.banyumaskab.go.id:80/camera/karang_pucung.m3u8
+http://atcs.banyumaskab.go.id/camera/karang_pucung.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",karang_bawang
-http://atcs.banyumaskab.go.id:80/camera/karang_bawang.m3u8
+http://atcs.banyumaskab.go.id/camera/karang_bawang.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",ruas_patriot
-http://atcs.banyumaskab.go.id:80/camera/ruas_patriot.m3u8
+http://atcs.banyumaskab.go.id/camera/ruas_patriot.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",pancurawis
-http://atcs.banyumaskab.go.id:80/camera/pancurawis.m3u8
+http://atcs.banyumaskab.go.id/camera/pancurawis.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",ruas_tugu_adipura
-http://atcs.banyumaskab.go.id:80/camera/ruas_tugu_adipura.m3u8
+http://atcs.banyumaskab.go.id/camera/ruas_tugu_adipura.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",tugu_adipura
-http://atcs.banyumaskab.go.id:80/camera/tugu_adipura.m3u8
+http://atcs.banyumaskab.go.id/camera/tugu_adipura.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",tanjung
-http://atcs.banyumaskab.go.id:80/camera/tanjung.m3u8
+http://atcs.banyumaskab.go.id/camera/tanjung.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",tanjung_utara
-http://atcs.banyumaskab.go.id:80/camera/tanjung_utara.m3u8
+http://atcs.banyumaskab.go.id/camera/tanjung_utara.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",tanjung_barat
-http://atcs.banyumaskab.go.id:80/camera/tanjung_barat.m3u8
+http://atcs.banyumaskab.go.id/camera/tanjung_barat.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",alun_alun
-http://atcs.banyumaskab.go.id:80/camera/alun_alun.m3u8
+http://atcs.banyumaskab.go.id/camera/alun_alun.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",masjid
-http://atcs.banyumaskab.go.id:80/camera/masjid.m3u8
+http://atcs.banyumaskab.go.id/camera/masjid.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sangkal_putung
-http://atcs.banyumaskab.go.id:80/camera/sangkal_putung.m3u8
+http://atcs.banyumaskab.go.id/camera/sangkal_putung.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sokaraja_ptz_selatan
-http://atcs.banyumaskab.go.id:80/camera/sokaraja_ptz_selatan.m3u8
+http://atcs.banyumaskab.go.id/camera/sokaraja_ptz_selatan.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sokaraja_selatan
-http://atcs.banyumaskab.go.id:80/camera/sokaraja_selatan.m3u8
+http://atcs.banyumaskab.go.id/camera/sokaraja_selatan.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sokaraja_barat
-http://atcs.banyumaskab.go.id:80/camera/sokaraja_barat.m3u8
+http://atcs.banyumaskab.go.id/camera/sokaraja_barat.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",andhang_pangrenan
-http://atcs.banyumaskab.go.id:80/camera/andhang_pangrenan.m3u8
+http://atcs.banyumaskab.go.id/camera/andhang_pangrenan.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",situmpur
-http://atcs.banyumaskab.go.id:80/camera/situmpur.m3u8
+http://atcs.banyumaskab.go.id/camera/situmpur.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",museum_bri
-http://atcs.banyumaskab.go.id:80/camera/museum_bri.m3u8
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS"  tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",museum bri
+http://atcs.banyumaskab.go.id/camera/museum_bri.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",sawangan
-http://atcs.banyumaskab.go.id:80/camera/sawangan.m3u8
+http://atcs.banyumaskab.go.id/camera/sawangan.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",karanglo
 http://atcs.banyumaskab.go.id/camera/karanglo.m3u8
@@ -1272,6 +1274,10 @@ http://atcs.banyumaskab.go.id/camera/linggamas.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="https://dishub.tasikMalaysiaakota.go.id/uploads/pengaturan/logo-dinas.png",ajibarang
 http://atcs.banyumaskab.go.id/camera/ajibarang.m3u8
+
+
+
+
 
 
 
