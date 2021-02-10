@@ -2258,163 +2258,163 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,UFC ТВ HD
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
 
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",OXYGEN.ID
+https://tv.cpdev.us/oxygen/play/oxygentv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",NET TV
+https://tv.cpdev.us/oxygen/play/nettv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",METRO TV
+https://tv.cpdev.us/oxygen/play/metrotv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",KOMPAS TV
+https://tv.cpdev.us/oxygen/play/kompastv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",TVRI NASIONAL
+https://tv.cpdev.us/oxygen/play/tvri.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",SCTV
+https://tv.cpdev.us/oxygen/play/sctv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",TRANS 7
+https://tv.cpdev.us/oxygen/play/trans7.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",TRANS TV
+https://tv.cpdev.us/oxygen/play/transtv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",INDOSIAR
+https://tv.cpdev.us/oxygen/play/indosiar.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",ANTV
+https://tv.cpdev.us/oxygen/play/antv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",TV ONE
+https://tv.cpdev.us/oxygen/play/tvone.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",RTV
+https://tv.cpdev.us/oxygen/play/rtv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",JAK TV
+https://tv.cpdev.us/oxygen/play/jaktv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",O CHANNEL
+https://tv.cpdev.us/oxygen/play/ochannel.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",MATRIX TV
+https://tv.cpdev.us/oxygen/play/matrixtv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",DAAI INDONESIA
+https://tv.cpdev.us/oxygen/play/daaitv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",LEJEL HOME SHOPING
+https://tv.cpdev.us/oxygen/play/lejelhs.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",NUSANTARA TV
+https://tv.cpdev.us/oxygen/play/nusantaratv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",MAGNA TV
+https://tv.cpdev.us/oxygen/play/magnatv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",BN TV
+https://tv.cpdev.us/oxygen/play/bn-tv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",RRI NET
+https://tv.cpdev.us/oxygen/play/rri-net.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",PERSIJA TV
+https://tv.cpdev.us/oxygen/play/persijatv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",MYTV
+https://tv.cpdev.us/oxygen/play/mytv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="",ELSHINTA
+https://tv.cpdev.us/oxygen/play/elshinta.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",NHK WORLD
+https://tv.cpdev.us/oxygen/play/nhkworld.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",PHOENIX HK
+https://tv.cpdev.us/oxygen/play/phoenixhongkong.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",DW TV ASIA
+https://tv.cpdev.us/oxygen/play/dwenglish.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",FRANCE 24
+https://tv.cpdev.us/oxygen/play/france24.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",ARIRANG WORLD
+https://tv.cpdev.us/oxygen/play/arirangworld.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CCTV 4
+https://tv.cpdev.us/oxygen/play/cctv4asia.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",VOA
+https://tv.cpdev.us/oxygen/play/voa.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",RAI ITALIA
+https://tv.cpdev.us/oxygen/play/raiitalia.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CETV 1
+https://tv.cpdev.us/oxygen/play/cetv1.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",TVE ASIA
+https://tv.cpdev.us/oxygen/play/tveasia.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CGTN DOCUMENTARY
+https://tv.cpdev.us/oxygen/play/cgtndocumentary.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",TV5 MONDE
+https://tv.cpdev.us/oxygen/play/tv5monde.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",NIPPON TV
+https://tv.cpdev.us/oxygen/play/nihontv.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",SALAM TV
+https://tv.cpdev.us/oxygen/play/salamtv.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",RODJA TV
+https://tv.cpdev.us/oxygen/play/rodjatv.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",U CHANNEL
+https://tv.cpdev.us/oxygen/play/uchannel.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",TAWAF TV
+https://tv.cpdev.us/oxygen/play/tawaftv.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",QUR'AN TV
+https://tv.cpdev.us/oxygen/play/qurantv.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",BERITA SATU
+https://tv.cpdev.us/oxygen/play/beritasatu.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",iNews TV
+https://tv.cpdev.us/oxygen/play/inews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",CNBC INDONESIA
+https://tv.cpdev.us/oxygen/play/cnbcindonesia.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",AL JAZEERA
+https://tv.cpdev.us/oxygen/play/aljazeera.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",TRT WORLD
+https://tv.cpdev.us/oxygen/play/trtworld.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",PHOENIX CHINESE
+https://tv.cpdev.us/oxygen/play/phoenixchinese.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",CHANNEL NEWS ASIA
+https://tv.cpdev.us/oxygen/play/channelnewsasia.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",RUSSIA TODAY
+https://tv.cpdev.us/oxygen/play/russiatoday.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",PHOENIX INFO NEWS
+https://tv.cpdev.us/oxygen/play/phoenixnews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",EURONEWS
+https://tv.cpdev.us/oxygen/play/euronewsasia.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",CGTN
+https://tv.cpdev.us/oxygen/play/cgtn.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",TVB NEWS
+https://tv.cpdev.us/oxygen/play/tvbnews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",BLOOMBERG
+https://tv.cpdev.us/oxygen/play/bloomberg.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",CNBC
+https://tv.cpdev.us/oxygen/play/cnbc.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",SINEMA INDONESIA
+https://tv.cpdev.us/oxygen/play/sinemaindonesia.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",SINEMA INDONESIA X
+https://tv.cpdev.us/oxygen/play/sinemaindonesia-x.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",B4U MOVIES
+https://tv.cpdev.us/oxygen/play/b4umovieindia.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",XING KONG CHINA
+https://tv.cpdev.us/oxygen/play/xingkong.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",LOTUS MACAU
+https://tv.cpdev.us/oxygen/play/lotusmacau.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",ATV
+https://tv.cpdev.us/oxygen/play/atv.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="",MCINE
+https://tv.cpdev.us/oxygen/play/mcine.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",DRAKOR
+https://tv.cpdev.us/oxygen/play/drakorplus.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",FASHION TV
+https://tv.cpdev.us/oxygen/play/fashiontv.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",GO TO LUXE
+https://tv.cpdev.us/oxygen/play/gotoluxe.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K DRAMA
+https://tv.cpdev.us/oxygen/play/k-drama.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="",CHANNEL V CHINA
+https://tv.cpdev.us/oxygen/play/vchina.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="",B4U MUSIC
+https://tv.cpdev.us/oxygen/play/b4umusicindia.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",TV EDUKASI
+https://tv.cpdev.us/oxygen/play/tvedukasi.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",TOONMAX
+https://tv.cpdev.us/oxygen/play/toonmax.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",SPACETOON
+https://tv.cpdev.us/oxygen/play/spacetoon.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",EBS KIDS
+https://tv.cpdev.us/oxygen/play/ebskids.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",MENTARI TV
+https://tv.cpdev.us/oxygen/play/mentaritv.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="",TVRI SPORT
+https://tv.cpdev.us/oxygen/play/tvrisport.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="",SPORT ONE
+https://tv.cpdev.us/oxygen/play/sportone.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="",DUBAI SPORTS 3
+https://tv.cpdev.us/oxygen/play/dubaisport3.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="",RED BULL TV
+https://tv.cpdev.us/oxygen/play/redbulltv.m3u8
 
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",OXYGEN.ID
-			https://tv.cpdev.us/oxygen/play/oxygentv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",NET TV
-			https://tv.cpdev.us/oxygen/play/nettv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",METRO TV
-			https://tv.cpdev.us/oxygen/play/metrotv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",KOMPAS TV
-			https://tv.cpdev.us/oxygen/play/kompastv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",TVRI NASIONAL
-			https://tv.cpdev.us/oxygen/play/tvri.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",SCTV
-			https://tv.cpdev.us/oxygen/play/sctv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",TRANS 7
-			https://tv.cpdev.us/oxygen/play/trans7.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",TRANS TV
-			https://tv.cpdev.us/oxygen/play/transtv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",INDOSIAR
-			https://tv.cpdev.us/oxygen/play/indosiar.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",ANTV
-			https://tv.cpdev.us/oxygen/play/antv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",TV ONE
-			https://tv.cpdev.us/oxygen/play/tvone.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",RTV
-			https://tv.cpdev.us/oxygen/play/rtv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",JAK TV
-			https://tv.cpdev.us/oxygen/play/jaktv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",O CHANNEL
-			https://tv.cpdev.us/oxygen/play/ochannel.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",MATRIX TV
-			https://tv.cpdev.us/oxygen/play/matrixtv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",DAAI INDONESIA
-			https://tv.cpdev.us/oxygen/play/daaitv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",LEJEL HOME SHOPING
-			https://tv.cpdev.us/oxygen/play/lejelhs.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",NUSANTARA TV
-			https://tv.cpdev.us/oxygen/play/nusantaratv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",MAGNA TV
-			https://tv.cpdev.us/oxygen/play/magnatv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",BN TV
-			https://tv.cpdev.us/oxygen/play/bn-tv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",RRI NET
-			https://tv.cpdev.us/oxygen/play/rri-net.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",PERSIJA TV
-			https://tv.cpdev.us/oxygen/play/persijatv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",MYTV
-			https://tv.cpdev.us/oxygen/play/mytv.m3u8
-			 #EXTINF:-1 group-title="LOCAL" tvg-logo="",ELSHINTA
-			https://tv.cpdev.us/oxygen/play/elshinta.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",NHK WORLD
-			https://tv.cpdev.us/oxygen/play/nhkworld.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",PHOENIX HK
-			https://tv.cpdev.us/oxygen/play/phoenixhongkong.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",DW TV ASIA
-			https://tv.cpdev.us/oxygen/play/dwenglish.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",FRANCE 24
-			https://tv.cpdev.us/oxygen/play/france24.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",ARIRANG WORLD
-			https://tv.cpdev.us/oxygen/play/arirangworld.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CCTV 4
-			https://tv.cpdev.us/oxygen/play/cctv4asia.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",VOA
-			https://tv.cpdev.us/oxygen/play/voa.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",RAI ITALIA
-			https://tv.cpdev.us/oxygen/play/raiitalia.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CETV 1
-			https://tv.cpdev.us/oxygen/play/cetv1.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",TVE ASIA
-			https://tv.cpdev.us/oxygen/play/tveasia.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",CGTN DOCUMENTARY
-			https://tv.cpdev.us/oxygen/play/cgtndocumentary.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",TV5 MONDE
-			https://tv.cpdev.us/oxygen/play/tv5monde.m3u8
-			 #EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="",NIPPON TV
-			https://tv.cpdev.us/oxygen/play/nihontv.m3u8
-			 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",SALAM TV
-			https://tv.cpdev.us/oxygen/play/salamtv.m3u8
-			 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",RODJA TV
-			https://tv.cpdev.us/oxygen/play/rodjatv.m3u8
-			 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",U CHANNEL
-			https://tv.cpdev.us/oxygen/play/uchannel.m3u8
-			 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",TAWAF TV
-			https://tv.cpdev.us/oxygen/play/tawaftv.m3u8
-			 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",QUR'AN TV
-			https://tv.cpdev.us/oxygen/play/qurantv.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",BERITA SATU
-			https://tv.cpdev.us/oxygen/play/beritasatu.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",iNews TV
-			https://tv.cpdev.us/oxygen/play/inews.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",CNBC INDONESIA
-			https://tv.cpdev.us/oxygen/play/cnbcindonesia.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",AL JAZEERA
-			https://tv.cpdev.us/oxygen/play/aljazeera.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",TRT WORLD
-			https://tv.cpdev.us/oxygen/play/trtworld.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",PHOENIX CHINESE
-			https://tv.cpdev.us/oxygen/play/phoenixchinese.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",CHANNEL NEWS ASIA
-			https://tv.cpdev.us/oxygen/play/channelnewsasia.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",RUSSIA TODAY
-			https://tv.cpdev.us/oxygen/play/russiatoday.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",PHOENIX INFO NEWS
-			https://tv.cpdev.us/oxygen/play/phoenixnews.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",EURONEWS
-			https://tv.cpdev.us/oxygen/play/euronewsasia.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",CGTN
-			https://tv.cpdev.us/oxygen/play/cgtn.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",TVB NEWS
-			https://tv.cpdev.us/oxygen/play/tvbnews.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",BLOOMBERG
-			https://tv.cpdev.us/oxygen/play/bloomberg.m3u8
-			 #EXTINF:-1 group-title="NEWS" tvg-logo="",CNBC
-			https://tv.cpdev.us/oxygen/play/cnbc.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",SINEMA INDONESIA
-			https://tv.cpdev.us/oxygen/play/sinemaindonesia.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",SINEMA INDONESIA X
-			https://tv.cpdev.us/oxygen/play/sinemaindonesia-x.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",B4U MOVIES
-			https://tv.cpdev.us/oxygen/play/b4umovieindia.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",XING KONG CHINA
-			https://tv.cpdev.us/oxygen/play/xingkong.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",LOTUS MACAU
-			https://tv.cpdev.us/oxygen/play/lotusmacau.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",ATV
-			https://tv.cpdev.us/oxygen/play/atv.m3u8
-			 #EXTINF:-1 group-title="MOVIE" tvg-logo="",MCINE
-			https://tv.cpdev.us/oxygen/play/mcine.m3u8
-			 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",DRAKOR
-			https://tv.cpdev.us/oxygen/play/drakorplus.m3u8
-			 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",FASHION TV
-			https://tv.cpdev.us/oxygen/play/fashiontv.m3u8
-			 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",GO TO LUXE
-			https://tv.cpdev.us/oxygen/play/gotoluxe.m3u8
-			 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K DRAMA
-			https://tv.cpdev.us/oxygen/play/k-drama.m3u8
-			 #EXTINF:-1 group-title="MUSIC" tvg-logo="",CHANNEL V CHINA
-			https://tv.cpdev.us/oxygen/play/vchina.m3u8
-			 #EXTINF:-1 group-title="MUSIC" tvg-logo="",B4U MUSIC
-			https://tv.cpdev.us/oxygen/play/b4umusicindia.m3u8
-			 #EXTINF:-1 group-title="KIDS" tvg-logo="",TV EDUKASI
-			https://tv.cpdev.us/oxygen/play/tvedukasi.m3u8
-			 #EXTINF:-1 group-title="KIDS" tvg-logo="",TOONMAX
-			https://tv.cpdev.us/oxygen/play/toonmax.m3u8
-			 #EXTINF:-1 group-title="KIDS" tvg-logo="",SPACETOON
-			https://tv.cpdev.us/oxygen/play/spacetoon.m3u8
-			 #EXTINF:-1 group-title="KIDS" tvg-logo="",EBS KIDS
-			https://tv.cpdev.us/oxygen/play/ebskids.m3u8
-			 #EXTINF:-1 group-title="KIDS" tvg-logo="",MENTARI TV
-			https://tv.cpdev.us/oxygen/play/mentaritv.m3u8
-			 #EXTINF:-1 group-title="SPORT" tvg-logo="",TVRI SPORT
-			https://tv.cpdev.us/oxygen/play/tvrisport.m3u8
-			 #EXTINF:-1 group-title="SPORT" tvg-logo="",SPORT ONE
-			https://tv.cpdev.us/oxygen/play/sportone.m3u8
-			 #EXTINF:-1 group-title="SPORT" tvg-logo="",DUBAI SPORTS 3
-			https://tv.cpdev.us/oxygen/play/dubaisport3.m3u8
-			 #EXTINF:-1 group-title="SPORT" tvg-logo="",RED BULL TV
-			https://tv.cpdev.us/oxygen/play/redbulltv.m3u8
 			
 
 
