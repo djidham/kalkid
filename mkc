@@ -233,6 +233,8 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #EXTINF:0 tvg-id="fox-crime" group-title="HBO & FOX",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
+//EXT
+
 //ENTERTAINMENT
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Citra Bioskop (Vidio)
