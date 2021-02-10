@@ -1258,6 +1258,496 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Sports Utama" ,FOX Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,FOX Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,FOX Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,Abu dhabi sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="Sports Utama" ,Abu dhabi sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Sports Utama" ,Abu dhabi sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sports Utama" ,Abu dhabi sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports Utama
+#EXTINF:-1 group-title="Sports Utama" ,UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Sports Utama" ,UFC 4
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,PPTV HD
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,FoxSport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,FoxSport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,FoxSport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,TrueSportHD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,TrueSportHD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,BT Sport1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,BT Sport2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://tinyurl.com/yxjocrq4" ,T Sport
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" ,AU | Fox Sports News,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" ,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/1M4zMdC.png" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/1M4zMdC.png" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/1M4zMdC.png" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7qSbS53.png" ,Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7qSbS53.png" ,Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/smyvTHD.jpg" ,World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" ,Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IsXK52p.jpg" ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IsXK52p.jpg" ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IsXK52p.jpg" ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" ,New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,AL KASS 1 (1024×576),Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby
+#EXTINF:0 group-title="Sports Utama" ,AL KASS 2 (1024×576),Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby
+#EXTINF:0 group-title="Sports Utama" ,AL KASS 3 (1024×576),Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby
+#EXTINF:0 group-title="Sports Utama" ,AL KASS 5 (1024×576),Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby
+#EXTINF:0 group-title="Sports Utama" ,DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/KDHJryj.png" ,DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,SHARJA SPORTS (1920×1080),Sharjah Sports,SPORT : Sharjah Sports,SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="http://part.gov.om/part/images/oman_sport.png" ,Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/yaWTUE6.png" ,Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" ,Red Bull TV,Red Bull TV HD,Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042869.jpg" ,REAL MADRID TV ESP
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/5CdW62M.png" ,ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://iili.io/JAQcPe.png" ,SPORTS TV [HD]
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" ,Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" ,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,ARABIC : Sharjah Sports HD
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" ,Al Kass Sports,Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Bahrain Sports 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Canal+ Sport 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" ,Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  /  -9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -42
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -43
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -44
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -45
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -46
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -47
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -48
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -49
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
+#EXTINF:0 group-title="Sports Utama" ,EUROSPORT 4K  / -50
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eleven Sports 1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eleven Sports 2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eleven Sports 3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eleven Sports 4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby &checkedby
+#EXTINF:0 group-title="Sports Utama" ,NBC,Sport HD 720
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" ,Rai Sport (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Sport_HD_new_logo.svg.png" ,Rai Sport+ (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV,SPORT : Red Bull TV,SPORT | Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" ,Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" ,SPORT : ATG TV,SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/jo3XekR.png" ,SPORT : Dubai Sports,SPORT | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" ,SPORT : Dubai Sports 3,SPORT | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" ,SPORT : FC Bayern Munchen TV,SPORT | FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" ,SPORT : Horizon Sports,SPORT | Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/oDOpMph.png" ,SPORT : MLB Network,SPORT | MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/s5NcNef.png" ,SPORT : MMA Junkie,SPORT | MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/dIzAmT0.png" ,SPORT : Rugby Men's Sevens,SPORT | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/HZp8PAw.png" ,SPORT : Rugby Women's Sevens,SPORT | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/xVgXmS2.jpg" ,SPORT : Rugby World TV,SPORT | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/GJApWEn.png" ,SPORT : Sport 1 Deutschland,SPORT | Sport 1 Deutschland
+https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/zjh63nC.jpg" ,SPORT : TVRI Sports,SPORT | TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/4FGVDqV.jpg" ,SPORT : Turkmenistan Sport,SPORT | Turkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/b5H991R.png" ,SPORT : UFC TV,SPORT | UFC TV
+https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/pggeczF.jpg" ,SPORT : World Of Free Sports TV,SPORT | World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/F1RmiNq.jpg" ,SPORT : YAS,SPORT | YAS
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Sharjah Sports,الشارقة سبورت
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=&checkedby
+#EXTINF:0 group-title="Sports Utama" ,TeleCaribe Deportes 2
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/1296k/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby
+#EXTINF:0 group-title="Sports Utama" ,UFC ТВ HD
+http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" ,US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Viasat Sport
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8?checkedby &checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Матч!
+http://iptv.ktkru.ru:8003/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby
+#EXTINF:0 group-title="Sports Utama" ,Спорт MAX HD
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,ТРК Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Фан Спорт.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/lKl2wZH.png" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/9q8gFsq.png" ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/U6XDpXY.png" ,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/U6XDpXY.png" ,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/8VqomZ5.png" ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports Utama&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://parco-zh.github.io/demo/DIBAI.png" ,Dubai Racing,迪拜赛车俱乐部
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/eytrf0Y.png" ,Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/eytrf0Y.png" ,Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,Dubai Racing,迪拜赛马俱乐部
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/eytrf0Y.png" ,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/eytrf0Y.png" ,Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/iYgHR5D.png" ,Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/iYgHR5D.png" ,Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/iYgHR5D.png" ,Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/qBdOZ1x.png" ,Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/qBdOZ1x.png" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" ,Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" ,Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,Sharjah Sport,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" tvg-logo="https://i.imgur.com/jt6g1Jt.png" ,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8?checkedby
+#EXTINF:0 group-title="Sports Utama" ,AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby
+#EXTINF:0 group-title="Sports Utama" ,FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EPL1[LVM]
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EPL2[LVM]
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EPL3[LVM]
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EPL4[LVM]
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EPL5[LVM]
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,SportTV3[LVM]
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,Tennis[LVM]
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT2 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT3 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT4 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT44 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT45 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT46 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT48 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,EUROSPORT50 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,US Open Tennis 1
+http://213.152.161.254:8080/upl6_2.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,US Open Tennis 2
+http://213.152.161.254:8080/upl2_2.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,Racing.com australia
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,Real Madrid tv
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Sports Utama" tvg-logo="https://i.imgur.com/BXnUONl.png" ,UFC ТВ HD
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+
+
 
 
 
