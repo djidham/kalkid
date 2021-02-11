@@ -149,6 +149,11 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="FILM",HBO
 https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="FILM",HBO hd
+https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="FILM",HBO id
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hbo
 
