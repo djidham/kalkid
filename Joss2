@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://walter.trakt.tv/images/movies/000/627/460/posters/thumb/370a6e30ad.jpg" group-title="VOD Terbaru", Heroes & Return 2021
+https://video-on-demand.gfilm20.workers.dev/0:/Heroes%20Return%20%E5%8D%B8%E7%94%B2%E5%BD%92%E6%9D%A5%20%20(2021)%20-720p.mp4">
+
+#EXTINF:-1 tvg-logo="https://otakukart.com/wp-content/uploads/2021/02/Wrong-Turn-2021.jpg" group-title="VOD Terbaru", Wrong Turn 2021
+https://video-on-demand.gfilm20.workers.dev/0:/[720p]Wrong.Turn.2021.BluRay%20[MELONGMOVIE].mp4
+
+#EXTINF:-1 tvg-logo="https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/298679/_filmArtworkLarge/AGENT-REVELATION_22.jpg" group-title="VOD Terbaru", Agen Revelation 2021
+https://video-on-demand.gfilm20.workers.dev/0:/Agent.Revelation.2021.720P.Web-Dl.mp4
 
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://ibb.co/W3LKg0n" group-title="VOD Terbaru",Shadow in the Cloud (2020)
