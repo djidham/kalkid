@@ -3954,9 +3954,114 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Adults",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1021 Г¤ВєВєГҐВ¦В»Г¦вЂ“В¬ГЈвЂљЕ  Г©ВќвЂ™ГҐВ±В±ГҐвЂћВЄГ¦ВўВЁГҐВ­Вђ Yuriko Aoyama
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1021_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1919gogo-7797 Г©ЕЎ ГЁВ¦вЂ№vol.436Г¤ВєВєГ¦В°вЂ”Г¤ВёвЂ№Г§Вќв‚¬Г©в‚¬ЕЎГЁВІВ©Г©вЂєвЂГЁВЄЕ’Г§ВѕЕЅГ¤ВєВєГҐВҐВіГҐВ­ВђГҐВ¤В§Г§вЂќЕёГ©ВЃвЂќ
+http://videocdn.hndtl.com:8091/20181231/hd_1919gogo-7797/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-082815_01  Г¦ВіВҐГ©вЂ¦вЂќEГ§ВЅВ©Г¦ВќВЇГҐВЁЛњ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-082815_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081015_01   ГҐВ·ВЁГ¤В№ВіГҐВЁЛњ ГЁвЂвЂ°ГҐВ±В±Г¦ВҐвЂњ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081015_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1919gogo-7794 Г§вЂєвЂ”Г¦вЂ™В®Г¤ВЅЕ“ГҐвЂњВЃ ГЁВ©В±Г©ВЎЕ’ГЈВЃВ®Г¤ВєВєГ¦В°вЂ”1
+http://videocdn.hndtl.com:8091/20181231/hd_1919gogo-7794/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-082515_01   ГЁвЂЎВЄГ¦вЂ¦ВўГЈВЃВ®Г¦ВµВґГЁВЎВЈ  ГЁВ°В·Г¤ВёВ­Г¦в„ўВґГ§ВѕЕЅ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-082515_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-082715_142 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г¦вЂ“В°Г¦Е“ВЁГЈВЃВѕГЈВЃВ©ГЈВЃвЂ№
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082715_142/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-082215_01  Г¦вЂћвЂєГ§ВѕЕЅ  Г¤ВЅВђГЈв‚¬вЂ¦Г¦Е“ВЁГ¦вЂћвЂєГ§ВѕЕЅ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-082215_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-082515_141 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ Sky Angel  Г¦вЂ”В©ГҐВ·ВќГЈЖ’В«ГЈвЂљВ¤
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082515_141/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-082115_01    ГҐвЂЎВ¦ГҐВҐВіГҐвЂ“ВЄГҐВ¤В±
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-082115_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-080815_01 Г§ВѕЕЅГҐВ®В№ГЇВЅЕѕ  Г¤ВЅВђГЈв‚¬вЂ¦Г¦Е“ВЁГЈВЃвЂ ГЈВЃВ®
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-080815_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-082015_01  Г§ВўВєГЁВЄВЌГЇВЅЕѕ ГҐВ®В®Г¦Е“В¬ГЈвЂљвЂ№ГЈВЃВї
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-082015_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081815_01   Г§В§ЛњГЁвЂќВµГЇВЅЕѕ Г¦Е“вЂ°Г©В¦В¬Г§ВѕЕЅГҐВёвЂ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081815_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-082115_139 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г§вЂєВёГ§вЂќВ°Г§ЕѕВі Г¦ВҐВµГ§ВґВ°ГҐВѕВ®Г¤В№ВіГ©вЂўВ·ГЁВєВ«Г§ВѕЕЅГҐВҐВі
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082115_139/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081615_01 Г§ВѕЕЅГ©В¦в„ўГЈВЃВ®ГҐвЂ¦ВҐГ©вЂ“в‚¬ Г¦ВІВўГ©вЂЎЕЅГ§ВѕЕЅГ©В¦в„ў
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081615_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081915_138 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г§ВѕЕЅГҐВ·ВЁГ¤В№ВіГ§ВѕЕЅГ§вЂ ЕёГҐВҐВіГЈВЃВ®Sex  ASUKA
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081915_138/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081515_01    ГҐВ®В®Г¦Е“В¬ГЈвЂљвЂ№ГЈВЃВї
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081515_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1pondo-081815_137 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г§ВѕЕЅГҐвЂ™ВІГ§ВµВђГЁВЎВЈ
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081815_137/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081415_01  ГҐЛ†ВќГ¤ВЅвЂњГ©ВЁвЂњ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081415_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081615_136 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г§ВўВ§ГЈВЃвЂ”ГЈВЃВ®
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081615_136/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",10musume-081115_01  Г©вЂ¦вЂ™Г©ВЈВІГҐВЁЛњГЇВЅЕѕГ¦ВµЕ“ГҐВґЕЅГЈВЃвЂ№ГЈВЃВЄ
+http://videocdn.hndtl.com:8091/20181231/hd_10musume-081115_01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081515_135 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г¦В»ВќГҐВ·ВќГЈвЂљВЁГЈЖ’ВЄГЈЖ’Е
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081515_135/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081415_134 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ Г¦вЂћЕёГЁВ¬ВќГ©ЕЎвЂєГЇВјВЃГ§В§вЂ№Г©вЂЎЕЅГҐВЌЖ’ГҐВ°вЂ№ГЇВјВЃ
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081415_134/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081315_133 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ Г§Е’В®ГЁВєВ«Г¤В»вЂ№ГЁВ­В·ГҐВЈВ«ГЁВЄВЌГҐВ®ЕЎГЁВ©В¦  Г¦ВіВўГҐВ¤ЕЎГ©вЂЎЕЅГ§ВµВђГЁВЎВЈ
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081315_133/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Real_diva-9114 VIP Г¦ВµвЂ¦Г§вЂќВ°ГўвЂ”вЂ№ГҐВ¤В®Г¤ВјВјГЈВЃВ®ГЁВЄВїГ¦вЂўв„ўГЇВјВЃГҐЛ†ВќГ¤ВЅвЂњГ©ВЁвЂњ
+http://videocdn.hndtl.com:8091/20181220/hd_real_diva-9114/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081215_132 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ ГЁвЂљвЂ°Г¦ВЈвЂ™Г§ВѕВ©Г¦ВЇВЌ Г¦ВќвЂГ¤ВёЕ Г¦В¶ВјГҐВ­Вђ
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081215_132/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Real_diva-9112 VIP ГҐв‚¬вЂ№Г¤ВєВєГ¦вЂ™В®ГҐВЅВ± Г§вЂєВ®Г©ЕЎ Г¤ВёВ­ГҐвЂЎВєГЁВЄВїГ¦вЂўв„ўГЇВјВЃ
+http://videocdn.hndtl.com:8091/20181220/hd_real_diva-9112/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Heyzo-1883 Г§ВѕЕЅГЁвЂљЕ’OL Гўв‚¬вЂњ ГҐВ¤В§ГЁВІВ«ГЈВЃвЂљГЈВЃЕЎГЈВЃвЂў
+http://videocdn.hndtl.com:8091/20181220/hd_heyzo-1883/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-081115_131 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ Г¤ВёЕ Г©вЂЎЕЅГ§Е“ЕёГҐВҐЛ†Г§ВѕЕЅ ГЁвЂ“вЂћГҐВ№ВёГ¦В·В«Г¤В№В±Г¦Е“ВЄГ¤ВєВЎГ¤ВєВє
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081115_131/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Real_diva-9084 VIP ГҐв‚¬вЂ№Г¤ВєВєГ¦вЂ™В®ГҐВЅВ± ГҐВ®Е’ГҐвЂ¦ВЁГ§вЂ°Л†ГЇВјВЃ
+http://videocdn.hndtl.com:8091/20181220/hd_real_diva-9084/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Heydouga-4148_132 ГЈВЃЕ ГҐВ§вЂ°SEX
+http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4148_132/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",1Pondo-080815_130 Г¤Вёв‚¬Г¦Е“В¬Г©ВЃвЂњ  Г©вЂ¦вЂ™Г¤ВєвЂўГЈвЂљвЂљГЈвЂљвЂљГЈВЃвЂ№
+http://videocdn.hndtl.com:8091/20181231/hd_1pondo-080815_130/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1019 ГҐВєЖ’Г©вЂЎЕЅГ©Л†ВґГЁВЏЕ“ Suzuna Hirono
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1019_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081515_948  ГҐЖ’вЂўГЈВЃВ®ГҐВЅВјГҐВҐВіГЇВЅЕѕ Г§ВїВјГЈВЃВїГЈВЃвЂўГЈВЃВЌ
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081515_948/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-ki150815 Г¤ВєВєГҐВ¦В»Г¦вЂ“В¬ГЈвЂљЕ  ГЁвЂЎВЄГ§вЂќВ»Г¦вЂ™В®Г¦вЂ°вЂ№Г¦В·В« Г§вЂ°В№Г©вЂєвЂ 46 Self Shot
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-ki150815/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-gol0128 ГҐВЎЕЎГҐЕЅЕёГҐВївЂ”Г¤ВїВЎ Shinobu Tsukahara
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-gol0128_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081415_947  ГҐВ¤ВЏГЈВЃВ®Г¦Ж’ВіГҐвЂЎВє Vol.9  Г¦ЛњЕёГ¤В№Ж’ГЈВЃвЂњГЈВЃвЂњГЈВЃВї
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081415_947/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1026 ГҐВ±В±ГҐВЏВЈГ©вЂєВЄГ©ЕёВі Yukine Yamaguchi
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1026_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1020 Г¤ВєВєГҐВ¦В»Г¦вЂ“В¬ГЈвЂљЕ  Г§В¬В№ГҐЕЅЕёГҐВ°ВЏГ¤В№Ж’Г§вЂ™Ж’ Konori Sasahara
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1020_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081315_946  Г¦вЂћвЂєГ¦ВІВўГЈВЃвЂ№ГЈвЂљЕ ГЈвЂљвЂњ
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_946/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1025 ГҐВєЖ’Г©вЂЎЕЅГ©Л†ВґГЁВЏЕ“ Suzuna Hirono
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1025_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081315_001  THEГ¦Е“ВЄГҐвЂ¦В¬Г©вЂ“вЂ№ ГЇВЅЕѕ Г¦вЂћвЂєГ¦ВІВўГЈВЃвЂ№ГЈвЂљЕ ГЈвЂљвЂњ
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1024 ГҐВІВЎГҐВіВ¶ГҐВҐЛ†Г§В©вЂљГ§ВѕЕЅ Naomi Okajima
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1024_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081215_945 ГҐВ№ВјГ©В¦ВґГ¦ЕёвЂњ  ГЁЛ†ЕѕГҐВёЕ’Г©В¦в„ў
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081215_945/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1023 Г§В¬В№ГҐЕЅЕёГҐВ°ВЏГ¤В№Ж’Г§вЂ™Ж’ Konori Sasahara
+http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1023_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",AV9898-1712 ГҐВЌвЂГЁВ¤В»ГЁВЎЕ’Г§вЂљВєГҐвЂљвЂГ¤ВЅЕ“Г©ВЃВё3Г¦в„ўвЂљГ©вЂ“вЂњ
+http://videocdn.hndtl.com:8091/20181231/hd_av9898-1712_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-081115_944  Debut Vol.23 ГЇВЅЕѕГ¦В°ВґГ§Вќв‚¬ГЇВјВЁГ§ВЅВ©Г¦ВќВЇГЇВЅЕѕ  ГЁВҐВїГ¦ВќВЎГ¦ВІв„ўГ§ВѕвЂ¦
+http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081115_944/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancompr-022015_112 KIRARI 89   ГҐвЂ°ВЌГ§вЂќВ°ГЈВЃвЂ№ГЈВЃЕ ГЈвЂљЕ
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancompr-022015_112/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancompr-010115_061  ГҐВ¤В§Г¤ВєВєГЈВЃВ®Г§Вќв‚¬Г§вЂ°В©Г§В·Е Г§ВёвЂє ГЁЛ†ЕѕГҐвЂ™ВІГЈВЃВїГЈВЃВЏГЈВЃВ«
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancompr-010115_061/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-092215_978  Г¤Вёв‚¬Г¦ВіЕ Г¤ВєЕ’Г¦вЂ”ВҐГЇВјВЃГҐВ¤В§ГҐВіВ¶ГЈвЂљвЂ ГЈВЃЕЎГҐВҐЛ†
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092215_978/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-100115_986 Г¦В¤Е“ГЁВЁВј ГЇВЅЕѕ  Г¤ВјЕ ГЁвЂ”В¤ГҐвЂћВЄ
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-100115_986/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-092115_976  ГҐВ°ВЏГ¦ВівЂ°ГЈВЃВѕГЈвЂљЕ
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092115_976/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",C0930-hitozuma1033 Г¤ВЅВђГЁВ°В·Г¤ВѕвЂГ©вЂЎЕ’ Yuri Satani
+http://videocdn.hndtl.com:8091/20190331/hd_c0930-hitozuma1033_0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Adults",Caribbeancom-093015_985  ГҐВ¤Е“Г§В©ВєГЈВЃВѕГЈВЃВІГЈвЂљВЌ
+http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-093015_985/index.m3u8
 
 
 
