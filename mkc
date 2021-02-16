@@ -1409,7 +1409,7 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 
 
 #EXTM3U
-
+#EXTVLCOPT:http-user-agent=pm-boskopi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png"  group-title="LOCAL",RCTI
 https://warkop.xyz/m3u/vidio-rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL",MNC
