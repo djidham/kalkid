@@ -3955,6 +3955,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Adults",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+
+
 
 
 
