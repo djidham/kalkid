@@ -1664,40 +1664,51 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO-FOX",HBO HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-hbohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO-FOX",HBO Signature HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-sighd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO-FOX",HBO Hits HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-hitshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO-FOX",HBO Family HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-famhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO-FOX",Cinemax HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-maxhd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO-FOX",Red By HBO HD (premium)
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-redhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO-FOX", FOX
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/fox.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/fox.png" group-title="HBO-FOX", FOX FHD
-
+#EXTVLCOPT:http-user-agent=pm-boskopi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO-FOX", FOX CRIME
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxcrime.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxcrime.png" group-title="HBO-FOX", FOX CRIME FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO-FOX", FOX LIFE
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxlife.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxlife.png" group-title="HBO-FOX", FOX LIFE FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO-FOX", FOX MOVIES
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxmovies.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxmovies.png" group-title="HBO-FOX", FOX MOVIES FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO-FOX", FOX ACTION MOVIES
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxactionmovies.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxaction.png" group-title="HBO-FOX", FOX ACTION MOVIES FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO-FOX", FOX FAMILY
+#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxfamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://warkop.xyz/logo/citrabioskop.png" group-title="MOVIES" tvg-id="" tvg-name"ZBioskop ",Citra Bioskop
