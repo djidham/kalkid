@@ -684,7 +684,7 @@ http://tv.wakds.xyz:8080/live/Iptvlive/iptvlive08/123.m3u8
 #EXTINF:-1 group-title="Extra Sport" tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg", Premier 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Extra Sport" tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg", Premier 1
+#EXTINF:-1 group-title="Extra Sport" tvg-logo="https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg", Premier 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
 
