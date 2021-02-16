@@ -695,6 +695,17 @@ https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
 
+#EXTM3U
+#PLAYLIST:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Extra Sport",BT Sport 1
+http://alontv.info:8000/live/ontvtest/172722/156.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Extra Sport",BT Sport 2
+http://alontv.info:8000/live/ontvtest/172722/157.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Extra Sport",BT Sport 3
+http://alontv.info:8000/live/ontvtest/172722/158.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Extra Sport",BT Sport ESPN
+http://alontv.info:8000/live/ontvtest/172722/159.ts?checkedby:iptvcat.net
+
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",Fox Sport
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
