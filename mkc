@@ -1631,8 +1631,9 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 
 
 
-#EXTM3U
-#EXTVLCOPT:http-user-agent=pm-boskopi
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png"  group-title="LOCAL",RCTI
 https://warkop.xyz/m3u/vidio-rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL",MNC
@@ -1887,51 +1888,40 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO-FOX",HBO HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-hbohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO-FOX",HBO Signature HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-sighd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO-FOX",HBO Hits HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-hitshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO-FOX",HBO Family HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-famhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO-FOX",Cinemax HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-maxhd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO-FOX",Red By HBO HD (premium)
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/hbo-redhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO-FOX", FOX
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/fox.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/fox.png" group-title="HBO-FOX", FOX FHD
-#EXTVLCOPT:http-user-agent=pm-boskopi
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO-FOX", FOX CRIME
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxcrime.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxcrime.png" group-title="HBO-FOX", FOX CRIME FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO-FOX", FOX LIFE
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxlife.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxlife.png" group-title="HBO-FOX", FOX LIFE FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO-FOX", FOX MOVIES
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxmovies.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxmovies.png" group-title="HBO-FOX", FOX MOVIES FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO-FOX", FOX ACTION MOVIES
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxactionmovies.m3u8
 #EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxaction.png" group-title="HBO-FOX", FOX ACTION MOVIES FHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO-FOX", FOX FAMILY
-#EXTVLCOPT:http-user-agent=pm-boskopi
 https://warkop.xyz/m3u/foxfamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://warkop.xyz/logo/citrabioskop.png" group-title="MOVIES" tvg-id="" tvg-name"ZBioskop ",Citra Bioskop
@@ -2185,26 +2175,44 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 1 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33992 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 1 FHD
+https://warkop.xyz/m3u/bein-1fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 2 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33971 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 2 FHD
+https://warkop.xyz/m3u/bein-2fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 3 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33974 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 3 FHD
+https://warkop.xyz/m3u/bein-3fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 4 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33976 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 4 FHD
+https://warkop.xyz/m3u/bein-4fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 5 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33978 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 5 FHD
+https://warkop.xyz/m3u/bein-5fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 6 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33980 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 6 FHD
+https://warkop.xyz/m3u/bein-6fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 7 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33982 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 7 FHD
+https://warkop.xyz/m3u/bein-7fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 8 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33984 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 8 FHD
+https://warkop.xyz/m3u/bein-8fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 9 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33986 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 9 FHD
+https://warkop.xyz/m3u/bein-9fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 10 
 http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33988 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="BEINSPORT HD",beIN SPORTS 10 FHD
+https://warkop.xyz/m3u/bein-10fhd.m3u8
 
 
 
@@ -2350,6 +2358,5 @@ http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
 http://122.248.43.138:1935/ch27/myStream/live.m3u8 
 #EXTINF: -1 tvg-logo="" group-title="LOKAL DAERAH",Radar TV Tasikmalaya 
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
- 
 
 
