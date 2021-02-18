@@ -24,27 +24,27 @@ https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VDKf1VB/Gtv.png" group-title="INDONESIA",GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VDKf1VB/Gtv.png" group-title="INDONESIA",Global TV
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzC7Ddb/TransTV.png" group-title="INDONESIA",TRANSTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzC7Ddb/TransTV.png" group-title="INDONESIA",TRANS TV HD
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fMtzr75/trans7.png" group-title="INDONESIA",TRANS7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMtzr75/trans7.png" group-title="INDONESIA",TRANS7 HD
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYYcrBh/TVONE.png" group-title="INDONESIA",TVONE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYYcrBh/TVONE.png" group-title="INDONESIA",tvOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HrXHPv4/kompastv.png" group-title="INDONESIA",KOMPASTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HrXHPv4/kompastv.png" group-title="INDONESIA",Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxvRFMy/METRO-TV-1.png" group-title="INDONESIA",METROTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxvRFMy/METRO-TV-1.png" group-title="INDONESIA",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JqSVs5/TVRI.png" group-title="INDONESIA",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
@@ -54,7 +54,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3vDSskn/net-tv.png" group-title="INDONESIA",NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3vDSskn/net-tv.png" group-title="INDONESIA",NET TV
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
