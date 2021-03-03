@@ -1358,342 +1358,342 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ANTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANTV.png" group-title="LOKAL",(ID) ANTV
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ANTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANTV.png" group-title="KALKID LOKAL",(ID) ANTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4302
-#EXTINF:-1 tvg-id="" tvg-name="(ID) RCTI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RCTI.png" group-title="LOKAL",(ID) RCTI
+#EXTINF:-1 tvg-id="" tvg-name="(ID) RCTI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RCTI.png" group-title="KALKID LOKAL",(ID) RCTI
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4204
-#EXTINF:-1 tvg-id="" tvg-name="(ID) G T V" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/GTV.png" group-title="LOKAL",(ID) G T V
+#EXTINF:-1 tvg-id="" tvg-name="(ID) G T V" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/GTV.png" group-title="KALKID LOKAL",(ID) G T V
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4319
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNCTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCTV.png" group-title="LOKAL",(ID) MNCTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNCTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCTV.png" group-title="KALKID LOKAL",(ID) MNCTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4317
-#EXTINF:-1 tvg-id="" tvg-name="(ID) RTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RTV.png" group-title="LOKAL",(ID) RTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) RTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RTV.png" group-title="KALKID LOKAL",(ID) RTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4271
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ABC AUSTRALIA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ABCAUSTRALIA.png" group-title="LOKAL",(ID) ABC AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ABC AUSTRALIA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ABCAUSTRALIA.png" group-title="KALKID LOKAL",(ID) ABC AUSTRALIA
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4259
-#EXTINF:-1 tvg-id="" tvg-name="(ID) AL JAZEERA ENGLISH" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ALJAZEERAENGLISH.png" group-title="LOKAL",(ID) AL JAZEERA ENGLISH
+#EXTINF:-1 tvg-id="" tvg-name="(ID) AL JAZEERA ENGLISH" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ALJAZEERAENGLISH.png" group-title="KALKID LOKAL",(ID) AL JAZEERA ENGLISH
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4258
-#EXTINF:-1 tvg-id="" tvg-name="(ID) JAKTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/JAKTV.png" group-title="LOKAL",(ID) JAKTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) JAKTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/JAKTV.png" group-title="KALKID LOKAL",(ID) JAKTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4253
-#EXTINF:-1 tvg-id="" tvg-name="(ID) KOMPASTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/KOMPASTV.png" group-title="LOKAL",(ID) KOMPASTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) KOMPASTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/KOMPASTV.png" group-title="KALKID LOKAL",(ID) KOMPASTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4273
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CNN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CNN.png" group-title="LOKAL",(ID) CNN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CNN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CNN.png" group-title="KALKID LOKAL",(ID) CNN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4194
-#EXTINF:-1 tvg-id="" tvg-name="(ID) RT" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RT.png" group-title="LOKAL",(ID) RT
+#EXTINF:-1 tvg-id="" tvg-name="(ID) RT" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/RT.png" group-title="KALKID LOKAL",(ID) RT
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4203
-#EXTINF:-1 tvg-id="" tvg-name="(ID) METROTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/METROTV.png" group-title="LOKAL",(ID) METROTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) METROTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/METROTV.png" group-title="KALKID LOKAL",(ID) METROTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4318
-#EXTINF:-1 tvg-id="" tvg-name="(ID) INEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/INEWS.png" group-title="LOKAL",(ID) INEWS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) INEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/INEWS.png" group-title="KALKID LOKAL",(ID) INEWS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4315
-#EXTINF:-1 tvg-id="" tvg-name="(ID) SCTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCTV.png" group-title="LOKAL",(ID) SCTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) SCTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCTV.png" group-title="KALKID LOKAL",(ID) SCTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4264
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX NEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXNEWS.png" group-title="LOKAL",(ID) FOX NEWS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX NEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXNEWS.png" group-title="KALKID LOKAL",(ID) FOX NEWS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4288
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BLOOMBERG" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BLOOMBERG.png" group-title="LOKAL",(ID) BLOOMBERG
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BLOOMBERG" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BLOOMBERG.png" group-title="KALKID LOKAL",(ID) BLOOMBERG
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4248
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BERITA SATU" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BERITASATU.png" group-title="LOKAL",(ID) BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BERITA SATU" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BERITASATU.png" group-title="KALKID LOKAL",(ID) BERITA SATU
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4285
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BALITV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BALITV.png" group-title="LOKAL",(ID) BALITV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BALITV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BALITV.png" group-title="KALKID LOKAL",(ID) BALITV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4284
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TRANS7" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRANS7.png" group-title="LOKAL",(ID) TRANS7
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TRANS7" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRANS7.png" group-title="KALKID LOKAL",(ID) TRANS7
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4314
-#EXTINF:-1 tvg-id="" tvg-name="(ID) VISION PRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/VISIONPRIME.png" group-title="LOKAL",(ID) VISION PRIME
+#EXTINF:-1 tvg-id="" tvg-name="(ID) VISION PRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/VISIONPRIME.png" group-title="KALKID LOKAL",(ID) VISION PRIME
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4294
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TV ONE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVONE.png" group-title="LOKAL",(ID) TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TV ONE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVONE.png" group-title="KALKID LOKAL",(ID) TV ONE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4306
-#EXTINF:-1 tvg-id="" tvg-name="(ID) IDX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/IDX.png" group-title="LOKAL",(ID) IDX
+#EXTINF:-1 tvg-id="" tvg-name="(ID) IDX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/IDX.png" group-title="KALKID LOKAL",(ID) IDX
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4305
-#EXTINF:-1 tvg-id="" tvg-name="(ID) EURONEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/EURONEWS.png" group-title="LOKAL",(ID) EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) EURONEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/EURONEWS.png" group-title="KALKID LOKAL",(ID) EURONEWS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4293
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TRANSTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRANSTV.png" group-title="LOKAL",(ID) TRANSTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TRANSTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRANSTV.png" group-title="KALKID LOKAL",(ID) TRANSTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4313
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TVRI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVRI.png" group-title="LOKAL",(ID) TVRI
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TVRI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVRI.png" group-title="KALKID LOKAL",(ID) TVRI
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4312
-#EXTINF:-1 tvg-id="" tvg-name="(ID) INDOSIAR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/INDOSIAR.png" group-title="LOKAL",(ID) INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="(ID) INDOSIAR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/INDOSIAR.png" group-title="KALKID LOKAL",(ID) INDOSIAR
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4267
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NET HD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NETHD.png" group-title="LOKAL",(ID) NET HD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NET HD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NETHD.png" group-title="KALKID LOKAL",(ID) NET HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4266
-#EXTINF:-1 tvg-id="" tvg-name="(ID) AL QURAN AL KAREM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ALQURANALKAREM.png" group-title="LOKAL",(ID) AL QURAN AL KAREM
+#EXTINF:-1 tvg-id="" tvg-name="(ID) AL QURAN AL KAREM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ALQURANALKAREM.png" group-title="KALKID LOKAL",(ID) AL QURAN AL KAREM
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4263
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCCHANNEL.png" group-title="LOKAL",(ID) MNC CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCCHANNEL.png" group-title="KALKID LOKAL",(ID) MNC CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4257
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NEWS ASIA CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NEWSASIACHANNEL.png" group-title="LOKAL",(ID) NEWS ASIA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NEWS ASIA CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NEWSASIACHANNEL.png" group-title="KALKID LOKAL",(ID) NEWS ASIA CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4256
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FRANCE24" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FRANCE24.png" group-title="LOKAL",(ID) FRANCE24
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FRANCE24" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FRANCE24.png" group-title="KALKID LOKAL",(ID) FRANCE24
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4245
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DAAITV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DAAITV.png" group-title="LOKAL",(ID) DAAITV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DAAITV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DAAITV.png" group-title="KALKID LOKAL",(ID) DAAITV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4283
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TAWAFTV" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/TAWAFTV.png" group-title="LOKAL",(ID) TAWAFTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TAWAFTV" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/TAWAFTV.png" group-title="KALKID LOKAL",(ID) TAWAFTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/86499
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE NEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEENEWS.png" group-title="LOKAL",(ID) ZEE NEWS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE NEWS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEENEWS.png" group-title="KALKID LOKAL",(ID) ZEE NEWS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4261
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NHK WORLD PREMIUM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NHKWORLDPREMIUM.png" group-title="LOKAL",(ID) NHK WORLD PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NHK WORLD PREMIUM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NHKWORLDPREMIUM.png" group-title="KALKID LOKAL",(ID) NHK WORLD PREMIUM
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4286
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ARIRANG KOREA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ARIRANGKOREA.png" group-title="ENTERTAINMENT",(ID) ARIRANG KOREA
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ARIRANG KOREA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ARIRANGKOREA.png" group-title="KALKID ENTERTAINMENT",(ID) ARIRANG KOREA
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4291
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ASIAN FOOD CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ASIANFOODCHANNEL.png" group-title="ENTERTAINMENT",(ID) ASIAN FOOD CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ASIAN FOOD CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ASIANFOODCHANNEL.png" group-title="KALKID ENTERTAINMENT",(ID) ASIAN FOOD CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4290
-#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFETIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFETIME.png" group-title="ENTERTAINMENT",(ID) LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFETIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFETIME.png" group-title="KALKID ENTERTAINMENT",(ID) LIFETIME
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4282
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEETV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEETV.png" group-title="ENTERTAINMENT",(ID) ZEETV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEETV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEETV.png" group-title="KALKID ENTERTAINMENT",(ID) ZEETV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4281
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC ENTERTAINMENT" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCENTERTAINMENT.png" group-title="ENTERTAINMENT",(ID) MNC ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC KALKID ENTERTAINMENT" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCKALKID ENTERTAINMENT.png" group-title="KALKID ENTERTAINMENT",(ID) MNC KALKID ENTERTAINMENT
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4310
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CNBC" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CNBC.png" group-title="ENTERTAINMENT",(ID) CNBC
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CNBC" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CNBC.png" group-title="KALKID ENTERTAINMENT",(ID) CNBC
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4280
-#EXTINF:-1 tvg-id="" tvg-name="(ID) EWTN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/EWTN.png" group-title="ENTERTAINMENT",(ID) EWTN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) EWTN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/EWTN.png" group-title="KALKID ENTERTAINMENT",(ID) EWTN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4279
-#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFE.png" group-title="ENTERTAINMENT",(ID) LIFE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFE.png" group-title="KALKID ENTERTAINMENT",(ID) LIFE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4278
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFESTYLE FASHION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFESTYLEFASHION.png" group-title="INFOTAINMENT",(ID) LIFESTYLE FASHION
+#EXTINF:-1 tvg-id="" tvg-name="(ID) LIFESTYLE FASHION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/LIFESTYLEFASHION.png" group-title="KALKID INFOTAINMENT",(ID) LIFESTYLE FASHION
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4304
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC MUSLIM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCMUSLIM.png" group-title="INFOTAINMENT",(ID) MNC MUSLIM
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC MUSLIM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCMUSLIM.png" group-title="KALKID INFOTAINMENT",(ID) MNC MUSLIM
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4303
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC SHOP SMART" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCSHOPSMART.png" group-title="INFOTAINMENT",(ID) MNC SHOP SMART
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC SHOP SMART" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCSHOPSMART.png" group-title="KALKID INFOTAINMENT",(ID) MNC SHOP SMART
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4301
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TV5 MONDE ASIE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TV5MONDEASIE.png" group-title="INFOTAINMENT",(ID) TV5 MONDE ASIE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TV5 MONDE ASIE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TV5MONDEASIE.png" group-title="KALKID INFOTAINMENT",(ID) TV5 MONDE ASIE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4249
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY JUNIOR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYJUNIOR.png" group-title="KIDS",(ID) DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY JUNIOR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYJUNIOR.png" group-title="KALKID KIDS",(ID) DISNEY JUNIOR
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4270
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NICK" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NICK.png" group-title="KIDS",(ID) NICK
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NICK" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NICK.png" group-title="KALKID KIDS",(ID) NICK
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4268
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MIAOMI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MIAOMI.png" group-title="KIDS",(ID) MIAOMI
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MIAOMI" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MIAOMI.png" group-title="KALKID KIDS",(ID) MIAOMI
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4255
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NICKJR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NICKJR.png" group-title="KIDS",(ID) NICKJR
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NICKJR" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NICKJR.png" group-title="KALKID KIDS",(ID) NICKJR
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4254
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BESMART" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BESMART.png" group-title="KIDS",(ID) BESMART
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BESMART" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BESMART.png" group-title="KALKID KIDS",(ID) BESMART
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4252
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYCHANNEL.png" group-title="KIDS",(ID) DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYCHANNEL.png" group-title="KALKID KIDS",(ID) DISNEY CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4209
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY XD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYXD.png" group-title="KIDS",(ID) DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DISNEY XD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISNEYXD.png" group-title="KALKID KIDS",(ID) DISNEY XD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4208
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BABYTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BABYTV.png" group-title="KIDS",(ID) BABYTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BABYTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BABYTV.png" group-title="KALKID KIDS",(ID) BABYTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4191
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CARTOON NETWORK" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CARTOONNETWORK.png" group-title="KIDS",(ID) CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CARTOON NETWORK" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CARTOONNETWORK.png" group-title="KALKID KIDS",(ID) CARTOON NETWORK
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4206
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BOOMERANG" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BOOMERANG.png" group-title="KIDS",(ID) BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BOOMERANG" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BOOMERANG.png" group-title="KALKID KIDS",(ID) BOOMERANG
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4205
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ANIMAX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANIMAX.png" group-title="KIDS",(ID) ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ANIMAX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANIMAX.png" group-title="KALKID KIDS",(ID) ANIMAX
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4228
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) HISTORY" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HISTORY.png" group-title="DOCUMENTARY",(ID) HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="(ID) HISTORY" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HISTORY.png" group-title="KALKID DOCUMENTARY",(ID) HISTORY
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4243
-#EXTINF:-1 tvg-id="" tvg-name="(ID) HGTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HGTV.png" group-title="DOCUMENTARY",(ID) HGTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) HGTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HGTV.png" group-title="KALKID DOCUMENTARY",(ID) HGTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4237
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TLC" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TLC.png" group-title="DOCUMENTARY",(ID) TLC
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TLC" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TLC.png" group-title="KALKID DOCUMENTARY",(ID) TLC
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4230
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DW" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DW.png" group-title="DOCUMENTARY",(ID) DW
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DW" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DW.png" group-title="KALKID DOCUMENTARY",(ID) DW
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4198
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO PEOPLE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEOPEOPLE.png" group-title="DOCUMENTARY",(ID) NAT GEO PEOPLE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO PEOPLE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEOPEOPLE.png" group-title="KALKID DOCUMENTARY",(ID) NAT GEO PEOPLE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4238
-#EXTINF:-1 tvg-id="" tvg-name="(ID) DISCOVERY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISCOVERYCHANNEL.png" group-title="DOCUMENTARY",(ID) DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) DISCOVERY CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/DISCOVERYCHANNEL.png" group-title="KALKID DOCUMENTARY",(ID) DISCOVERY CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4219
-#EXTINF:-1 tvg-id="" tvg-name="(ID) SCM LEGEND" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCMLEGEND.png" group-title="DOCUMENTARY",(ID) SCM LEGEND
+#EXTINF:-1 tvg-id="" tvg-name="(ID) SCM LEGEND" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCMLEGEND.png" group-title="KALKID DOCUMENTARY",(ID) SCM LEGEND
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4196
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO WILD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEOWILD.png" group-title="DOCUMENTARY",(ID) NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO WILD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEOWILD.png" group-title="KALKID DOCUMENTARY",(ID) NAT GEO WILD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4223
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TRT WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRTWORLD.png" group-title="DOCUMENTARY",(ID) TRT WORLD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TRT WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TRTWORLD.png" group-title="KALKID DOCUMENTARY",(ID) TRT WORLD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4220
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ANIMAL PLANET" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANIMALPLANET.png" group-title="DOCUMENTARY",(ID) ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ANIMAL PLANET" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANIMALPLANET.png" group-title="KALKID DOCUMENTARY",(ID) ANIMAL PLANET
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4210
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NHK WORLD JAPAN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NHKWORLDJAPAN.png" group-title="DOCUMENTARY",(ID) NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NHK WORLD JAPAN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NHKWORLDJAPAN.png" group-title="KALKID DOCUMENTARY",(ID) NHK WORLD JAPAN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4295
-#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEO.png" group-title="DOCUMENTARY",(ID) NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="(ID) NAT GEO" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/NATGEO.png" group-title="KALKID DOCUMENTARY",(ID) NAT GEO
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4195
-#EXTINF:-1 tvg-id="" tvg-name="(ID) Waku Waku Japan" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/WakuWakuJapan.png" group-title="DOCUMENTARY",(ID) Waku Waku Japan
+#EXTINF:-1 tvg-id="" tvg-name="(ID) Waku Waku Japan" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/WakuWakuJapan.png" group-title="KALKID DOCUMENTARY",(ID) Waku Waku Japan
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4232
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) KIX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/KIX.png" group-title="MOVIES",(ID) KIX
+#EXTINF:-1 tvg-id="" tvg-name="(ID) KIX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/KIX.png" group-title="KALKID MOVIES",(ID) KIX
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4289
-#EXTINF:-1 tvg-id="" tvg-name="(ID) SONY ONE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SONYONE.png" group-title="MOVIES",(ID) SONY ONE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) SONY ONE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SONYONE.png" group-title="KALKID MOVIES",(ID) SONY ONE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4227
-#EXTINF:-1 tvg-id="" tvg-name="(ID) WARNERTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/WARNERTV.png" group-title="MOVIES",(ID) WARNERTV
+#EXTINF:-1 tvg-id="" tvg-name="(ID) WARNERTV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/WARNERTV.png" group-title="KALKID MOVIES",(ID) WARNERTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4207
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ZING" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZING.png" group-title="MOVIES",(ID) ZING
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ZING" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZING.png" group-title="KALKID MOVIES",(ID) ZING
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4277
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TVN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVN.png" group-title="MOVIES",(ID) TVN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TVN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVN.png" group-title="KALKID MOVIES",(ID) TVN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4213
-#EXTINF:-1 tvg-id="" tvg-name="(ID) TVN MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVNMOVIES.png" group-title="MOVIES",(ID) TVN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="(ID) TVN KALKID MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/TVNKALKID MOVIES.png" group-title="KALKID MOVIES",(ID) TVN KALKID MOVIES
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4212
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE CINEMA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEECINEMA.png" group-title="MOVIES",(ID) ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE CINEMA" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEECINEMA.png" group-title="KALKID MOVIES",(ID) ZEE CINEMA
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4269
-#EXTINF:-1 tvg-id="" tvg-name="(ID) &TVHD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/%26TVHD.png" group-title="MOVIES",(ID) &TVHD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) &TVHD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/%26TVHD.png" group-title="KALKID MOVIES",(ID) &TVHD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4216
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FMN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FMN.png" group-title="MOVIES",(ID) FMN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FMN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FMN.png" group-title="KALKID MOVIES",(ID) FMN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4275
-#EXTINF:-1 tvg-id="" tvg-name="(ID) AXN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANTV.png" group-title="MOVIES",(ID) AXN
+#EXTINF:-1 tvg-id="" tvg-name="(ID) AXN" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ANTV.png" group-title="KALKID MOVIES",(ID) AXN
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4231
-#EXTINF:-1 tvg-id="" tvg-name="(ID) HITS MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HITSMOVIES.png" group-title="MOVIES",(ID) HITS MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="(ID) HITS KALKID MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HITSKALKID MOVIES.png" group-title="KALKID MOVIES",(ID) HITS KALKID MOVIES
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4214
-#EXTINF:-1 tvg-id="" tvg-name="(ID) THRILL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/THRILL.png" group-title="MOVIES",(ID) THRILL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) THRILL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/THRILL.png" group-title="KALKID MOVIES",(ID) THRILL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4321
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CRIME INVESTIGATION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CRIMEINVESTIGATION.png" group-title="MOVIES",(ID) CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CRIME INVESTIGATION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CRIMEINVESTIGATION.png" group-title="KALKID MOVIES",(ID) CRIME INVESTIGATION
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4260
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CCM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CCM.png" group-title="MOVIES",(ID) CCM
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CCM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CCM.png" group-title="KALKID MOVIES",(ID) CCM
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4296
-#EXTINF:-1 tvg-id="" tvg-name="(ID) HITS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HITS.png" group-title="MOVIES",(ID) HITS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) HITS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HITS.png" group-title="KALKID MOVIES",(ID) HITS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4236
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CELESTIAL MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CELESTIALMOVIES.png" group-title="MOVIES",(ID) CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CELESTIAL KALKID MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CELESTIALKALKID MOVIES.png" group-title="KALKID MOVIES",(ID) CELESTIAL KALKID MOVIES
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4292
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CINEMA WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CINEMAWORLD.png" group-title="MOVIES",(ID) CINEMA WORLD
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CINEMA WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CINEMAWORLD.png" group-title="KALKID MOVIES",(ID) CINEMA WORLD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4229
-#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE BIOSKOP" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEEBIOSKOP.png" group-title="MOVIES",(ID) ZEE BIOSKOP
+#EXTINF:-1 tvg-id="" tvg-name="(ID) ZEE BIOSKOP" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEEBIOSKOP.png" group-title="KALKID MOVIES",(ID) ZEE BIOSKOP
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4298
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXLIFE.png" group-title="MOVIES",(ID) FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXLIFE.png" group-title="KALKID MOVIES",(ID) FOX LIFE
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4226
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOX.png" group-title="MOVIES",(ID) FOX
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOX.png" group-title="KALKID MOVIES",(ID) FOX
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4224
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIES.png" group-title="MOVIES",(ID) FOX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX KALKID MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXKALKID MOVIES.png" group-title="KALKID MOVIES",(ID) FOX KALKID MOVIES
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4218
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX CRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXCRIME.png" group-title="MOVIES",(ID) FOX CRIME
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX CRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXCRIME.png" group-title="KALKID MOVIES",(ID) FOX CRIME
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4217
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX FAMILY MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXFAMILYMOVIES.png" group-title="MOVIES",(ID) FOX FAMILY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX FAMILY KALKID MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXFAMILYKALKID MOVIES.png" group-title="KALKID MOVIES",(ID) FOX FAMILY KALKID MOVIES
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4215
-#EXTINF:-1 tvg-id="" tvg-name="(ID) CINEMAX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CINEMAX.png" group-title="MOVIES",(ID) CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="(ID) CINEMAX" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/CINEMAX.png" group-title="KALKID MOVIES",(ID) CINEMAX
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4211
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX MOVIES ACTION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIESACTION.png" group-title="MOVIES",(ID) FOX MOVIES ACTION
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX KALKID MOVIES ACTION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXKALKID MOVIESACTION.png" group-title="KALKID MOVIES",(ID) FOX KALKID MOVIES ACTION
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4197
-#EXTINF:-1 tvg-id="" tvg-name="(ID) SCM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCM.png" group-title="MOVIES",(ID) SCM
+#EXTINF:-1 tvg-id="" tvg-name="(ID) SCM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCM.png" group-title="KALKID MOVIES",(ID) SCM
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4233
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BEIN SPORTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BEINSPORTS1.png" group-title="SPORTS",(ID) BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BEIN KALKID SPORTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BEINKALKID SPORTS1.png" group-title="KALKID SPORTS",(ID) BEIN KALKID SPORTS 1
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4242
-#EXTINF:-1 tvg-id="" tvg-name="(ID) BEIN SPORTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BEINSPORTS2.png" group-title="SPORTS",(ID) BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="(ID) BEIN KALKID SPORTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/BEINKALKID SPORTS2.png" group-title="KALKID SPORTS",(ID) BEIN KALKID SPORTS 2
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4221
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX SPORTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXSPORTS1.png" group-title="SPORTS",(ID) FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX KALKID SPORTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXKALKID SPORTS1.png" group-title="KALKID SPORTS",(ID) FOX KALKID SPORTS 1
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4235
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX SPORTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXSPORTS2.png" group-title="SPORTS",(ID) FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX KALKID SPORTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXKALKID SPORTS2.png" group-title="KALKID SPORTS",(ID) FOX KALKID SPORTS 2
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4222
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX SPORTS 3" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXSPORTS3.png" group-title="SPORTS",(ID) FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FOX KALKID SPORTS 3" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXKALKID SPORTS3.png" group-title="KALKID SPORTS",(ID) FOX KALKID SPORTS 3
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4241
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC SPORTS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCSPORTS.png" group-title="SPORTS",(ID) MNC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC KALKID SPORTS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCKALKID SPORTS.png" group-title="KALKID SPORTS",(ID) MNC KALKID SPORTS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4299
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC SPORTS2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCSPORTS2.png" group-title="SPORTS",(ID) MNC SPORTS2
+#EXTINF:-1 tvg-id="" tvg-name="(ID) MNC KALKID SPORTS2" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MNCKALKID SPORTS2.png" group-title="KALKID SPORTS",(ID) MNC KALKID SPORTS2
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4300
-#EXTINF:-1 tvg-id="" tvg-name="(ID) FIGHT SPORTS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FIGHTSPORTS.png" group-title="SPORTS",(ID) FIGHT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="(ID) FIGHT KALKID SPORTS" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FIGHTKALKID SPORTS.png" group-title="KALKID SPORTS",(ID) FIGHT KALKID SPORTS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4193
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) CANAL+ FORMULE1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/logo2/CANALplusLIGUE1HD.png" group-title="SPORTS",(FR-HD) CANAL+ FORMULE1 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) CANAL+ FORMULE1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/logo2/CANALplusLIGUE1HD.png" group-title="KALKID SPORTS",(FR-HD) CANAL+ FORMULE1 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/138277
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) CANAL+ MOTOGP HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/logo2/CANALplusLIGUE1HD.png" group-title="SPORTS",(FR-HD) CANAL+ MOTOGP HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) CANAL+ MOTOGP HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/logo2/CANALplusLIGUE1HD.png" group-title="KALKID SPORTS",(FR-HD) CANAL+ MOTOGP HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/138276
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="(FR-HD) BEIN SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT1HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT 1 HD
+#EXTINF:-1 tvg-id="beinKALKID SPORTS1.fr" tvg-name="(FR-HD) BEIN SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT1HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT 1 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12605
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="(FR-HD) BEIN SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT2HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT 2 HD
+#EXTINF:-1 tvg-id="beinKALKID SPORTS2.fr" tvg-name="(FR-HD) BEIN SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT2HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT 2 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12604
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="(FR-HD) BEIN SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT3HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="beinKALKID SPORTS3.fr" tvg-name="(FR-HD) BEIN SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT3HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT 3 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12603
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX4HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 4 HD
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX4HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 4 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12602
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX5HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 5 HD
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX5HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 5 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12601
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX6HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 6 HD
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX6HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 6 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12600
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX7HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 7 HD
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX7HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 7 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12599
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX8HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 8 HD
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX8HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 8 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12598
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX9HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 9 HD
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX9HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 9 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12597
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX10HD.png" group-title="SPORTS",(FR-HD) BEIN SPORT MAX 10 HD
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX10HD.png" group-title="KALKID SPORTS",(FR-HD) BEIN SPORT MAX 10 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12596
-#EXTINF:-1 tvg-id="multisports1.fr" tvg-name="(FR-HD) MULTI SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS1.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 1
+#EXTINF:-1 tvg-id="multiKALKID SPORTS1.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS1.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 1
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12577
-#EXTINF:-1 tvg-id="multisports2.fr" tvg-name="(FR-HD) MULTI SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS2.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 2
+#EXTINF:-1 tvg-id="multiKALKID SPORTS2.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS2.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 2
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12576
-#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="(FR-HD) MULTI SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS3.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 3
+#EXTINF:-1 tvg-id="multiKALKID SPORTS3.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS3.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 3
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12575
-#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="(FR-HD) MULTI SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS4.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 4
+#EXTINF:-1 tvg-id="multiKALKID SPORTS4.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS4.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 4
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12574
-#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="(FR-HD) MULTI SPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS5.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 5
+#EXTINF:-1 tvg-id="multiKALKID SPORTS5.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS5.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 5
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12573
-#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="(FR-HD) MULTI SPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS6.png" group-title="SPORTS",(FR-HD) MULTI SPORTS 6
+#EXTINF:-1 tvg-id="multiKALKID SPORTS6.fr" tvg-name="(FR-HD) MULTI KALKID SPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTIKALKID SPORTS6.png" group-title="KALKID SPORTS",(FR-HD) MULTI KALKID SPORTS 6
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12572
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="(FR-HD) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT1HD.png" group-title="SPORTS",(FR-HD) EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="(FR-HD) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT1HD.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 1 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12595
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="(FR-HD) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT2HD.png" group-title="SPORTS",(FR-HD) EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="(FR-HD) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT2HD.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 2 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12594
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 1 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139053
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 2 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139052
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 3 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139051
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 4 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139050
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 5 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139049
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 6 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139048
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 7 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139047
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="SPORTS",(FR-HD) EUROSPORT 360 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) EUROSPORT 360 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/EUROSPORT360.png" group-title="KALKID SPORTS",(FR-HD) EUROSPORT 360 8 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/139046
-#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="(FR-HD) RMC SPORT NEWS" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTNEWS.png" group-title="SPORTS",(FR-HD) RMC SPORT NEWS
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="(FR-HD) RMC SPORT NEWS" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTNEWS.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT NEWS
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12593
-#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="(FR-HD) RMC SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT1HD.png" group-title="SPORTS",(FR-HD) RMC SPORT 1 HD
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="(FR-HD) RMC SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT1HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT 1 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12592
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="(FR-HD) RMC SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT2HD.png" group-title="SPORTS",(FR-HD) RMC SPORT 2 HD
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="(FR-HD) RMC SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT2HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT 2 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12591
-#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="(FR-HD) RMC SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT3HD.png" group-title="SPORTS",(FR-HD) RMC SPORT 3 HD
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="(FR-HD) RMC SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT3HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT 3 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12590
-#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="(FR-HD) RMC SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT4HD.png" group-title="SPORTS",(FR-HD) RMC SPORT 4 HD
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="(FR-HD) RMC SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT4HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT 4 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12589
-#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="(FR-HD) RMC SPORT LIVE 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE5HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="(FR-HD) RMC SPORT LIVE 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE5HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 5 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12588
-#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="(FR-HD) RMC SPORT LIVE 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE6HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 6 HD
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="(FR-HD) RMC SPORT LIVE 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE6HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 6 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12587
-#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="(FR-HD) RMC SPORT LIVE 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE7HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 7 HD
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="(FR-HD) RMC SPORT LIVE 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE7HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 7 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12586
-#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="(FR-HD) RMC SPORT LIVE 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE8HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 8 HD
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="(FR-HD) RMC SPORT LIVE 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE8HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 8 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12585
-#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="(FR-HD) RMC SPORT LIVE 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE9.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 9 HD
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="(FR-HD) RMC SPORT LIVE 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE9.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 9 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12584
-#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="(FR-HD) RMC SPORT LIVE 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE10HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 10 HD
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="(FR-HD) RMC SPORT LIVE 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE10HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 10 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12583
-#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="(FR-HD) RMC SPORT LIVE 11 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE11HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 11 HD
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="(FR-HD) RMC SPORT LIVE 11 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE11HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 11 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12582
-#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="(FR-HD) RMC SPORT LIVE 12 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE12HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 12 HD
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="(FR-HD) RMC SPORT LIVE 12 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE12HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 12 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12581
-#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="(FR-HD) RMC SPORT LIVE 13 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE13HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 13 HD
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="(FR-HD) RMC SPORT LIVE 13 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE13HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 13 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12580
-#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="(FR-HD) RMC SPORT LIVE 14 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE14HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 14 HD
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="(FR-HD) RMC SPORT LIVE 14 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE14HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 14 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12579
-#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="(FR-HD) RMC SPORT LIVE 15 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE15HD.png" group-title="SPORTS",(FR-HD) RMC SPORT LIVE 15 HD
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="(FR-HD) RMC SPORT LIVE 15 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE15HD.png" group-title="KALKID SPORTS",(FR-HD) RMC SPORT LIVE 15 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12578
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) OLTV" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/OLTV.png" group-title="SPORTS",(FR-HD) OLTV
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) OLTV" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/OLTV.png" group-title="KALKID SPORTS",(FR-HD) OLTV
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/67605
-#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="(FR-HD) FOOT+ 24 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FOOT24HD.png" group-title="SPORTS",(FR-HD) FOOT+ 24 HD
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="(FR-HD) FOOT+ 24 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FOOT24HD.png" group-title="KALKID SPORTS",(FR-HD) FOOT+ 24 HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12571
-#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="(FR-HD) INFO SPORT  HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/INFOSPORTHD.png" group-title="SPORTS",(FR-HD) INFO SPORT  HD
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="(FR-HD) INFO SPORT  HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/INFOSPORTHD.png" group-title="KALKID SPORTS",(FR-HD) INFO SPORT  HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12570
-#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="(FR-HD) EQUIDIA LIVE HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EQUIDIALIVEHD.png" group-title="SPORTS",(FR-HD) EQUIDIA LIVE HD
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="(FR-HD) EQUIDIA LIVE HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EQUIDIALIVEHD.png" group-title="KALKID SPORTS",(FR-HD) EQUIDIA LIVE HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12569
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="(FR-HD) GOLF+ HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GOLFCHANNEL.png" group-title="SPORTS",(FR-HD) GOLF+ HD
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="(FR-HD) GOLF+ HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GOLFCHANNEL.png" group-title="KALKID SPORTS",(FR-HD) GOLF+ HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12568
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) MOTORSPORT TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MOTORSPORTTVHD.png" group-title="SPORTS",(FR-HD) MOTORSPORT TV HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) MOTORSPORT TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MOTORSPORTTVHD.png" group-title="KALKID SPORTS",(FR-HD) MOTORSPORT TV HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12567
-#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) AUTO MOTO HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/AUTOMOTOHD.png" group-title="SPORTS",(FR-HD) AUTO MOTO HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) AUTO MOTO HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/AUTOMOTOHD.png" group-title="KALKID SPORTS",(FR-HD) AUTO MOTO HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12566
-#EXTINF:-1 tvg-id="" tvg-name="### (FR-SD) SPORT ###" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FRANCEFLAG.png" group-title="SPORTS",### (FR-SD) SPORT ###
+#EXTINF:-1 tvg-id="" tvg-name="### (FR-SD) SPORT ###" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FRANCEFLAG.png" group-title="KALKID SPORTS",### (FR-SD) SPORT ###
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12529
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(ID) V CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/VCHANNEL.png" group-title="MUSIC",(ID) V CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) V CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/VCHANNEL.png" group-title="KALKID MUSIC",(ID) V CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4192
-#EXTINF:-1 tvg-id="" tvg-name="(ID) MUSIC CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/MUSICCHANNEL.png" group-title="MUSIC",(ID) MUSIC CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="(ID) KALKID MUSIC CHANNEL" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/KALKID MUSICCHANNEL.png" group-title="KALKID MUSIC",(ID) KALKID MUSIC CHANNEL
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/4311
-#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) MTV HITS HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MTVHITSHD.png" group-title="MUSIC",(FR-SD) MTV HITS HD
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) MTV HITS HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MTVHITSHD.png" group-title="KALKID MUSIC",(FR-SD) MTV HITS HD
 http://line.crystalott.net:80/qqhyXttONNZFXB9/fhAiEJvjkVbu5FO/12988
-
 
 
 
