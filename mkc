@@ -1575,6 +1575,29 @@ http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Europa Plus hit TV
+http://spacetv.in/stream/J8GYFKLUXA/184.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Inrating HD
+http://spacetv.in/stream/J8GYFKLUXA/147.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",MTV Rocks
+http://spacetv.in/stream/J8GYFKLUXA/88.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VH1 Classic
+http://spacetv.in/stream/J8GYFKLUXA/87.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VH1 Europe
+http://spacetv.in/stream/J8GYFKLUXA/165.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Mezzo Live HD
+http://spacetv.in/stream/J8GYFKLUXA/276.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Bridge TV Deluxe HD
+http://spacetv.in/stream/J8GYFKLUXA/92.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/361a180c81de3cdded1704758ec2fb1e.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Bridge TV Classic
+http://spacetv.in/stream/J8GYFKLUXA/272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Music",1HD Music Television
@@ -2091,5 +2114,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон-TB" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.shanson.tv/image/logo_160120.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Шансон-ТВ (576p)
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+
 
 
