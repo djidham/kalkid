@@ -1356,7 +1356,14 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
 
 
-
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD
+http://starshare.live:8080/live/120120/120120/5480.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD
+http://starshare.live:8080/live/120120/120120/5481.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD
+http://starshare.live:8080/live/120120/120120/5482.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/120120/120120/5483.ts
 
 
 
