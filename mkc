@@ -17,7 +17,7 @@ https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA",MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
+https://liveanevia.mncnow.id/live/eds/MNCTV2/sa_dash_vmx/MNCTV2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV
@@ -55,7 +55,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="NET.TV HD" tvg-name="NET.TV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV2/sa_dash_vmx/NetTV2.mpd
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
