@@ -2225,6 +2225,7 @@ http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="net" tvg-name="NetTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="TV INDONESIA",NET TV (OTTO TEVE)
+https://liveanevia.mncnow.id/live/eds/NetTV2/sa_dash_vmx/NetTV2.mpd
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
