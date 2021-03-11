@@ -247,10 +247,10 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1866765179.m3u8
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TV MOVIE" ,TV MOVIE KINGDOM
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-id="FXM.Asia" tvg-logo="https://www.foxTV MOVIEsasia.com/images/fm.png" ,FOX TV MOVIEs Asia
-https://livecdn.fptplay.net/foxlive/foxTV MOVIEshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-id="FFM.Asia" tvg-logo="https://foxfamilyTV MOVIEs.foxTV MOVIEsasia.com/images/ffm.png" ,Fox Family TV MOVIEs Asia
-https://livecdn.fptplay.net/hda/foxfamilyTV MOVIEs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TV MOVIE" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" ,FOX Movies Asia
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TV MOVIE" tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxTV MOVIEsasia.com/images/ffm.png" ,Fox Family Movies Asia
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TV MOVIE" tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" ,HBO Family HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="TV MOVIE" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO HD
@@ -263,27 +263,27 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="TV MOVIE" tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" ,HBO Signature HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-TV MOVIEs.png" ,Fox Action TV MOVIEs
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-movies.png" ,Fox Action Movies
 http://163.172.218.77:8080/Line1051/f4fffd47/197971?token=ShUNAEFcElxEAANcDF1RV1RTUARWU1QOAwRXUQJTUFMJUVVZV1UDVwAaGEZKTREDAFhpWAUVDwgPBlpVBk5DFkJSFz5bUBJcRA4NVAoNQUpDQV9cBBUPCAAAUVsCUVhXBRtHEVtQElxECgdQDgtBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1AVGRtfQhNADQwUD10bRwNbQEIHEl0WXldMDwpNF1VeFFlBS08TWUB5LkNPE1IdFVdaQw8JVhZeG00QRE0XX0I+RVBKQkMGA1oHE0ELFVVDHhZdBx5nVwtXVwYFFVxZXxIVDxsEE09AWg0PCkVYFz5CXVREXBoGVw0KW0Qc
 #EXTINF:0 group-title="TV MOVIE" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_(logo).jpg" ,Red By HBO
 http://185.238.0.145:1313/c/g/RED-SD.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hits-TV MOVIEs.png" ,TV MOVIE HITS
-http://185.238.0.145:1313/c/ku/hitsTV MOVIEs.m3u8
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hits-movies.png" ,Movie HITS
+http://185.238.0.145:1313/c/ku/hitsmovies.m3u8
 #EXTINF:-1 group-title="TV MOVIE" ,HI INDO
 http://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 #EXTINF:-1 group-title="TV MOVIE" tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" ,Cinemax BACK
 http://fdtvapps.xyz/channel/cinemax.m3u8
 #EXTINF:-1 group-title="TV MOVIE" ,HBO Hits
 http://fdtvapps.xyz/channel/hbohits.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-TV MOVIEs.png" ,Fox Action TV MOVIEs 2
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-movies.png" ,Fox Action movies 2
 http://fikrulmkc.my.id/film/foxaction.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" ,Fox TV MOVIEs
-http://fikrulmkc.my.id/film/foxTV MOVIEs.m3u8
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" ,FOX Family TV MOVIE
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" ,Fox Movies
+http://fikrulmkc.my.id/film/foxmovies.m3u8
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" ,FOX Family
 http://iptvtree.net:8080/Line1051/f4fffd47/157570
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" ,Fox TV MOVIEs Back
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" ,Fox Movies Back
 http://iptvtree.net:8080/Line1051/f4fffd47/197970
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-TV MOVIEs.png" ,Fox Action TV MOVIEs Back
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-action-TV MOVIEs.png" ,Fox Action Back
 http://iptvtree.net:8080/Line1051/f4fffd47/197971
 #EXTINF:-1 group-title="TV MOVIE" tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" ,HBO Family
 http://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
@@ -293,7 +293,7 @@ https://cmt.mb13.cyou/uni/ku/see/c.MiBiFUN?a=5&b=11&c=2&d=SIG
 https://cmt.mb13.cyou/uni/ku/see/c.MiBiFUN?a=5&b=11&c=3&d=HITS
 #EXTINF:-1 group-title="TV MOVIE" tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" ,Cinemax
 https://cmt.mb13.cyou/uni/ku/see/c.MiBiFUN?a=6&b=13&c=2&d=MAX
-#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/drakor-plus.png" ,,DRAKORPLUS
+#EXTINF:-1 group-title="TV MOVIE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/drakor-plus.png" ,DRAKORPLUS
 https://cmt.mb13.cyou/uni/ku/see/ox.MiBiFUN?a=drakorplus
 #EXTINF:-1 group-title="TV MOVIE" tvg-id="tvg-name=" ,SINEMA INDONESIA X
 https://cmt.mb13.cyou/uni/ku/see/ox.MiBiFUN?a=sinemaindonesia-x
@@ -607,6 +607,7 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pv
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 group-title="TV OLAHRAGA" ,Racing.com (576p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+
 
 
 
