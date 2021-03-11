@@ -399,11 +399,11 @@ http://starrfm.rastream.com
 http://streaming.rri.co.id:9014/kbrn.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://img.freepik.com/free-vector/radio-logo_9850-254.jpg?size=626&ext=jpg" ,RRI FM
 http://streaming.rri.co.id:9125/web-voi.mp3
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" ,Muhammadiyah TV
+#EXTINF:-1 group-title="TV Religious" tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" ,Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" ,TV9 NU
+#EXTINF:-1 group-title="TV Religious" tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" ,TV9 NU
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" ,ajwa TV
+#EXTINF:-1 group-title="TV Religious" tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" ,ajwa TV
 https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0 
 #EXTINF:-1 group-title="TV OLAHRAGA" ,GOLF NETWORK
 http://203.162.235.41:16924
@@ -607,6 +607,7 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pv
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 group-title="TV OLAHRAGA" ,Racing.com (576p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+
 
 
 
