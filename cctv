@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",underpass
+http://atcs.banyumaskab.go.id/camera/underpass.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",margono
+http://atcs.banyumaskab.go.id/camera/margono.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",gor_satria
+http://atcs.banyumaskab.go.id/camera/gor_satria.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",gor_satria_barat
+http://atcs.banyumaskab.go.id/camera/gor_satria_barat.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",gor_satria_selatan
+http://atcs.banyumaskab.go.id/camera/gor_satria_selatan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kebon_dalem
+http://atcs.banyumaskab.go.id/camera/kebon_dalem.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kebon_dalem_barat
+http://atcs.banyumaskab.go.id/camera/kebon_dalem_barat.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sutosuman
+http://atcs.banyumaskab.go.id/camera/sutosuman.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kalibogor
+http://atcs.banyumaskab.go.id/camera/kalibogor.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",samsat
+http://atcs.banyumaskab.go.id/camera/samsat.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",karang_pucung
+http://atcs.banyumaskab.go.id/camera/karang_pucung.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",karang_bawang
+http://atcs.banyumaskab.go.id/camera/karang_bawang.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",karang_bawang selatan
+http://atcs.banyumaskab.go.id/camera/karang_bawang_selatan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",ruas_patriot
+http://atcs.banyumaskab.go.id/camera/patriot.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",pancurawis
+http://atcs.banyumaskab.go.id/camera/pancurawis.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",ruas_tugu_adipura
+http://atcs.banyumaskab.go.id/camera/ruas_tugu_adipura.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",tugu_adipura
+http://atcs.banyumaskab.go.id/camera/tugu_adipura.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",tanjung
+http://atcs.banyumaskab.go.id/camera/tanjung.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",tanjung_utara
+http://atcs.banyumaskab.go.id/camera/tanjung_utara.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",tanjung_barat
+http://atcs.banyumaskab.go.id/camera/tanjung_barat.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",alun_alun
+http://atcs.banyumaskab.go.id/camera/alun_alun.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",masjid
+http://atcs.banyumaskab.go.id/camera/masjid.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sangkal_putung
+http://atcs.banyumaskab.go.id/camera/sangkal_putung.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sokaraja_ptz_selatan
+http://atcs.banyumaskab.go.id/camera/sokaraja_ptz_selatan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sokaraja_selatan
+http://atcs.banyumaskab.go.id/camera/sokaraja_selatan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sokaraja_barat
+http://atcs.banyumaskab.go.id/camera/sokaraja_barat.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",andhang_pangrenan
+http://atcs.banyumaskab.go.id/camera/andhang_pangrenan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",situmpur
+http://atcs.banyumaskab.go.id/camera/situmpur.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",museum_bri
+http://atcs.banyumaskab.go.id/camera/museum_bri.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sawangan
+http://atcs.banyumaskab.go.id/camera/sawangan.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",karanglo
+http://atcs.banyumaskab.go.id/camera/karanglo.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kalibagor
+http://atcs.banyumaskab.go.id/camera/kalibagor.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",linggamas
+http://atcs.banyumaskab.go.id/camera/linggamas.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",ajibarang
+http://atcs.banyumaskab.go.id/camera/ajibarang.m3u8
+
+
+
+
+
