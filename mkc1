@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="INDONESIA",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar1.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="INDONESIA",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="INDONESIA",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar3.m3u8
-#EXTINF:0 tvg-id="ext"  tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="INDONESIA",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar4.m3u8
+
 
 
 
