@@ -1,8 +1,234 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="DP@MOVIES1" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD 
-http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd 
+#EXTM3U
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",NET TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Net Tv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Kompas Tv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",MNCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Metro Tv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Trans7
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Trans Tv
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Hip Hip Horee
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Tv Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Horee
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Berita Satu
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Jak TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE", Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Nat Geo Wild
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Nat Geo People
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",National Geographic
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",HISTORY HD
+https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",DISCOVERY
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE", TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Discovery Channel 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="DISCOVERY" tvg-telegra.ph/file/
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="DISCOVERY" tvg-telegra.ph/file/3b454ca25d6e366b02f24.png" - Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",ZEEBIOSKOP
+http://gumisasak.site/USEETV/master.m3u8?id=zbioskop
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",WAKU WAKU JAPAN
+http://gumisasak.site/USEETV/master.m3u8?id=wakuwaku
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",UseeSports 2
+http://gumisasak.site/USEETV/master.m3u8?id=useesports2
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",UseeSports 1
+http://gumisasak.site/USEETV/master.m3u8?id=useesports1
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",TVN Movies
+http://gumisasak.site/USEETV/master.m3u8?id=tvnmovies
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",THRILL
+http://gumisasak.site/USEETV/master.m3u8?id=thrill
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",SONY ONE
+http://gumisasak.site/USEETV/master.m3u8?id=sone
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Sony GEM HD
+http://gumisasak.site/USEETV/master.m3u8?id=sgem
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",NBA TV
+http://gumisasak.site/USEETV/master.m3u8?id=nba
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Lifetime
+http://gumisasak.site/USEETV/master.m3u8?id=lifetime
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",K+
+http://gumisasak.site/USEETV/master.m3u8?id=kplus
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KIX
+http://gumisasak.site/USEETV/master.m3u8?id=kix
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KBS World
+http://gumisasak.site/USEETV/master.m3u8?id=kbsworld
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",IMC
+http://gumisasak.site/USEETV/master.m3u8?id=imc
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Golf Channel
+http://gumisasak.site/USEETV/master.m3u8?id=golfplus
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Galaxy Premium
+http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Galaxy
+http://gumisasak.site/USEETV/master.m3u8?id=galaxy
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Flik
+http://gumisasak.site/USEETV/master.m3u8?id=flik
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",DUNIA LAIN
+http://gumisasak.site/USEETV/master.m3u8?id=dunialain
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Dunia Anak
+http://gumisasak.site/USEETV/master.m3u8?id=duniaanak
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",DUCK TV
+http://gumisasak.site/USEETV/master.m3u8?id=ducktv
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Dreamworks
+http://gumisasak.site/USEETV/master.m3u8?id=dreamworks
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",(DP) Cinema World
+http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Chinese Drama
+http://gumisasak.site/USEETV/master.m3u8?id=chinesedrama
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT EXTREME
+http://gumisasak.site/USEETV/master.m3u8?id=blueantextreme
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT ENTERTAINMENT
+http://gumisasak.site/USEETV/master.m3u8?id=blueant
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BIOSKOP INDONESIA
+http://gumisasak.site/USEETV/master.m3u8?id=bioskopindonesia
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",ANIPLUS
+http://gumisasak.site/USEETV/master.m3u8?id=aniplus
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Animax ID
+http://gumisasak.site/USEETV/master.m3u8?id=animax
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="Indonesia" tvg-logo="" - Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",TVN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KIX
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KBS WORLD
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kbsworld
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Dunia Anak
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Duck TV
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",CALESTIAL MOVIE
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",CN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cartoonnetwork
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT EXTREME
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",AXN
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Aniplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
+
+#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="Indonesia" tvg-logo="" - JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 
 
 
