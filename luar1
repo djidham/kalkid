@@ -1,4 +1,13 @@
 #EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="DP@MOVIES1" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD 
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd 
+
+
+
+
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" ,JTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF: group-title="TV DAERAH" tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" ,CTV BANTEN
