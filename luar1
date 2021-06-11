@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTM3U
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",NET TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
@@ -89,101 +88,95 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Discovery Channel 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
 
-#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="DISCOVERY" tvg-telegra.ph/file/
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
 
-#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="DISCOVERY" tvg-telegra.ph/file/3b454ca25d6e366b02f24.png" - Discovery Life
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",ZEEBIOSKOP
-http://gumisasak.site/USEETV/master.m3u8?id=zbioskop
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=zbioskop
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",WAKU WAKU JAPAN
-http://gumisasak.site/USEETV/master.m3u8?id=wakuwaku
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=wakuwaku
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",UseeSports 2
-http://gumisasak.site/USEETV/master.m3u8?id=useesports2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesports2
 
-#EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",UseeSports 1
-http://gumisasak.site/USEETV/master.m3u8?id=useesports1
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",TVN Movies
-http://gumisasak.site/USEETV/master.m3u8?id=tvnmovies
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",THRILL
-http://gumisasak.site/USEETV/master.m3u8?id=thrill
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",SONY ONE
-http://gumisasak.site/USEETV/master.m3u8?id=sone
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sone
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Sony GEM HD
-http://gumisasak.site/USEETV/master.m3u8?id=sgem
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",NBA TV
-http://gumisasak.site/USEETV/master.m3u8?id=nba
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=nba
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Lifetime
-http://gumisasak.site/USEETV/master.m3u8?id=lifetime
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",K+
-http://gumisasak.site/USEETV/master.m3u8?id=kplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kplus
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KIX
-http://gumisasak.site/USEETV/master.m3u8?id=kix
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",KBS World
-http://gumisasak.site/USEETV/master.m3u8?id=kbsworld
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kbsworld
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",IMC
-http://gumisasak.site/USEETV/master.m3u8?id=imc
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Golf Channel
-http://gumisasak.site/USEETV/master.m3u8?id=golfplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Galaxy Premium
-http://gumisasak.site/USEETV/master.m3u8?id=galaxypremium
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Galaxy
-http://gumisasak.site/USEETV/master.m3u8?id=galaxy
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Flik
-http://gumisasak.site/USEETV/master.m3u8?id=flik
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=flik
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",DUNIA LAIN
-http://gumisasak.site/USEETV/master.m3u8?id=dunialain
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Dunia Anak
-http://gumisasak.site/USEETV/master.m3u8?id=duniaanak
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",DUCK TV
-http://gumisasak.site/USEETV/master.m3u8?id=ducktv
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Dreamworks
-http://gumisasak.site/USEETV/master.m3u8?id=dreamworks
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dreamworks
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",(DP) Cinema World
-http://gumisasak.site/USEETV/master.m3u8?id=cinemaworld
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Chinese Drama
-http://gumisasak.site/USEETV/master.m3u8?id=chinesedrama
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=chinesedrama
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT EXTREME
-http://gumisasak.site/USEETV/master.m3u8?id=blueantextreme
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BLUE ANT ENTERTAINMENT
-http://gumisasak.site/USEETV/master.m3u8?id=blueant
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",BIOSKOP INDONESIA
-http://gumisasak.site/USEETV/master.m3u8?id=bioskopindonesia
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",ANIPLUS
-http://gumisasak.site/USEETV/master.m3u8?id=aniplus
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",Animax ID
-http://gumisasak.site/USEETV/master.m3u8?id=animax
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=animax
 
 #EXTINF:-1,tvg-logo="http://blog.ub.ac.id/hestirini/files/2013/10/usee-tv-logo.png" group-title="VIDIO&USEE",group-title="Indonesia" tvg-logo="" - Metro TV [Backup]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
