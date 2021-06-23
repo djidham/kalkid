@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="FTA",RCTI
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FTA",MNCTV
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="gtv.il" group-title="FTA",GTV
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FTA",iNEWS
-https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="FTA",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FTA",Magna TV
@@ -51,7 +51,7 @@ http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-id="-" tvg-name="BERITA SATU" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="USEE",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b846000.m3u8?token=regieaerlays.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="CNN INDONESIA 3" tvg-logo="http://images.useetv.com/logo_cnnINDONESIA 3_big1.png" group-title="USEE",CNN INDONESIA
-http://live.cnnINDONESIA 3.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="MNC iNews" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg" group-title="USEE",MNC iNews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="USEE",MNC TV
