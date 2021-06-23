@@ -223,32 +223,50 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="MOVIES",HBO
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO (Malay Sub)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0 tvg-id="HBOHits.in" group-title="MOVIES",HBO Hits
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="MOVIES",HBO Family
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="MOVIES",HBO Signature
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="MOVIES",Cinemax
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIES",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:0 tvg-id="TVN.pl" group-title="MOVIES",TVN
-https://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",(DP) BLACK MOVIE
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",FLIX
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",SONY PIX HD
+http://iptv.tvmalaysia.cc/932633/932633/8213
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",FLIK
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169673
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",IMC
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169669
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",ANIMAX
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",MCM
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",AXN FHD (VIE)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",WARNER TV ASIA (HD)
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",AXN ASIA HD
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",(DP)  THRILL
+http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",(DP)  FOX FAMILY HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",(DP)  FOX HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="natgeo" group-title="KNOWLEDGE",National Geographic
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
