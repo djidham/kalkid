@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="USEE",ANTV _DENS
-http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEE",TVONE _DENS
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="USEE",GLOBAL TV
@@ -156,6 +157,25 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #EXTINF:-1 tvg-id="kompastv" tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="MAXSTREAM",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
+
+#EXTINF:0 tvg-id="ext" group-title="Vidio",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1624442282~acl=/hls-b/ingest_204_*/*~hmac=bed03b367b1ff31f883d5fa0197c88949c32424162b2b68fe0c72bfa883fec8b/hls-b/ingest_204_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1624442329~acl=/hls-b/ingest_205_*/*~hmac=ef4603ab11dfa8cf7b6e147426dbd7fc6b68259b576ebb748e2382dfe6c04684/hls-b/ingest_205_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1624442414~acl=/hls-b/ingest_665_*/*~hmac=00177470bd39396ba20b662a8c48a405c6a590a3d54b5f8c6d164cbc414a4bdb/hls-b/ingest_665_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",MNCTV
+https://cdn-production-thumbor-vidio.akamaized.net/iCK1LEwF_Id8Zemlc84HDAzkywU=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/783/49b007.jpg
+#EXTINF:0 tvg-id="gtv.il" group-title="Vidio",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1624442416~acl=/hls-p/ingest_778_*/*~hmac=95ad44fafd8666c3d4d8d377adf791c1e9a075136c098644d1ac8e55aafbada3/hls-p/ingest_778_360p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",Transtv
+https://etslive-2-vidio-com.akamaized.net/exp=1624442417~acl=/hls-b/ingest_733_*/*~hmac=80af6f94a12fd0782a43ab24ecdb6f7ef3c3408b9e50570685f51e55fc64446f/hls-b/ingest_733_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",Trans7
+https://etslive-2-vidio-com.akamaized.net/exp=1624442418~acl=/hls-b/ingest_734_*/*~hmac=ee7a46e3a2178d0c8e365aa3d5f70847479189e79997a4c39a5839fea0a482c6/hls-b/ingest_734_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",iNews
+https://etslive-2-vidio-com.akamaized.net/exp=1624442126~acl=/hls-p/ingest_5409_*/*~hmac=a54bb844bddc9230556fe3afeb22cd1594c6de9520959c76de7286b10e7dc566/hls-p/ingest_5409_360p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Vidio",MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1624442420~acl=/hls-p/ingest_6711_*/*~hmac=90e25a1d7b0c591347538c06709721bd2045f9999ce173658cb3cc2257d3afb8/hls-p/ingest_6711_360p/index.m3u8
 #EXTINF:-1 tvg-logo= "https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="Vidio", Net TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
 
