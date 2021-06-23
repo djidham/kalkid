@@ -4,6 +4,20 @@
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEE",TVONE _DENS
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="USEE",GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="USEE",INDOSIAR
+http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="BERITA SATU" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="USEE",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b846000.m3u8?token=regieaerlays.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="CNN INDONESIA 3" tvg-logo="http://images.useetv.com/logo_cnnINDONESIA 3_big1.png" group-title="USEE",CNN INDONESIA
+http://live.cnnINDONESIA 3.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="MNC iNews" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg" group-title="USEE",MNC iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="USEE",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="-" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="USEE",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEE",Ruang Trampil _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-id="ext" group-title="USEE",Usee Photo _USEETV
