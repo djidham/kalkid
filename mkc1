@@ -1061,10 +1061,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="Knowledge",Smithsonian 
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=vidio-smithsonian.m3u8
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="Knowledge",Love Nature 
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=vidio-love-nature.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Knowledge",Bisnet Adventure 4K 
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1075,13 +1072,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1,VIDIO
 
 #EXTINF:0 tvg-id="ext" group-title="General Entertainment",Citra Bioskop 
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=vidio-citrabioskop.m3u8
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6684
 #EXTINF:0 tvg-id="ext" group-title="General Entertainment",Citra Entertainment 
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=vidio-citra-entertainment.m3u8
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6402
 #EXTINF:0 tvg-id="ext" group-title="General Entertainment",Citra Drama 
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=vidio-citradrama.m3u8
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6401
 
 
@@ -1439,56 +1433,11 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 
 #EXTINF:-1,ASTRO
 
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO TV-1
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-tv1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO TV-2
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-tv2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO TV-3
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-tv3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO NTV-7
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Rtmntv7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO TV-8
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-tv8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO TV-9
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-tv9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO AWANI
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Awani.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO BERNAMA
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Bernama.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO AEC
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247409
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO AOD
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-AodHD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO LITTLE SUN
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Xiaotaiyang.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO BINTANG
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Shuangxing.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Asia",iQiYi
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247425
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO CERIA
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Ceria.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO OASIS
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Oasis.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO CITRA
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Citra.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO BOO
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Boo.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO PRIMA
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Prima.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO NAURA
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Naura.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",ASTRO Oh!k
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-Ohk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",HONGKONG CHANEL
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-jade_twn.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",PEARL CHANEL
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-pearl_twn.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",J2 CHANEL
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-j2_twn.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",VIU TV
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-9ae6d37d9a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Asia",PHOENIX CHANNEL
-https://otto-aplikasi.xyz/tong/awas-pemulung.m3u8?channel=astro-phoenixtv_hd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Asia",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="Asia",Suria 
@@ -1590,32 +1539,15 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,SPORTS
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champion 1 
-https://otto-aplikasi.xyz/tong/awas-pemulung.php?channel=vidio-champ1.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6685
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champion 2 
-https://otto-aplikasi.xyz/tong/awas-pemulung.php?channel=vidio-champ2.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6686
-#EXTINF:0 tvg-id="ext" group-title="Sports",Champion 3 
-https://otto-aplikasi.xyz/tong/awas-pemulung.php?channel=vidio-champ3.m3u8
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6786
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",BeIN Sport 1 
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-https://otto-aplikasi.xyz/live/eds/fuck_you_ripper/mnc-BeIN1.mpd
 #EXTINF:0 tvg-id="ext" group-title="Sports",BeIN Sport 2 
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="ESPN.nl" group-title="Sports",Fox Sports 1 HD 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Sports",Fox Sports 2 HD 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sports",Fox Sports 3 HD 
-https://otto-aplikasi.xyz/live/eds/fuck_you_ripper/mnc-FoxSports3.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",MNC SPORT 
-https://otto-aplikasi.xyz/live/eds/fuck_you_ripper/mnc-MNCSports.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",SOCCER CHANNEL 
-https://otto-aplikasi.xyz/live/eds/fuck_you_ripper/mnc-SoccerChannel.mpd
-#EXTINF:0 tvg-id="ext" group-title="Sports",FIGHT SPORT 
-https://otto-aplikasi.xyz/live/eds/fuck_you_ripper/mnc-FightSports.mpd
 #EXTINF:0 tvg-id="ext" group-title="Sports",BT Sport 1 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
 #EXTINF:0 tvg-id="ext" group-title="Sports",BT Sport 2 
@@ -1633,16 +1565,7 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ASSP 4 
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="True Premier Sports⚽",True Premier 1 HD 
-https://otto-aplikasi.xyz/thailand/truepremier1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="True Premier Sports⚽",True Premier 2 HD 
-https://otto-aplikasi.xyz/thailand/truepremier2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="True Premier Sports⚽",True Premier 3 HD
-https://otto-aplikasi.xyz/thailand/truepremier3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="True Premier Sports⚽",True Premier 4 HD 
-https://otto-aplikasi.xyz/thailand/truepremier4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="True Premier Sports⚽",True Premier 5 HD 
-https://otto-aplikasi.xyz/thailand/truepremier5.m3u8
+
 
 
 
