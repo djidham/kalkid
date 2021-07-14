@@ -17,13 +17,14 @@ http://atcs.banyumaskab.go.id/camera/gor_satria_selatan.m3u8
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kebon_dalem
 http://atcs.banyumaskab.go.id/camera/kebon_dalem.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kebon_dalem_barat
-http://atcs.banyumaskab.go.id/camera/kebon_dalem_barat.m3u8
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sutosuman_barat
+http://atcs.banyumaskab.go.id/camera/sutosuman_barat.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sutosuman/kebon dalem timur
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sutosuman timur
 http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_timur.m3u8
-http://atcs.banyumaskab.go.id/camera/sutosuman.m3u8
 
+#EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sutosuman ptz
+http://atcs.banyumaskab.go.id:80/camera/sutosuman.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",kalibogor
 http://atcs.banyumaskab.go.id/camera/kalibogor.m3u8
@@ -74,7 +75,7 @@ http://atcs.banyumaskab.go.id:80/camera/ruas_tanjung.m3u8
 http://atcs.banyumaskab.go.id/camera/alun_alun.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",masjid
-http://atcs.banyumaskab.go.id/camera/masjid.m3u8
+http://atcs.banyumaskab.go.id/camera/jl_masjid.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",sangkal_putung
 http://atcs.banyumaskab.go.id/camera/sangkal_putung.m3u8
