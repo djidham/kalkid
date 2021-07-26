@@ -125,5 +125,4 @@ http://atcs.banyumaskab.go.id/camera/ajibarang.m3u8
 #EXTINF:0 tvg-id="avi" group-title="CCTV BMS" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",Karanglewas
 http://atcs.banyumaskab.go.id/camera/karang_lewas.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="Takbir" tvg-logo="http://atcs.banyumaskab.go.id/assets/img/dishub.png",Takbir 24/12
-https://linkastream.co/headless?url=https://youtu.be/MKt5OsRgLRw
+
